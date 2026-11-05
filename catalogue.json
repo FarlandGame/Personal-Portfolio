@@ -3,7 +3,7 @@
   "ordering": "Catalogue order; chronology unconfirmed.",
   "processing_authorized": "User-selected complete, resized/recompressed viewing copies. Originals retained privately.",
   "images": 140,
-  "videos": 11,
+  "videos": 12,
   "media": [
     {
       "collection": "personal",
@@ -24,7 +24,8 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-001.jpg",
       "published_bytes": 189234,
-      "published_sha256": "d253b4170f64b36ead9884c4290fbfc7f256ad3e4e5bc58218926ae30233b25d"
+      "published_sha256": "d253b4170f64b36ead9884c4290fbfc7f256ad3e4e5bc58218926ae30233b25d",
+      "related_video": "personal-video-12"
     },
     {
       "collection": "personal",
@@ -45,7 +46,8 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-002.jpg",
       "published_bytes": 105512,
-      "published_sha256": "087a4558dc778f67db5edbf6f4191c464d20d4efceb966185ce68d0bfbe21f59"
+      "published_sha256": "087a4558dc778f67db5edbf6f4191c464d20d4efceb966185ce68d0bfbe21f59",
+      "related_video": "personal-video-12"
     },
     {
       "collection": "personal",
@@ -66,7 +68,8 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-003.jpg",
       "published_bytes": 122510,
-      "published_sha256": "39e03c338b3cdcb62c507771c1f45ab7c914b49b1937822a0e6bca1b3047b630"
+      "published_sha256": "39e03c338b3cdcb62c507771c1f45ab7c914b49b1937822a0e6bca1b3047b630",
+      "related_video": "personal-video-12"
     },
     {
       "collection": "personal",
@@ -87,7 +90,8 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-004.jpg",
       "published_bytes": 107497,
-      "published_sha256": "d8354fa494e98b26b53ba8bf09a2593baa0efb291329d58dcab071087896d8e7"
+      "published_sha256": "d8354fa494e98b26b53ba8bf09a2593baa0efb291329d58dcab071087896d8e7",
+      "related_video": "personal-video-12"
     },
     {
       "collection": "personal",
@@ -3120,6 +3124,29 @@
       "published_path": "videos/personal-video-11.mp4",
       "published_bytes": 6946008,
       "published_sha256": "726d892d1a1000bed2e46f8e949ce9fd9d21f509eeda0a7856e42307ade8acf3"
+    },
+    {
+      "id": "personal-video-12",
+      "collection": "personal",
+      "source_name": "BardiyaKabir-Revision05-26s-1080p.mp4",
+      "bytes": 21917185,
+      "sha256": "ef985297e7992a8a692c0ecf2c6bbc42fc4c74aba6cc0cfe7dc8668e5ed00001",
+      "seconds": 26.0,
+      "type": "video",
+      "category": "portraits",
+      "published_path": "videos/personal-video-12.mp4",
+      "published_bytes": 11096101,
+      "published_sha256": "c3ea02f39a95c0cd668f1fb28d4a0e8c25186368af9a9634074570b1b301fec7",
+      "published_seconds": 26.01,
+      "poster": "images/personal-video-12.jpg",
+      "processing": "Complete-duration H.264/AAC viewing copy, fit within 1920×1080 without upscaling, CRF23, no intentional cuts.",
+      "associated_images": [
+        "personal-001",
+        "personal-002",
+        "personal-003",
+        "personal-004"
+      ],
+      "creator_context": "Film inspired by a scene from Better Call Saul and Saul Goodman; Photoshop and multiple AI video tools; approximately two weeks of work due to lack of camera and filming budget."
     }
   ],
   "existing_roblox": [
