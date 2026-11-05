@@ -329,6 +329,11 @@ As I remember it, two children from our neighbourhood damaged it the next day. I
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-031.jpg)
 
+These photographs are from the school-exam period in Dey 1404 in the Iranian calendar. I remember snow falling the day after the mathematics exam associated with photograph personal-027. That night I went outside our home and spent hours working hard to build this snowman, then took photographs of it.
+
+As I remember it, two children from our neighbourhood damaged it the next day. I was upset to see the result of so many hours of effort disappear. These pictures are the memory I kept of the snowman I had worked so hard to make.
+
+
 ## personal-032 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-032.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-032.jpg" width="650" alt="personal-032 · Personal &amp; family memories" loading="lazy"></a>
@@ -344,11 +349,33 @@ This is a selfie with my mother at home. She said, “Come, let’s take a pictu
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-033.jpg)
 
+These photographs show the book-authorship appreciation certificate and the flowers from a day that meant a great deal to me. I had given the education department a copy of my book months earlier. When the authors’ recognition event finally came, I was told I was the only fifteen-year-old in the group and that perhaps I should not attend among the adults. I felt that having a young author should have been a reason to welcome me, and I insisted on going.
+
+We went from school to the education department. I remember feeling overlooked on arrival and having to explain that I was an author. After roughly an hour of names being called, mine was called last. By then, as I remember it, some people had left and others were looking at their phones. I felt that the moment had passed without the attention I had hoped for. This is my personal memory of the day, rather than a claim about anyone’s intentions.
+
+I remember receiving 500,000 tomans with the certificate. My book was priced at 350,000 tomans, and I had already given them a copy as a gift. In my disappointment I compared those figures: 150,000 tomans above the price of the book I had donated. To me, the recognition felt small compared with the work and anticipation behind it.
+
+The bouquet made me happy. My uncle Siamak, who was there, bought it for me. My mother and my maternal great-grandmother Akhtar Amir Sadeghi—whom I call “Aziz”—were also present. My father could not come. My mother took these photographs that night. Alongside the disappointment, I remember the warmth of my family and the flowers.
+
+Date note: I recall the event as late Dey 1404, close to Bahman. The photographed certificate itself is dated 1404/09/09; its printed date and my recollection of the ceremony date are kept separate pending clarification.
+
+
 ## personal-034 · Book memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-034.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-034.jpg" width="650" alt="personal-034 · Book memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-034.jpg)
+
+These photographs show the book-authorship appreciation certificate and the flowers from a day that meant a great deal to me. I had given the education department a copy of my book months earlier. When the authors’ recognition event finally came, I was told I was the only fifteen-year-old in the group and that perhaps I should not attend among the adults. I felt that having a young author should have been a reason to welcome me, and I insisted on going.
+
+We went from school to the education department. I remember feeling overlooked on arrival and having to explain that I was an author. After roughly an hour of names being called, mine was called last. By then, as I remember it, some people had left and others were looking at their phones. I felt that the moment had passed without the attention I had hoped for. This is my personal memory of the day, rather than a claim about anyone’s intentions.
+
+I remember receiving 500,000 tomans with the certificate. My book was priced at 350,000 tomans, and I had already given them a copy as a gift. In my disappointment I compared those figures: 150,000 tomans above the price of the book I had donated. To me, the recognition felt small compared with the work and anticipation behind it.
+
+The bouquet made me happy. My uncle Siamak, who was there, bought it for me. My mother and my maternal great-grandmother Akhtar Amir Sadeghi—whom I call “Aziz”—were also present. My father could not come. My mother took these photographs that night. Alongside the disappointment, I remember the warmth of my family and the flowers.
+
+Date note: I recall the event as late Dey 1404, close to Bahman. The photographed certificate itself is dated 1404/09/09; its printed date and my recollection of the ceremony date are kept separate pending clarification.
+
 
 ## personal-035 · Personal & family memories
 
@@ -433,6 +460,9 @@ The day became much harder immediately after the photographs. As I remember it, 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-041.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-041.jpg" width="650" alt="personal-041 · Book memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-041.jpg)
+
+I saved this screenshot when I was seeing my book appear on websites around its publication. I remember Digikala promoting the book online at that time, and wanted to keep a record of seeing it featured. The image shows the cover of Visual Animation Tutorial in a recommended-posts section, alongside an introduction and a five-percent first-purchase discount. It is a memory of the book becoming visible beyond my own pages; the offer shown belongs to that saved moment.
+
 
 ## personal-042 · Book memories
 

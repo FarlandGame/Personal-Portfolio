@@ -1,6 +1,6 @@
-# Photo stories — 38 of 140 recorded
+# Photo stories — 42 of 140 recorded
 
-Stories are supplied by the creator and published in English, Persian and Japanese. The remaining 102 images have not yet received individual stories. Dates, ages and identities are not inferred from appearance.
+Stories are supplied by the creator and published in English, Persian and Japanese. The remaining 98 images have not yet received individual stories. Dates, ages and identities are not inferred from appearance.
 
 داستان‌ها از زبان خود بردیا ثبت می‌شوند؛ هنوز کامل نیستند. / 作者本人から聞いた思い出を順次追加しています。
 
@@ -34,17 +34,17 @@ Stories are supplied by the creator and published in English, Persian and Japane
 - [x] personal-028 · [English](personal-028.en.md) · [فارسی](personal-028.fa.md) · [日本語](personal-028.ja.md)
 - [x] personal-029 · [English](personal-029.en.md) · [فارسی](personal-029.fa.md) · [日本語](personal-029.ja.md)
 - [x] personal-030 · [English](personal-030.en.md) · [فارسی](personal-030.fa.md) · [日本語](personal-030.ja.md)
-- [ ] personal-031
+- [x] personal-031 · [English](personal-031.en.md) · [فارسی](personal-031.fa.md) · [日本語](personal-031.ja.md)
 - [x] personal-032 · [English](personal-032.en.md) · [فارسی](personal-032.fa.md) · [日本語](personal-032.ja.md)
-- [ ] personal-033
-- [ ] personal-034
+- [x] personal-033 · [English](personal-033.en.md) · [فارسی](personal-033.fa.md) · [日本語](personal-033.ja.md)
+- [x] personal-034 · [English](personal-034.en.md) · [فارسی](personal-034.fa.md) · [日本語](personal-034.ja.md)
 - [x] personal-035 · [English](personal-035.en.md) · [فارسی](personal-035.fa.md) · [日本語](personal-035.ja.md)
 - [x] personal-036 · [English](personal-036.en.md) · [فارسی](personal-036.fa.md) · [日本語](personal-036.ja.md)
 - [x] personal-037 · [English](personal-037.en.md) · [فارسی](personal-037.fa.md) · [日本語](personal-037.ja.md)
 - [x] personal-038 · [English](personal-038.en.md) · [فارسی](personal-038.fa.md) · [日本語](personal-038.ja.md)
 - [x] personal-039 · [English](personal-039.en.md) · [فارسی](personal-039.fa.md) · [日本語](personal-039.ja.md)
 - [x] personal-040 · [English](personal-040.en.md) · [فارسی](personal-040.fa.md) · [日本語](personal-040.ja.md)
-- [ ] personal-041
+- [x] personal-041 · [English](personal-041.en.md) · [فارسی](personal-041.fa.md) · [日本語](personal-041.ja.md)
 - [ ] personal-042
 - [ ] personal-043
 - [ ] personal-044

@@ -329,6 +329,11 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-031.jpg)
 
+これらの写真は、イラン暦1404年のデイ月、学校の試験の時期のものです。写真personal-027に関係する数学の試験の翌日に雪が降ったと覚えています。その夜、家の前へ出て、何時間もかけて一生懸命この雪だるまを作り、写真を撮りました。
+
+私の記憶では、翌日、近所の子ども2人が雪だるまを壊してしまいました。何時間もの努力が消えてしまい、悲しかったです。この写真は、苦労して作った雪だるまの思い出として残っています。
+
+
 ## personal-032 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-032.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-032.jpg" width="650" alt="personal-032 · 個人と家族の思い出" loading="lazy"></a>
@@ -344,11 +349,33 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-033.jpg)
 
+これらの写真は、著書に対する感謝状と、その日に贈られた花です。私にとって、とても大きな意味のある日でした。数か月前に教育当局へ自分の本を1冊寄贈していました。ようやく著者を表彰する会が開かれることになったとき、その集まりで15歳なのは私だけで、大人たちの中に参加しないほうがよいのではと言われていました。若い著者がいることを歓迎してほしいと思い、私も行くと伝えました。
+
+学校から教育当局へ向かいました。到着したときは相手にされていないように感じ、自分も著者だと説明したことを覚えています。名前が呼ばれ続けて約1時間後、私の名前は最後に呼ばれました。私の記憶では、その頃には帰った人やスマートフォンを見ている人もいました。期待していたほど注目されず、その瞬間が過ぎてしまったと感じました。これはその日の私自身の記憶と気持ちであり、誰かの意図を断定するものではありません。
+
+感謝状とともに50万トマンを受け取ったと覚えています。本の価格は35万トマンで、すでに1冊を寄贈していました。落胆した私は、頭の中でその差を比べていました。寄贈した本の価格より15万トマン多いだけだ、と感じたのです。自分が注いだ努力や待ち続けた時間に比べ、十分に認めてもらえなかったように思いました。
+
+でも、花束はうれしかったです。その場にいた叔父Siamakが買ってくれました。母と、私が「Aziz」と呼ぶ母方の曽祖母Akhtar Amir Sadeghiも一緒でした。父は来られませんでした。その夜、母がこれらの写真を撮ってくれました。落胆とともに、家族や花の温かさも覚えています。
+
+日付について：会はイラン暦1404年のデイ月末、バフマン月に近い頃だったと覚えています。一方、写真の感謝状に印刷されている日付は1404/09/09です。確認が取れるまでは、書面の日付と私が記憶する開催時期を区別して記録しています。
+
+
 ## personal-034 · 本の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-034.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-034.jpg" width="650" alt="personal-034 · 本の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-034.jpg)
+
+これらの写真は、著書に対する感謝状と、その日に贈られた花です。私にとって、とても大きな意味のある日でした。数か月前に教育当局へ自分の本を1冊寄贈していました。ようやく著者を表彰する会が開かれることになったとき、その集まりで15歳なのは私だけで、大人たちの中に参加しないほうがよいのではと言われていました。若い著者がいることを歓迎してほしいと思い、私も行くと伝えました。
+
+学校から教育当局へ向かいました。到着したときは相手にされていないように感じ、自分も著者だと説明したことを覚えています。名前が呼ばれ続けて約1時間後、私の名前は最後に呼ばれました。私の記憶では、その頃には帰った人やスマートフォンを見ている人もいました。期待していたほど注目されず、その瞬間が過ぎてしまったと感じました。これはその日の私自身の記憶と気持ちであり、誰かの意図を断定するものではありません。
+
+感謝状とともに50万トマンを受け取ったと覚えています。本の価格は35万トマンで、すでに1冊を寄贈していました。落胆した私は、頭の中でその差を比べていました。寄贈した本の価格より15万トマン多いだけだ、と感じたのです。自分が注いだ努力や待ち続けた時間に比べ、十分に認めてもらえなかったように思いました。
+
+でも、花束はうれしかったです。その場にいた叔父Siamakが買ってくれました。母と、私が「Aziz」と呼ぶ母方の曽祖母Akhtar Amir Sadeghiも一緒でした。父は来られませんでした。その夜、母がこれらの写真を撮ってくれました。落胆とともに、家族や花の温かさも覚えています。
+
+日付について：会はイラン暦1404年のデイ月末、バフマン月に近い頃だったと覚えています。一方、写真の感謝状に印刷されている日付は1404/09/09です。確認が取れるまでは、書面の日付と私が記憶する開催時期を区別して記録しています。
+
 
 ## personal-035 · 個人と家族の思い出
 
@@ -433,6 +460,9 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-041.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-041.jpg" width="650" alt="personal-041 · 本の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-041.jpg)
+
+本が出版された頃、ウェブサイトに自分の本が載っているのを見かけ、このスクリーンショットを保存しました。当時Digikalaがオンラインで本を紹介・宣伝していたと覚えていて、掲載された記録を残したかったのです。画像には、おすすめ記事の欄に『Visual Animation Tutorial』の表紙が載り、本の紹介と初回購入5％割引の案内が見えます。自分のページ以外でも本を見かけるようになった思い出です。表示されている割引は、保存した当時の案内です。
+
 
 ## personal-042 · 本の思い出
 
