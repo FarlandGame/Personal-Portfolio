@@ -48,9 +48,9 @@ Die Reihenfolge folgt dem Katalog und ist keine bestätigte zeitliche Abfolge.
 
 [Ansehen / herunterladen](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-007.jpg)
 
-## personal-008 · Porträtbearbeitungen
+## personal-008 · Persönliche und familiäre Erinnerungen
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg" width="650" alt="personal-008 · Porträtbearbeitungen" loading="lazy"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg" width="650" alt="personal-008 · Persönliche und familiäre Erinnerungen" loading="lazy"></a>
 
 [Ansehen / herunterladen](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg)
 

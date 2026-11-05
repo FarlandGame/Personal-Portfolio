@@ -48,9 +48,9 @@ De volgorde volgt de catalogus en is geen bevestigde chronologie.
 
 [Bekijken / downloaden](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-007.jpg)
 
-## personal-008 · Portretbewerkingen
+## personal-008 · Persoonlijke en familieherinneringen
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg" width="650" alt="personal-008 · Portretbewerkingen" loading="lazy"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg" width="650" alt="personal-008 · Persoonlijke en familieherinneringen" loading="lazy"></a>
 
 [Bekijken / downloaden](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg)
 

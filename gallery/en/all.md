@@ -48,11 +48,17 @@ This image belongs to a cinematic self-portrait project I made with Photoshop an
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-005.jpg)
 
+This is Farland_game, my artistic character and a central figure in my own gaming, animation and THE APEX creative world. I made this image in Photoshop. The masked face and the F mark belong to that character’s visual identity.
+
+
 ## personal-006 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-006.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-006.jpg" width="650" alt="personal-006 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-006.jpg)
+
+This photograph was taken at Ahmadian Jewellery using Amir Ahmadian’s iPhone 16. Amir is Davoud Ahmadian’s son; the two Ahmadian brothers are Davoud and Reza. My twin brother and I spend time working and learning at the jewellery shop without pay, and we have learned how to sell gold jewellery. At the time I used to brush all my hair back, and this is the only photograph I have of that hairstyle.
+
 
 ## personal-007 · Portrait edits
 
@@ -60,11 +66,17 @@ This image belongs to a cinematic self-portrait project I made with Photoshop an
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-007.jpg)
 
-## personal-008 · Portrait edits
+I made this portrait for my Instagram profile using AI and Photoshop. I also edited it myself in Photoshop. In the end I did not like the result because I felt it did not look enough like me. It remains here as one of my portrait experiments.
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg" width="650" alt="personal-008 · Portrait edits" loading="lazy"></a>
+
+## personal-008 · Personal & family memories
+
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg" width="650" alt="personal-008 · Personal & family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg)
+
+This is a real studio photograph. Although it may look AI-made, it was taken in a photography studio. I do not own a suit, even though I would love to have one; the studio had a suit available for the photograph.
+
 
 ## personal-009 · Portrait edits
 

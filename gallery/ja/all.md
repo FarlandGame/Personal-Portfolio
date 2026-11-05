@@ -48,11 +48,17 @@
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-005.jpg)
 
+これは私のアーティストとしてのキャラクター、Farland_gameです。私自身が作るゲーム、アニメーション、THE APEXの世界で中心となるキャラクターの1人です。この画像はPhotoshopで制作しました。仮面の顔とFのマークが、このキャラクターのビジュアルを形づくっています。
+
+
 ## personal-006 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-006.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-006.jpg" width="650" alt="personal-006 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-006.jpg)
+
+この写真は、Ahmadianの宝飾店でAmir AhmadianさんのiPhone 16を使って撮りました。AmirさんはDavoud Ahmadianさんの息子さんで、Ahmadian兄弟はDavoudさんとRezaさんです。双子の弟と私は、この店で報酬をもらわずに働きながら学び、金のジュエリーの販売を身につけました。当時は髪を全部後ろへ流していて、その髪型で残っている写真はこれ1枚だけです。
+
 
 ## personal-007 · ポートレート編集
 
@@ -60,11 +66,17 @@
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-007.jpg)
 
-## personal-008 · ポートレート編集
+Instagramのプロフィール用に、AIとPhotoshopを使って作ったポートレートです。自分でもPhotoshopで編集しました。ただ、仕上がりが自分にあまり似ていないと感じ、最終的には気に入りませんでした。ポートレート制作の試みの1つとして残しています。
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg" width="650" alt="personal-008 · ポートレート編集" loading="lazy"></a>
+
+## personal-008 · 個人と家族の思い出
+
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg" width="650" alt="personal-008 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg)
+
+これは写真スタジオで撮影した、本物の写真です。AIで作った画像のように見えるかもしれませんが、実際にスタジオで撮りました。スーツを持ちたいと思っているものの、自分のスーツはまだありません。撮影にはスタジオにあったスーツを使いました。
+
 
 ## personal-009 · ポートレート編集
 

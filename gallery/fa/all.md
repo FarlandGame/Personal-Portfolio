@@ -48,11 +48,17 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-005.jpg)
 
+این Farland_game است؛ کاراکتر و شخصیت هنری من و یکی از شخصیت‌های مهم دنیای بازی، انیمیشن و THE APEX خودم. این تصویر را با Photoshop درست کردم. چهرهٔ نقاب‌دار و نشان F بخشی از هویت بصری این کاراکترند.
+
+
 ## personal-006 · خاطرات شخصی و خانوادگی
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-006.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-006.jpg" width="650" alt="personal-006 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-006.jpg)
+
+این عکس را در زرگری احمدیان با آیفون ۱۶ امیر احمدیان گرفتیم. امیر پسر آقای داوود احمدیان است؛ دو برادر احمدیان، داوود و رضا هستند. من و برادر دوقلویم در این زرگری کار می‌کنیم و پولی نمی‌گیریم، اما فروشندگی طلا را یاد گرفته‌ایم. آن موقع همهٔ موهایم را عقب می‌دادم و این تنها عکسی است که از آن مدل مو دارم.
+
 
 ## personal-007 · ادیت‌های پرتره
 
@@ -60,11 +66,17 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-007.jpg)
 
-## personal-008 · ادیت‌های پرتره
+این پرتره را برای پروفایل اینستاگرامم با هوش مصنوعی و Photoshop ساختم؛ خودم هم در Photoshop روی آن کار کردم. در نهایت از نتیجه خوشم نیامد، چون به نظرم شبیه خودم نشده بود. اینجا به‌عنوان یکی از تجربه‌های ساخت پرتره نگهش داشته‌ام.
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg" width="650" alt="personal-008 · ادیت‌های پرتره" loading="lazy"></a>
+
+## personal-008 · خاطرات شخصی و خانوادگی
+
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg" width="650" alt="personal-008 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg)
+
+این یک عکس واقعی است که در آتلیه گرفته شده. شاید شبیه تصویر ساخته‌شده با هوش مصنوعی به نظر برسد، اما عکاسی واقعی است. خودم کت‌وشلوار ندارم، هرچند خیلی دوست دارم داشته باشم؛ کت‌وشلوار را آتلیه برای عکس در اختیار داشت.
+
 
 ## personal-009 · ادیت‌های پرتره
 

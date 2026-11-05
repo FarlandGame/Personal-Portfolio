@@ -18,8 +18,8 @@
 
 **نسخه‌های نمایشی: عکس‌ها با حفظ تمام کادر تا ۲۰۴۸ پیکسل تغییر اندازه یافته‌اند؛ ویدئوها بدون کوتاه‌کردن، در کادر حداکثر ۱۹۲۰×۱۰۸۰ بازفشرده شده‌اند. فایل‌های اصلی دسکتاپ دست‌نخورده‌اند.**
 
-- [خاطرات شخصی و خانوادگی](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#category-memories) · 84 📸 · 6 🎬
-- [ادیت‌های پرتره](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#category-portraits) · 39 📸 · 5 🎬
+- [خاطرات شخصی و خانوادگی](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#category-memories) · 85 📸 · 6 🎬
+- [ادیت‌های پرتره](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#category-portraits) · 38 📸 · 5 🎬
 - [خاطرات کتاب](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#category-book) · 10 📸 · 0 🎬
 - [THE APEX](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#category-apex) · 7 📸 · 1 🎬
 

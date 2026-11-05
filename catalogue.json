@@ -112,7 +112,8 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-005.jpg",
       "published_bytes": 138599,
-      "published_sha256": "19fd7ddb449de7b1a55c0a95f7343aa12260d1693473c0d3baa9552552c5602d"
+      "published_sha256": "19fd7ddb449de7b1a55c0a95f7343aa12260d1693473c0d3baa9552552c5602d",
+      "creation_context": "Creator-designed character image made in Photoshop."
     },
     {
       "collection": "personal",
@@ -133,7 +134,8 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-006.jpg",
       "published_bytes": 368747,
-      "published_sha256": "5930a15727851cd98f98fa4087430280662a8b5d60be8c4f4da5818addea382a"
+      "published_sha256": "5930a15727851cd98f98fa4087430280662a8b5d60be8c4f4da5818addea382a",
+      "creation_context": "Real photograph at Ahmadian Jewellery, captured with Amir Ahmadian’s iPhone16; creator-reported."
     },
     {
       "collection": "personal",
@@ -154,7 +156,8 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-007.jpg",
       "published_bytes": 148437,
-      "published_sha256": "1e5501df3227d2778ea2cf9ae418d00663caf5b2e69a3537894ce350f4745b12"
+      "published_sha256": "1e5501df3227d2778ea2cf9ae418d00663caf5b2e69a3537894ce350f4745b12",
+      "creation_context": "AI-assisted portrait with creator Photoshop edits; rejected likeness for intendedInstagramprofile."
     },
     {
       "collection": "personal",
@@ -171,11 +174,12 @@
         720,
         1600
       ],
-      "category": "portraits",
+      "category": "memories",
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-008.jpg",
       "published_bytes": 71286,
-      "published_sha256": "9fbe7c354b529b74f4a8a0a3ebad5fd4126d017bc0587efe79f466aa7494b02b"
+      "published_sha256": "9fbe7c354b529b74f4a8a0a3ebad5fd4126d017bc0587efe79f466aa7494b02b",
+      "creation_context": "Real photography-studio portrait using studio-provided suit; creator-confirmed."
     },
     {
       "collection": "personal",

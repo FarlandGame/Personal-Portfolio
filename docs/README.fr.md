@@ -18,8 +18,8 @@ Les portraits stylisés ou composites et les scènes fantastiques humoristiques 
 
 **Viewing copies: images resized to at most 2048 px with the full frame retained; complete-duration videos recompressed to fit within 1920×1080. Original desktop files remain unchanged.**
 
-- [Souvenirs personnels et familiaux](https://farlandgame.github.io/Personal-Portfolio/#category-memories) · 84 📸 · 6 🎬
-- [Portraits retouchés](https://farlandgame.github.io/Personal-Portfolio/#category-portraits) · 39 📸 · 5 🎬
+- [Souvenirs personnels et familiaux](https://farlandgame.github.io/Personal-Portfolio/#category-memories) · 85 📸 · 6 🎬
+- [Portraits retouchés](https://farlandgame.github.io/Personal-Portfolio/#category-portraits) · 38 📸 · 5 🎬
 - [Souvenirs autour du livre](https://farlandgame.github.io/Personal-Portfolio/#category-book) · 10 📸 · 0 🎬
 - [THE APEX](https://farlandgame.github.io/Personal-Portfolio/#category-apex) · 7 📸 · 1 🎬
 
