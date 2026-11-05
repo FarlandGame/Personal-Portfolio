@@ -84,11 +84,21 @@ This is a real studio photograph. Although it may look AI-made, it was taken in 
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-009.jpg)
 
+I made this image for my Farland work-email profile using Photoshop, several editing apps and AI. I also worked on it myself in Photoshop. I do not especially enjoy relying on AI for pictures of myself; at the time I did not have a good camera. With a better camera, I would love to make more of my own photographs and videos. When I shared this story, this was still the profile image for my work address: farland.game158@gmail.com.
+
+
 ## personal-010 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-010.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-010.jpg" width="650" alt="personal-010 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-010.jpg)
+
+These park-bench photographs mark an important moment in my friendship and collaboration with Ali Dehghannejad, known as Alivexor. Ali is from Tehran, and today I consider him my best friend and collaborator. I was in tenth grade, around fifteen or sixteen, and Ali was around fifteen and one school year below me.
+
+For THE APEX, our Minecraft story-server project, my mother, who is a lawyer, helped prepare a collaboration agreement. I travelled to Tehran so Ali and his father could sign it; we were teenagers and involved our families in the process. My uncle Siamak Nournezhad accompanied me. He was also taking my grandmother to see a doctor, and I joined the trip.
+
+That day I met Ali’s father and his two younger brothers. We sat in a park and had banana milk. I had dressed up, and my uncle had styled my hair. These are more than just photographs on a bench to me: they are memories of an important friend and the work we wanted to build together.
+
 
 ## personal-011 · Personal & family memories
 
@@ -96,11 +106,25 @@ This is a real studio photograph. Although it may look AI-made, it was taken in 
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-011.jpg)
 
+These park-bench photographs mark an important moment in my friendship and collaboration with Ali Dehghannejad, known as Alivexor. Ali is from Tehran, and today I consider him my best friend and collaborator. I was in tenth grade, around fifteen or sixteen, and Ali was around fifteen and one school year below me.
+
+For THE APEX, our Minecraft story-server project, my mother, who is a lawyer, helped prepare a collaboration agreement. I travelled to Tehran so Ali and his father could sign it; we were teenagers and involved our families in the process. My uncle Siamak Nournezhad accompanied me. He was also taking my grandmother to see a doctor, and I joined the trip.
+
+That day I met Ali’s father and his two younger brothers. We sat in a park and had banana milk. I had dressed up, and my uncle had styled my hair. These are more than just photographs on a bench to me: they are memories of an important friend and the work we wanted to build together.
+
+
 ## personal-012 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-012.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-012.jpg" width="650" alt="personal-012 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-012.jpg)
+
+These park-bench photographs mark an important moment in my friendship and collaboration with Ali Dehghannejad, known as Alivexor. Ali is from Tehran, and today I consider him my best friend and collaborator. I was in tenth grade, around fifteen or sixteen, and Ali was around fifteen and one school year below me.
+
+For THE APEX, our Minecraft story-server project, my mother, who is a lawyer, helped prepare a collaboration agreement. I travelled to Tehran so Ali and his father could sign it; we were teenagers and involved our families in the process. My uncle Siamak Nournezhad accompanied me. He was also taking my grandmother to see a doctor, and I joined the trip.
+
+That day I met Ali’s father and his two younger brothers. We sat in a park and had banana milk. I had dressed up, and my uncle had styled my hair. These are more than just photographs on a bench to me: they are memories of an important friend and the work we wanted to build together.
+
 
 ## personal-013 · Personal & family memories
 

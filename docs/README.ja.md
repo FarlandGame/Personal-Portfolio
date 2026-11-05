@@ -24,3 +24,5 @@ Bardiya Alizadeh、愛称Kabir、活動名Farland_gameです。このアーカ�
 - [THE APEX](https://farlandgame.github.io/Personal-Portfolio/?lang=ja#category-apex) · 7 📸 · 1 🎬
 
 [Roblox · 11](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/ja/roblox.md) · [Catalogue](https://github.com/FarlandGame/Personal-Portfolio/blob/main/catalogue.json) · [Stories](https://github.com/FarlandGame/Personal-Portfolio/blob/main/stories/README.md)
+
+**仕事の連絡先:** [farland.game158@gmail.com](mailto:farland.game158@gmail.com)

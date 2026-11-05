@@ -24,3 +24,5 @@ Gestileerde en samengestelde portretten en grappige fantasietaferelen zijn creat
 - [THE APEX](https://farlandgame.github.io/Personal-Portfolio/#category-apex) · 7 📸 · 1 🎬
 
 [Roblox · 11](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/en/roblox.md) · [Catalogue](https://github.com/FarlandGame/Personal-Portfolio/blob/main/catalogue.json) · [Stories](https://github.com/FarlandGame/Personal-Portfolio/blob/main/stories/README.md)
+
+**Zakelijk contact:** [farland.game158@gmail.com](mailto:farland.game158@gmail.com)

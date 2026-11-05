@@ -24,3 +24,5 @@
 - [THE APEX](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#category-apex) · 7 📸 · 1 🎬
 
 [Roblox · 11](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/fa/roblox.md) · [Catalogue](https://github.com/FarlandGame/Personal-Portfolio/blob/main/catalogue.json) · [Stories](https://github.com/FarlandGame/Personal-Portfolio/blob/main/stories/README.md)
+
+**تماس کاری:** [farland.game158@gmail.com](mailto:farland.game158@gmail.com)
