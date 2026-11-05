@@ -561,7 +561,12 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-026.jpg",
       "published_bytes": 745613,
-      "published_sha256": "262ba73c4890a946a40de481a9d8849c4f0528e9c6784d4fc4ae80092212889f"
+      "published_sha256": "262ba73c4890a946a40de481a9d8849c4f0528e9c6784d4fc4ae80092212889f",
+      "photographers_reported": [
+        "Armiya Alizadeh",
+        "Ashkan Mohammad Alipour"
+      ],
+      "date_reported": "Dey1404,firsttermschoolexams"
     },
     {
       "collection": "personal",

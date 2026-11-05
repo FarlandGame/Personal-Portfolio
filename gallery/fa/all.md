@@ -229,17 +229,32 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-022.jpg)
 
+این عکس‌ها مربوط به اولین باری هستند که به خانهٔ دوستم علی حیدری رفتم. علی یک پایهٔ تحصیلی از من بالاتر است. من کسی هستم که عینک آفتابی و لباس کرمی دارد و علی عینک معمولی زده است. ارمیا نیامده بود؛ دونفری کلی بازی کردیم، حرف زدیم و خیلی خوش گذشت. امیدوارم باز هم تکرار شود.
+
+فکر می‌کنم مهمانی حدود پنج عصر تا نه شب بود، اما از ساعت‌ها مطمئن نیستم. آن روز دل‌درد و ناراحتی گوارشی شدیدی داشتم و سعی کردم در مهمانی تحملش کنم. وقتی به خانه برگشتم، دارو خوردم، استراحت کردم و بهتر شدم.
+
+
 ## personal-023 · خاطرات شخصی و خانوادگی
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-023.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-023.jpg" width="650" alt="personal-023 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-023.jpg)
 
+این عکس‌ها مربوط به اولین باری هستند که به خانهٔ دوستم علی حیدری رفتم. علی یک پایهٔ تحصیلی از من بالاتر است. من کسی هستم که عینک آفتابی و لباس کرمی دارد و علی عینک معمولی زده است. ارمیا نیامده بود؛ دونفری کلی بازی کردیم، حرف زدیم و خیلی خوش گذشت. امیدوارم باز هم تکرار شود.
+
+فکر می‌کنم مهمانی حدود پنج عصر تا نه شب بود، اما از ساعت‌ها مطمئن نیستم. آن روز دل‌درد و ناراحتی گوارشی شدیدی داشتم و سعی کردم در مهمانی تحملش کنم. وقتی به خانه برگشتم، دارو خوردم، استراحت کردم و بهتر شدم.
+
+
 ## personal-024 · خاطرات شخصی و خانوادگی
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-024.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-024.jpg" width="650" alt="personal-024 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-024.jpg)
+
+این عکس‌ها مربوط به اولین باری هستند که به خانهٔ دوستم علی حیدری رفتم. علی یک پایهٔ تحصیلی از من بالاتر است. من کسی هستم که عینک آفتابی و لباس کرمی دارد و علی عینک معمولی زده است. ارمیا نیامده بود؛ دونفری کلی بازی کردیم، حرف زدیم و خیلی خوش گذشت. امیدوارم باز هم تکرار شود.
+
+فکر می‌کنم مهمانی حدود پنج عصر تا نه شب بود، اما از ساعت‌ها مطمئن نیستم. آن روز دل‌درد و ناراحتی گوارشی شدیدی داشتم و سعی کردم در مهمانی تحملش کنم. وقتی به خانه برگشتم، دارو خوردم، استراحت کردم و بهتر شدم.
+
 
 ## personal-025 · خاطرات شخصی و خانوادگی
 
@@ -256,6 +271,11 @@
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-026.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-026.jpg" width="650" alt="personal-026 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-026.jpg)
+
+این عکس مربوط به دی‌ماه ۱۴۰۴، زمان امتحانات ترم اول مدرسه، است. روز برفی و قشنگی بود. من وسط عکس هستم؛ سمت راستِ عکس امیرحسین صادق است و سمت چپ علی حیدری.
+
+آن روز موهایم را حالت نداده بودم و کلاه گذاشته بودم. کلاه را که برداشتم، موهایم به‌هم ریخته بود. بچه‌ها پیشنهاد دادند عکس بگیریم و من هم قبول کردم. ارمیا و اشکان این عکس‌ها را از ما گرفتند.
+
 
 ## personal-027 · خاطرات شخصی و خانوادگی
 

@@ -229,17 +229,32 @@ The day became much harder immediately after the photographs. As I remember it, 
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-022.jpg)
 
+These photographs are from my first visit to my friend Ali Heydari’s home. Ali is one school year ahead of me. I am the one wearing sunglasses and a cream-coloured outfit; Ali is wearing glasses. My twin brother Armiya did not come with us, so it was just the two of us playing games and talking. I had a wonderful time and hope we can do it again.
+
+I remember the visit as roughly five to nine in the evening, though I am not certain of the times. I was struggling with a severe stomach upset that day and tried to manage it during the visit. After I got home, I took medicine, rested and felt better.
+
+
 ## personal-023 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-023.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-023.jpg" width="650" alt="personal-023 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-023.jpg)
 
+These photographs are from my first visit to my friend Ali Heydari’s home. Ali is one school year ahead of me. I am the one wearing sunglasses and a cream-coloured outfit; Ali is wearing glasses. My twin brother Armiya did not come with us, so it was just the two of us playing games and talking. I had a wonderful time and hope we can do it again.
+
+I remember the visit as roughly five to nine in the evening, though I am not certain of the times. I was struggling with a severe stomach upset that day and tried to manage it during the visit. After I got home, I took medicine, rested and felt better.
+
+
 ## personal-024 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-024.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-024.jpg" width="650" alt="personal-024 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-024.jpg)
+
+These photographs are from my first visit to my friend Ali Heydari’s home. Ali is one school year ahead of me. I am the one wearing sunglasses and a cream-coloured outfit; Ali is wearing glasses. My twin brother Armiya did not come with us, so it was just the two of us playing games and talking. I had a wonderful time and hope we can do it again.
+
+I remember the visit as roughly five to nine in the evening, though I am not certain of the times. I was struggling with a severe stomach upset that day and tried to manage it during the visit. After I got home, I took medicine, rested and felt better.
+
 
 ## personal-025 · Personal & family memories
 
@@ -256,6 +271,11 @@ This is me at about one year and a few months old, close to turning two. I liked
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-026.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-026.jpg" width="650" alt="personal-026 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-026.jpg)
+
+This photograph is from Dey 1404 in the Iranian calendar, during our first-term school exams. It was a beautiful snowy day. I am in the middle; Amir Hossein Sadegh is on the right of the photograph, and Ali Heydari is on the left.
+
+I had not styled my hair and was wearing a hat. When I took it off, my hair was a mess. My friends suggested taking photographs, and I agreed. Armiya and Ashkan took the pictures of us.
+
 
 ## personal-027 · Personal & family memories
 

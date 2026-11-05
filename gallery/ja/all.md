@@ -229,17 +229,32 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-022.jpg)
 
+これらの写真は、友人Ali Heydariの家に初めて遊びに行ったときのものです。Aliは私より学年が1つ上です。サングラスとクリーム色の服を着ているのが私で、普通の眼鏡をかけているのがAliです。双子の弟Armiyaは来なかったので、2人でたくさんゲームをして、おしゃべりしました。とても楽しく、また遊びに行けたらと思っています。
+
+確か夕方5時から夜9時頃までだったと思いますが、時間ははっきり覚えていません。その日はひどくお腹の調子が悪く、遊んでいる間は何とか我慢していました。帰宅してから薬を飲んで休み、よくなりました。
+
+
 ## personal-023 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-023.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-023.jpg" width="650" alt="personal-023 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-023.jpg)
 
+これらの写真は、友人Ali Heydariの家に初めて遊びに行ったときのものです。Aliは私より学年が1つ上です。サングラスとクリーム色の服を着ているのが私で、普通の眼鏡をかけているのがAliです。双子の弟Armiyaは来なかったので、2人でたくさんゲームをして、おしゃべりしました。とても楽しく、また遊びに行けたらと思っています。
+
+確か夕方5時から夜9時頃までだったと思いますが、時間ははっきり覚えていません。その日はひどくお腹の調子が悪く、遊んでいる間は何とか我慢していました。帰宅してから薬を飲んで休み、よくなりました。
+
+
 ## personal-024 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-024.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-024.jpg" width="650" alt="personal-024 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-024.jpg)
+
+これらの写真は、友人Ali Heydariの家に初めて遊びに行ったときのものです。Aliは私より学年が1つ上です。サングラスとクリーム色の服を着ているのが私で、普通の眼鏡をかけているのがAliです。双子の弟Armiyaは来なかったので、2人でたくさんゲームをして、おしゃべりしました。とても楽しく、また遊びに行けたらと思っています。
+
+確か夕方5時から夜9時頃までだったと思いますが、時間ははっきり覚えていません。その日はひどくお腹の調子が悪く、遊んでいる間は何とか我慢していました。帰宅してから薬を飲んで休み、よくなりました。
+
 
 ## personal-025 · 個人と家族の思い出
 
@@ -256,6 +271,11 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-026.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-026.jpg" width="650" alt="personal-026 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-026.jpg)
+
+この写真は、イラン暦1404年のデイ月、学校の前期試験の時期に撮りました。雪が降ったきれいな日でした。中央が私で、写真の右側がAmir Hossein Sadegh、左側がAli Heydariです。
+
+その日は髪を整えず、帽子をかぶっていました。帽子を取ると髪がぐしゃぐしゃになっていましたが、友人たちが写真を撮ろうと言ってくれたので、私も賛成しました。ArmiyaとAshkanが私たちの写真を撮ってくれました。
+
 
 ## personal-027 · 個人と家族の思い出
 
