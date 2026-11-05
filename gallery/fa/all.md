@@ -12,11 +12,17 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-001.jpg)
 
+این تصویر مربوط به صحنه‌ای از فیلمی است که با Photoshop و هوش مصنوعی برای خودم ساختم. مرجع و الهامم بخشی از سریال Better Call Saul و سال گودمن بود؛ شخصیتی که دوستش دارم و الگوی من است. می‌خواستم فیلم خودم را بسازم، اما دوربین مناسب و بودجهٔ فیلم‌برداری نداشتم. به‌جایش با چند ابزار هوش مصنوعیِ فیلم‌ساز کار کردم و حدود دو هفته برای ساختن آن وقت گذاشتم. این چهار تصویر مربوط به صحنه‌های همان پروژه‌اند.
+
+
 ## personal-002 · ادیت‌های پرتره
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-002.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-002.jpg" width="650" alt="personal-002 · ادیت‌های پرتره" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-002.jpg)
+
+این تصویر مربوط به صحنه‌ای از فیلمی است که با Photoshop و هوش مصنوعی برای خودم ساختم. مرجع و الهامم بخشی از سریال Better Call Saul و سال گودمن بود؛ شخصیتی که دوستش دارم و الگوی من است. می‌خواستم فیلم خودم را بسازم، اما دوربین مناسب و بودجهٔ فیلم‌برداری نداشتم. به‌جایش با چند ابزار هوش مصنوعیِ فیلم‌ساز کار کردم و حدود دو هفته برای ساختن آن وقت گذاشتم. این چهار تصویر مربوط به صحنه‌های همان پروژه‌اند.
+
 
 ## personal-003 · ادیت‌های پرتره
 
@@ -24,11 +30,17 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-003.jpg)
 
+این تصویر مربوط به صحنه‌ای از فیلمی است که با Photoshop و هوش مصنوعی برای خودم ساختم. مرجع و الهامم بخشی از سریال Better Call Saul و سال گودمن بود؛ شخصیتی که دوستش دارم و الگوی من است. می‌خواستم فیلم خودم را بسازم، اما دوربین مناسب و بودجهٔ فیلم‌برداری نداشتم. به‌جایش با چند ابزار هوش مصنوعیِ فیلم‌ساز کار کردم و حدود دو هفته برای ساختن آن وقت گذاشتم. این چهار تصویر مربوط به صحنه‌های همان پروژه‌اند.
+
+
 ## personal-004 · ادیت‌های پرتره
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-004.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-004.jpg" width="650" alt="personal-004 · ادیت‌های پرتره" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-004.jpg)
+
+این تصویر مربوط به صحنه‌ای از فیلمی است که با Photoshop و هوش مصنوعی برای خودم ساختم. مرجع و الهامم بخشی از سریال Better Call Saul و سال گودمن بود؛ شخصیتی که دوستش دارم و الگوی من است. می‌خواستم فیلم خودم را بسازم، اما دوربین مناسب و بودجهٔ فیلم‌برداری نداشتم. به‌جایش با چند ابزار هوش مصنوعیِ فیلم‌ساز کار کردم و حدود دو هفته برای ساختن آن وقت گذاشتم. این چهار تصویر مربوط به صحنه‌های همان پروژه‌اند.
+
 
 ## personal-005 · THE APEX
 

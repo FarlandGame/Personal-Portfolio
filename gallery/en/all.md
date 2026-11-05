@@ -12,11 +12,17 @@ Catalogue order is not confirmed chronological order. Exact dates, ages and the 
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-001.jpg)
 
+This image belongs to a cinematic self-portrait project I made with Photoshop and AI. My reference was a scene from Better Call Saul and Saul Goodman, a character I admire and see as a role model. I wanted to make my own film, but I did not have a suitable camera or the budget to shoot it. Instead, I worked with several AI video tools and spent about two weeks bringing the film together. These four images represent scenes from that project.
+
+
 ## personal-002 · Portrait edits
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-002.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-002.jpg" width="650" alt="personal-002 · Portrait edits" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-002.jpg)
+
+This image belongs to a cinematic self-portrait project I made with Photoshop and AI. My reference was a scene from Better Call Saul and Saul Goodman, a character I admire and see as a role model. I wanted to make my own film, but I did not have a suitable camera or the budget to shoot it. Instead, I worked with several AI video tools and spent about two weeks bringing the film together. These four images represent scenes from that project.
+
 
 ## personal-003 · Portrait edits
 
@@ -24,11 +30,17 @@ Catalogue order is not confirmed chronological order. Exact dates, ages and the 
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-003.jpg)
 
+This image belongs to a cinematic self-portrait project I made with Photoshop and AI. My reference was a scene from Better Call Saul and Saul Goodman, a character I admire and see as a role model. I wanted to make my own film, but I did not have a suitable camera or the budget to shoot it. Instead, I worked with several AI video tools and spent about two weeks bringing the film together. These four images represent scenes from that project.
+
+
 ## personal-004 · Portrait edits
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-004.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-004.jpg" width="650" alt="personal-004 · Portrait edits" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-004.jpg)
+
+This image belongs to a cinematic self-portrait project I made with Photoshop and AI. My reference was a scene from Better Call Saul and Saul Goodman, a character I admire and see as a role model. I wanted to make my own film, but I did not have a suitable camera or the budget to shoot it. Instead, I worked with several AI video tools and spent about two weeks bringing the film together. These four images represent scenes from that project.
+
 
 ## personal-005 · THE APEX
 
