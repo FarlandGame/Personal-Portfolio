@@ -156,6 +156,8 @@
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-025.jpg)
 
+これは1歳を過ぎ、もうすぐ2歳になる頃の私です。父の大きなシャツを着るのが好きでした。ずっと後になって、アルバムにあったこのプリント写真をスマートフォンで撮りました。そのため、提供した画像は少しぼやけ、光の反射が写っています。
+
 ## personal-026 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-026.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-026.jpg" width="650" alt="personal-026 · 個人と家族の思い出" loading="lazy"></a>

@@ -156,6 +156,8 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-025.jpg)
 
+این خودم هستم؛ یک سال و چند ماهم بود و به دوسالگی نزدیک می‌شدم. آن پیراهن بزرگ، پیراهن پدرم است؛ آن موقع دوست داشتم آن را بپوشم. بعدها با گوشی از عکس داخل آلبوم عکس گرفتم؛ برای همین نسخهٔ ارسالی کمی تار است و بازتاب نور دارد.
+
 ## personal-026 · خاطرات شخصی و خانوادگی
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-026.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-026.jpg" width="650" alt="personal-026 · خاطرات شخصی و خانوادگی" loading="lazy"></a>

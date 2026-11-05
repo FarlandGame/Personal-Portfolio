@@ -156,6 +156,8 @@ Catalogue order is not confirmed chronological order. Exact dates, ages and the 
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-025.jpg)
 
+This is me at about one year and a few months old, close to turning two. I liked wearing my father’s oversized shirt. Much later I photographed this printed album picture with my phone; that is why the supplied image is soft and has a bright reflection.
+
 ## personal-026 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-026.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-026.jpg" width="650" alt="personal-026 · Personal &amp; family memories" loading="lazy"></a>
