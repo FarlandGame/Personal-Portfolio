@@ -274,7 +274,7 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 この写真は、イラン暦1404年のデイ月、学校の前期試験の時期に撮りました。雪が降ったきれいな日でした。中央が私で、写真の右側がAmir Hossein Sadegh、左側がAli Heydariです。
 
-その日は髪を整えず、帽子をかぶっていました。帽子を取ると髪がぐしゃぐしゃになっていましたが、友人たちが写真を撮ろうと言ってくれたので、私も賛成しました。ArmiyaとAshkanが私たちの写真を撮ってくれました。
+その日は髪を整えず、帽子をかぶっていました。帽子を取ると髪がぐしゃぐしゃになっていましたが、友人たちが写真を撮ろうと言ってくれたので、私も賛成しました。ArmiyaとAshkanが私たちの写真を撮ってくれました。 私の記憶では、数学の試験の日に撮った写真です。
 
 
 ## personal-027 · 個人と家族の思い出
@@ -283,11 +283,23 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-027.jpg)
 
+この写真は、イラン暦1404年のデイ月、学校の前期試験の時期に撮りました。雪が降ったきれいな日でした。中央が私で、写真の右側がAmir Hossein Sadegh、左側がAli Heydariです。
+
+その日は髪を整えず、帽子をかぶっていました。帽子を取ると髪がぐしゃぐしゃになっていましたが、友人たちが写真を撮ろうと言ってくれたので、私も賛成しました。ArmiyaとAshkanが私たちの写真を撮ってくれました。 私の記憶では、数学の試験の日に撮った写真です。
+
+
 ## personal-028 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-028.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-028.jpg" width="650" alt="personal-028 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-028.jpg)
+
+この画像は、学校で過ごした雨の日の写真シリーズの1枚です。確かシャフリーヴァル月の初め頃でしたが、正確な日付には自信がありません。イヤホンを学校に持っていき、嵐の校庭で音楽を聴きながら、自分を力強いキャラクターとして想像していました。教室に戻ったとき、髪はぬれていました。
+
+友人のAshkan Mohammad Alipourが、自分のスマートフォンで私と双子の弟、Amir Hossein Sadeghの写真を撮ってくれました。Ashkanは私の編集も担当し、After Effectsの作業やBlenderのアニメーションでも手伝ってくれています。当時、私はAmir HosseinをSenpaiXDと呼んでいました。同じものを繰り返すのが好きではなく、活動名をよく変える友人です。Ashkanと友人のSadra Shahiは、この写真シリーズには写っていません。その後、私は一部の写真を自分で、より暗いモノクロのスタイルに編集しました。
+
+写真を撮った直後、その日はつらいものになりました。私の記憶では、学校の生活指導担当のAzizi先生が私のスマートフォンとイヤホンを預かり、翌日まで返してくれませんでした。私はとても悲しくなり、泣きました。この写真には、友人たちと過ごした瞬間の高揚感と、その後のつらい思い出の両方が残っています。
+
 
 ## personal-029 · 個人と家族の思い出
 
@@ -295,11 +307,21 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-029.jpg)
 
+これらの写真は、イラン暦1404年のデイ月、学校の試験の時期のものです。写真personal-027に関係する数学の試験の翌日に雪が降ったと覚えています。その夜、家の前へ出て、何時間もかけて一生懸命この雪だるまを作り、写真を撮りました。
+
+私の記憶では、翌日、近所の子ども2人が雪だるまを壊してしまいました。何時間もの努力が消えてしまい、悲しかったです。この写真は、苦労して作った雪だるまの思い出として残っています。
+
+
 ## personal-030 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-030.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-030.jpg" width="650" alt="personal-030 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-030.jpg)
+
+これらの写真は、イラン暦1404年のデイ月、学校の試験の時期のものです。写真personal-027に関係する数学の試験の翌日に雪が降ったと覚えています。その夜、家の前へ出て、何時間もかけて一生懸命この雪だるまを作り、写真を撮りました。
+
+私の記憶では、翌日、近所の子ども2人が雪だるまを壊してしまいました。何時間もの努力が消えてしまい、悲しかったです。この写真は、苦労して作った雪だるまの思い出として残っています。
+
 
 ## personal-031 · 個人と家族の思い出
 

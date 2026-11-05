@@ -274,7 +274,7 @@ This is me at about one year and a few months old, close to turning two. I liked
 
 This photograph is from Dey 1404 in the Iranian calendar, during our first-term school exams. It was a beautiful snowy day. I am in the middle; Amir Hossein Sadegh is on the right of the photograph, and Ali Heydari is on the left.
 
-I had not styled my hair and was wearing a hat. When I took it off, my hair was a mess. My friends suggested taking photographs, and I agreed. Armiya and Ashkan took the pictures of us.
+I had not styled my hair and was wearing a hat. When I took it off, my hair was a mess. My friends suggested taking photographs, and I agreed. Armiya and Ashkan took the pictures of us. I remember this as the day of our mathematics exam.
 
 
 ## personal-027 · Personal & family memories
@@ -283,11 +283,23 @@ I had not styled my hair and was wearing a hat. When I took it off, my hair was 
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-027.jpg)
 
+This photograph is from Dey 1404 in the Iranian calendar, during our first-term school exams. It was a beautiful snowy day. I am in the middle; Amir Hossein Sadegh is on the right of the photograph, and Ali Heydari is on the left.
+
+I had not styled my hair and was wearing a hat. When I took it off, my hair was a mess. My friends suggested taking photographs, and I agreed. Armiya and Ashkan took the pictures of us. I remember this as the day of our mathematics exam.
+
+
 ## personal-028 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-028.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-028.jpg" width="650" alt="personal-028 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-028.jpg)
+
+This image belongs to a series from a rainy day at school. I think it was early Shahrivar, though I am not sure of the exact date. I had brought my earbuds and was listening to music in the schoolyard during the storm, imagining myself as a powerful character. I came back into class with wet hair.
+
+My friend Ashkan Mohammad Alipour took photographs on his phone of my brother, Amir Hossein Sadegh and me. Ashkan is also my editor and helps with After Effects work and Blender animations. At the time I called Amir Hossein “SenpaiXD”; he often changes his artistic name because he dislikes repeating the same thing. Ashkan and our friend Sadra Shahi are not in this series. I later edited some of these images myself into a darker black-and-white style.
+
+The day became much harder immediately after the photographs. As I remember it, the school administrator, Mr Azizi, took my phone and earbuds and kept them until the following day. I was deeply upset and cried. These pictures hold both the excitement of that moment with my friends and a difficult memory from later that day.
+
 
 ## personal-029 · Personal & family memories
 
@@ -295,11 +307,21 @@ I had not styled my hair and was wearing a hat. When I took it off, my hair was 
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-029.jpg)
 
+These photographs are from the school-exam period in Dey 1404 in the Iranian calendar. I remember snow falling the day after the mathematics exam associated with photograph personal-027. That night I went outside our home and spent hours working hard to build this snowman, then took photographs of it.
+
+As I remember it, two children from our neighbourhood damaged it the next day. I was upset to see the result of so many hours of effort disappear. These pictures are the memory I kept of the snowman I had worked so hard to make.
+
+
 ## personal-030 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-030.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-030.jpg" width="650" alt="personal-030 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-030.jpg)
+
+These photographs are from the school-exam period in Dey 1404 in the Iranian calendar. I remember snow falling the day after the mathematics exam associated with photograph personal-027. That night I went outside our home and spent hours working hard to build this snowman, then took photographs of it.
+
+As I remember it, two children from our neighbourhood damaged it the next day. I was upset to see the result of so many hours of effort disappear. These pictures are the memory I kept of the snowman I had worked so hard to make.
+
 
 ## personal-031 · Personal & family memories
 
