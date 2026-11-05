@@ -174,11 +174,19 @@ My father, my twin brother and I went up the mountainside, and my father took th
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-017.jpg)
 
+This photograph is from Sizdah Bedar, the thirteenth day of Nowruz 1405 in the Iranian calendar. We went to the dam near Maragheh with my father and his extended family: my two aunts, uncle and his wife, grandmother, my father’s maternal uncle Masoud and his family, cousins and other relatives.
+
+My father, my twin brother and I went up the mountainside, and my father took this photograph of us. Once again, I am the one wearing sunglasses; the other person is my brother Armiya.
+
+
 ## personal-018 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-018.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-018.jpg" width="650" alt="personal-018 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-018.jpg)
+
+These photographs were taken about two weeks after Sizdah Bedar in Nowruz 1405. We went to a high mountain with my father, and he took these pictures on a bridge during that outing.
+
 
 ## personal-019 · Personal & family memories
 
@@ -186,17 +194,34 @@ My father, my twin brother and I went up the mountainside, and my father took th
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-019.jpg)
 
+These photographs were taken about two weeks after Sizdah Bedar in Nowruz 1405. We went to a high mountain with my father, and he took these pictures on a bridge during that outing.
+
+
 ## personal-020 · Portrait edits
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-020.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-020.jpg" width="650" alt="personal-020 · Portrait edits" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-020.jpg)
 
+This image belongs to a series from a rainy day at school. I think it was early Shahrivar, though I am not sure of the exact date. I had brought my earbuds and was listening to music in the schoolyard during the storm, imagining myself as a powerful character. I came back into class with wet hair.
+
+My friend Ashkan Mohammad Alipour took photographs on his phone of my brother, Amir Hossein Sadegh and me. Ashkan is also my editor and helps with After Effects work and Blender animations. At the time I called Amir Hossein “SenpaiXD”; he often changes his artistic name because he dislikes repeating the same thing. Ashkan and our friend Sadra Shahi are not in this series. I later edited some of these images myself into a darker black-and-white style.
+
+The day became much harder immediately after the photographs. As I remember it, the school administrator, Mr Azizi, took my phone and earbuds and kept them until the following day. I was deeply upset and cried. These pictures hold both the excitement of that moment with my friends and a difficult memory from later that day.
+
+
 ## personal-021 · Portrait edits
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-021.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-021.jpg" width="650" alt="personal-021 · Portrait edits" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-021.jpg)
+
+This image belongs to a series from a rainy day at school. I think it was early Shahrivar, though I am not sure of the exact date. I had brought my earbuds and was listening to music in the schoolyard during the storm, imagining myself as a powerful character. I came back into class with wet hair.
+
+My friend Ashkan Mohammad Alipour took photographs on his phone of my brother, Amir Hossein Sadegh and me. Ashkan is also my editor and helps with After Effects work and Blender animations. At the time I called Amir Hossein “SenpaiXD”; he often changes his artistic name because he dislikes repeating the same thing. Ashkan and our friend Sadra Shahi are not in this series. I later edited some of these images myself into a darker black-and-white style.
+
+The day became much harder immediately after the photographs. As I remember it, the school administrator, Mr Azizi, took my phone and earbuds and kept them until the following day. I was deeply upset and cried. These pictures hold both the excitement of that moment with my friends and a difficult memory from later that day.
+
 
 ## personal-022 · Personal & family memories
 
@@ -289,11 +314,25 @@ This is a selfie with my mother at home. She said, “Come, let’s take a pictu
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-035.jpg)
 
+This image belongs to a series from a rainy day at school. I think it was early Shahrivar, though I am not sure of the exact date. I had brought my earbuds and was listening to music in the schoolyard during the storm, imagining myself as a powerful character. I came back into class with wet hair.
+
+My friend Ashkan Mohammad Alipour took photographs on his phone of my brother, Amir Hossein Sadegh and me. Ashkan is also my editor and helps with After Effects work and Blender animations. At the time I called Amir Hossein “SenpaiXD”; he often changes his artistic name because he dislikes repeating the same thing. Ashkan and our friend Sadra Shahi are not in this series. I later edited some of these images myself into a darker black-and-white style.
+
+The day became much harder immediately after the photographs. As I remember it, the school administrator, Mr Azizi, took my phone and earbuds and kept them until the following day. I was deeply upset and cried. These pictures hold both the excitement of that moment with my friends and a difficult memory from later that day.
+
+
 ## personal-036 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-036.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-036.jpg" width="650" alt="personal-036 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-036.jpg)
+
+This image belongs to a series from a rainy day at school. I think it was early Shahrivar, though I am not sure of the exact date. I had brought my earbuds and was listening to music in the schoolyard during the storm, imagining myself as a powerful character. I came back into class with wet hair.
+
+My friend Ashkan Mohammad Alipour took photographs on his phone of my brother, Amir Hossein Sadegh and me. Ashkan is also my editor and helps with After Effects work and Blender animations. At the time I called Amir Hossein “SenpaiXD”; he often changes his artistic name because he dislikes repeating the same thing. Ashkan and our friend Sadra Shahi are not in this series. I later edited some of these images myself into a darker black-and-white style.
+
+The day became much harder immediately after the photographs. As I remember it, the school administrator, Mr Azizi, took my phone and earbuds and kept them until the following day. I was deeply upset and cried. These pictures hold both the excitement of that moment with my friends and a difficult memory from later that day.
+
 
 ## personal-037 · Personal & family memories
 
@@ -301,11 +340,25 @@ This is a selfie with my mother at home. She said, “Come, let’s take a pictu
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-037.jpg)
 
+This image belongs to a series from a rainy day at school. I think it was early Shahrivar, though I am not sure of the exact date. I had brought my earbuds and was listening to music in the schoolyard during the storm, imagining myself as a powerful character. I came back into class with wet hair.
+
+My friend Ashkan Mohammad Alipour took photographs on his phone of my brother, Amir Hossein Sadegh and me. Ashkan is also my editor and helps with After Effects work and Blender animations. At the time I called Amir Hossein “SenpaiXD”; he often changes his artistic name because he dislikes repeating the same thing. Ashkan and our friend Sadra Shahi are not in this series. I later edited some of these images myself into a darker black-and-white style.
+
+The day became much harder immediately after the photographs. As I remember it, the school administrator, Mr Azizi, took my phone and earbuds and kept them until the following day. I was deeply upset and cried. These pictures hold both the excitement of that moment with my friends and a difficult memory from later that day.
+
+
 ## personal-038 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-038.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-038.jpg" width="650" alt="personal-038 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-038.jpg)
+
+This image belongs to a series from a rainy day at school. I think it was early Shahrivar, though I am not sure of the exact date. I had brought my earbuds and was listening to music in the schoolyard during the storm, imagining myself as a powerful character. I came back into class with wet hair.
+
+My friend Ashkan Mohammad Alipour took photographs on his phone of my brother, Amir Hossein Sadegh and me. Ashkan is also my editor and helps with After Effects work and Blender animations. At the time I called Amir Hossein “SenpaiXD”; he often changes his artistic name because he dislikes repeating the same thing. Ashkan and our friend Sadra Shahi are not in this series. I later edited some of these images myself into a darker black-and-white style.
+
+The day became much harder immediately after the photographs. As I remember it, the school administrator, Mr Azizi, took my phone and earbuds and kept them until the following day. I was deeply upset and cried. These pictures hold both the excitement of that moment with my friends and a difficult memory from later that day.
+
 
 ## personal-039 · Personal & family memories
 
@@ -313,11 +366,25 @@ This is a selfie with my mother at home. She said, “Come, let’s take a pictu
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-039.jpg)
 
+This image belongs to a series from a rainy day at school. I think it was early Shahrivar, though I am not sure of the exact date. I had brought my earbuds and was listening to music in the schoolyard during the storm, imagining myself as a powerful character. I came back into class with wet hair.
+
+My friend Ashkan Mohammad Alipour took photographs on his phone of my brother, Amir Hossein Sadegh and me. Ashkan is also my editor and helps with After Effects work and Blender animations. At the time I called Amir Hossein “SenpaiXD”; he often changes his artistic name because he dislikes repeating the same thing. Ashkan and our friend Sadra Shahi are not in this series. I later edited some of these images myself into a darker black-and-white style.
+
+The day became much harder immediately after the photographs. As I remember it, the school administrator, Mr Azizi, took my phone and earbuds and kept them until the following day. I was deeply upset and cried. These pictures hold both the excitement of that moment with my friends and a difficult memory from later that day.
+
+
 ## personal-040 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-040.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-040.jpg" width="650" alt="personal-040 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-040.jpg)
+
+This image belongs to a series from a rainy day at school. I think it was early Shahrivar, though I am not sure of the exact date. I had brought my earbuds and was listening to music in the schoolyard during the storm, imagining myself as a powerful character. I came back into class with wet hair.
+
+My friend Ashkan Mohammad Alipour took photographs on his phone of my brother, Amir Hossein Sadegh and me. Ashkan is also my editor and helps with After Effects work and Blender animations. At the time I called Amir Hossein “SenpaiXD”; he often changes his artistic name because he dislikes repeating the same thing. Ashkan and our friend Sadra Shahi are not in this series. I later edited some of these images myself into a darker black-and-white style.
+
+The day became much harder immediately after the photographs. As I remember it, the school administrator, Mr Azizi, took my phone and earbuds and kept them until the following day. I was deeply upset and cried. These pictures hold both the excitement of that moment with my friends and a difficult memory from later that day.
+
 
 ## personal-041 · Book memories
 

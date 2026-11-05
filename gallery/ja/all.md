@@ -174,11 +174,19 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-017.jpg)
 
+この写真は、イラン暦1405年のノウルーズ13日目、シーズダ・ベダルの日のものです。父と父方の親戚と一緒に、Maragheh近くのダムへ出かけました。父方の2人の叔母、叔父とその妻、祖母、父の母方の叔父Masoudとその家族、いとこたちや、ほかの親戚も一緒でした。
+
+父と双子の弟と私で山の斜面を上がり、父が私たちを撮ってくれました。ここでもサングラスをかけているのが私で、もう1人は弟のArmiyaです。
+
+
 ## personal-018 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-018.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-018.jpg" width="650" alt="personal-018 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-018.jpg)
+
+これらの写真は、イラン暦1405年のシーズダ・ベダルから約2週間後に撮りました。父と高い山へ出かけ、そのとき橋の上で父が写真を撮ってくれました。
+
 
 ## personal-019 · 個人と家族の思い出
 
@@ -186,17 +194,34 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-019.jpg)
 
+これらの写真は、イラン暦1405年のシーズダ・ベダルから約2週間後に撮りました。父と高い山へ出かけ、そのとき橋の上で父が写真を撮ってくれました。
+
+
 ## personal-020 · ポートレート編集
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-020.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-020.jpg" width="650" alt="personal-020 · ポートレート編集" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-020.jpg)
 
+この画像は、学校で過ごした雨の日の写真シリーズの1枚です。確かシャフリーヴァル月の初め頃でしたが、正確な日付には自信がありません。イヤホンを学校に持っていき、嵐の校庭で音楽を聴きながら、自分を力強いキャラクターとして想像していました。教室に戻ったとき、髪はぬれていました。
+
+友人のAshkan Mohammad Alipourが、自分のスマートフォンで私と双子の弟、Amir Hossein Sadeghの写真を撮ってくれました。Ashkanは私の編集も担当し、After Effectsの作業やBlenderのアニメーションでも手伝ってくれています。当時、私はAmir HosseinをSenpaiXDと呼んでいました。同じものを繰り返すのが好きではなく、活動名をよく変える友人です。Ashkanと友人のSadra Shahiは、この写真シリーズには写っていません。その後、私は一部の写真を自分で、より暗いモノクロのスタイルに編集しました。
+
+写真を撮った直後、その日はつらいものになりました。私の記憶では、学校の生活指導担当のAzizi先生が私のスマートフォンとイヤホンを預かり、翌日まで返してくれませんでした。私はとても悲しくなり、泣きました。この写真には、友人たちと過ごした瞬間の高揚感と、その後のつらい思い出の両方が残っています。
+
+
 ## personal-021 · ポートレート編集
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-021.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-021.jpg" width="650" alt="personal-021 · ポートレート編集" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-021.jpg)
+
+この画像は、学校で過ごした雨の日の写真シリーズの1枚です。確かシャフリーヴァル月の初め頃でしたが、正確な日付には自信がありません。イヤホンを学校に持っていき、嵐の校庭で音楽を聴きながら、自分を力強いキャラクターとして想像していました。教室に戻ったとき、髪はぬれていました。
+
+友人のAshkan Mohammad Alipourが、自分のスマートフォンで私と双子の弟、Amir Hossein Sadeghの写真を撮ってくれました。Ashkanは私の編集も担当し、After Effectsの作業やBlenderのアニメーションでも手伝ってくれています。当時、私はAmir HosseinをSenpaiXDと呼んでいました。同じものを繰り返すのが好きではなく、活動名をよく変える友人です。Ashkanと友人のSadra Shahiは、この写真シリーズには写っていません。その後、私は一部の写真を自分で、より暗いモノクロのスタイルに編集しました。
+
+写真を撮った直後、その日はつらいものになりました。私の記憶では、学校の生活指導担当のAzizi先生が私のスマートフォンとイヤホンを預かり、翌日まで返してくれませんでした。私はとても悲しくなり、泣きました。この写真には、友人たちと過ごした瞬間の高揚感と、その後のつらい思い出の両方が残っています。
+
 
 ## personal-022 · 個人と家族の思い出
 
@@ -289,11 +314,25 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-035.jpg)
 
+この画像は、学校で過ごした雨の日の写真シリーズの1枚です。確かシャフリーヴァル月の初め頃でしたが、正確な日付には自信がありません。イヤホンを学校に持っていき、嵐の校庭で音楽を聴きながら、自分を力強いキャラクターとして想像していました。教室に戻ったとき、髪はぬれていました。
+
+友人のAshkan Mohammad Alipourが、自分のスマートフォンで私と双子の弟、Amir Hossein Sadeghの写真を撮ってくれました。Ashkanは私の編集も担当し、After Effectsの作業やBlenderのアニメーションでも手伝ってくれています。当時、私はAmir HosseinをSenpaiXDと呼んでいました。同じものを繰り返すのが好きではなく、活動名をよく変える友人です。Ashkanと友人のSadra Shahiは、この写真シリーズには写っていません。その後、私は一部の写真を自分で、より暗いモノクロのスタイルに編集しました。
+
+写真を撮った直後、その日はつらいものになりました。私の記憶では、学校の生活指導担当のAzizi先生が私のスマートフォンとイヤホンを預かり、翌日まで返してくれませんでした。私はとても悲しくなり、泣きました。この写真には、友人たちと過ごした瞬間の高揚感と、その後のつらい思い出の両方が残っています。
+
+
 ## personal-036 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-036.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-036.jpg" width="650" alt="personal-036 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-036.jpg)
+
+この画像は、学校で過ごした雨の日の写真シリーズの1枚です。確かシャフリーヴァル月の初め頃でしたが、正確な日付には自信がありません。イヤホンを学校に持っていき、嵐の校庭で音楽を聴きながら、自分を力強いキャラクターとして想像していました。教室に戻ったとき、髪はぬれていました。
+
+友人のAshkan Mohammad Alipourが、自分のスマートフォンで私と双子の弟、Amir Hossein Sadeghの写真を撮ってくれました。Ashkanは私の編集も担当し、After Effectsの作業やBlenderのアニメーションでも手伝ってくれています。当時、私はAmir HosseinをSenpaiXDと呼んでいました。同じものを繰り返すのが好きではなく、活動名をよく変える友人です。Ashkanと友人のSadra Shahiは、この写真シリーズには写っていません。その後、私は一部の写真を自分で、より暗いモノクロのスタイルに編集しました。
+
+写真を撮った直後、その日はつらいものになりました。私の記憶では、学校の生活指導担当のAzizi先生が私のスマートフォンとイヤホンを預かり、翌日まで返してくれませんでした。私はとても悲しくなり、泣きました。この写真には、友人たちと過ごした瞬間の高揚感と、その後のつらい思い出の両方が残っています。
+
 
 ## personal-037 · 個人と家族の思い出
 
@@ -301,11 +340,25 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-037.jpg)
 
+この画像は、学校で過ごした雨の日の写真シリーズの1枚です。確かシャフリーヴァル月の初め頃でしたが、正確な日付には自信がありません。イヤホンを学校に持っていき、嵐の校庭で音楽を聴きながら、自分を力強いキャラクターとして想像していました。教室に戻ったとき、髪はぬれていました。
+
+友人のAshkan Mohammad Alipourが、自分のスマートフォンで私と双子の弟、Amir Hossein Sadeghの写真を撮ってくれました。Ashkanは私の編集も担当し、After Effectsの作業やBlenderのアニメーションでも手伝ってくれています。当時、私はAmir HosseinをSenpaiXDと呼んでいました。同じものを繰り返すのが好きではなく、活動名をよく変える友人です。Ashkanと友人のSadra Shahiは、この写真シリーズには写っていません。その後、私は一部の写真を自分で、より暗いモノクロのスタイルに編集しました。
+
+写真を撮った直後、その日はつらいものになりました。私の記憶では、学校の生活指導担当のAzizi先生が私のスマートフォンとイヤホンを預かり、翌日まで返してくれませんでした。私はとても悲しくなり、泣きました。この写真には、友人たちと過ごした瞬間の高揚感と、その後のつらい思い出の両方が残っています。
+
+
 ## personal-038 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-038.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-038.jpg" width="650" alt="personal-038 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-038.jpg)
+
+この画像は、学校で過ごした雨の日の写真シリーズの1枚です。確かシャフリーヴァル月の初め頃でしたが、正確な日付には自信がありません。イヤホンを学校に持っていき、嵐の校庭で音楽を聴きながら、自分を力強いキャラクターとして想像していました。教室に戻ったとき、髪はぬれていました。
+
+友人のAshkan Mohammad Alipourが、自分のスマートフォンで私と双子の弟、Amir Hossein Sadeghの写真を撮ってくれました。Ashkanは私の編集も担当し、After Effectsの作業やBlenderのアニメーションでも手伝ってくれています。当時、私はAmir HosseinをSenpaiXDと呼んでいました。同じものを繰り返すのが好きではなく、活動名をよく変える友人です。Ashkanと友人のSadra Shahiは、この写真シリーズには写っていません。その後、私は一部の写真を自分で、より暗いモノクロのスタイルに編集しました。
+
+写真を撮った直後、その日はつらいものになりました。私の記憶では、学校の生活指導担当のAzizi先生が私のスマートフォンとイヤホンを預かり、翌日まで返してくれませんでした。私はとても悲しくなり、泣きました。この写真には、友人たちと過ごした瞬間の高揚感と、その後のつらい思い出の両方が残っています。
+
 
 ## personal-039 · 個人と家族の思い出
 
@@ -313,11 +366,25 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-039.jpg)
 
+この画像は、学校で過ごした雨の日の写真シリーズの1枚です。確かシャフリーヴァル月の初め頃でしたが、正確な日付には自信がありません。イヤホンを学校に持っていき、嵐の校庭で音楽を聴きながら、自分を力強いキャラクターとして想像していました。教室に戻ったとき、髪はぬれていました。
+
+友人のAshkan Mohammad Alipourが、自分のスマートフォンで私と双子の弟、Amir Hossein Sadeghの写真を撮ってくれました。Ashkanは私の編集も担当し、After Effectsの作業やBlenderのアニメーションでも手伝ってくれています。当時、私はAmir HosseinをSenpaiXDと呼んでいました。同じものを繰り返すのが好きではなく、活動名をよく変える友人です。Ashkanと友人のSadra Shahiは、この写真シリーズには写っていません。その後、私は一部の写真を自分で、より暗いモノクロのスタイルに編集しました。
+
+写真を撮った直後、その日はつらいものになりました。私の記憶では、学校の生活指導担当のAzizi先生が私のスマートフォンとイヤホンを預かり、翌日まで返してくれませんでした。私はとても悲しくなり、泣きました。この写真には、友人たちと過ごした瞬間の高揚感と、その後のつらい思い出の両方が残っています。
+
+
 ## personal-040 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-040.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-040.jpg" width="650" alt="personal-040 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-040.jpg)
+
+この画像は、学校で過ごした雨の日の写真シリーズの1枚です。確かシャフリーヴァル月の初め頃でしたが、正確な日付には自信がありません。イヤホンを学校に持っていき、嵐の校庭で音楽を聴きながら、自分を力強いキャラクターとして想像していました。教室に戻ったとき、髪はぬれていました。
+
+友人のAshkan Mohammad Alipourが、自分のスマートフォンで私と双子の弟、Amir Hossein Sadeghの写真を撮ってくれました。Ashkanは私の編集も担当し、After Effectsの作業やBlenderのアニメーションでも手伝ってくれています。当時、私はAmir HosseinをSenpaiXDと呼んでいました。同じものを繰り返すのが好きではなく、活動名をよく変える友人です。Ashkanと友人のSadra Shahiは、この写真シリーズには写っていません。その後、私は一部の写真を自分で、より暗いモノクロのスタイルに編集しました。
+
+写真を撮った直後、その日はつらいものになりました。私の記憶では、学校の生活指導担当のAzizi先生が私のスマートフォンとイヤホンを預かり、翌日まで返してくれませんでした。私はとても悲しくなり、泣きました。この写真には、友人たちと過ごした瞬間の高揚感と、その後のつらい思い出の両方が残っています。
+
 
 ## personal-041 · 本の思い出
 

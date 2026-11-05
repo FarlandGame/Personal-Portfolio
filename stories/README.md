@@ -1,6 +1,6 @@
-# Photo stories — 19 of 140 recorded
+# Photo stories — 30 of 140 recorded
 
-Stories are supplied by the creator and published in English, Persian and Japanese. The remaining 121 images have not yet received individual stories. Dates, ages and identities are not inferred from appearance.
+Stories are supplied by the creator and published in English, Persian and Japanese. The remaining 110 images have not yet received individual stories. Dates, ages and identities are not inferred from appearance.
 
 داستان‌ها از زبان خود بردیا ثبت می‌شوند؛ هنوز کامل نیستند. / 作者本人から聞いた思い出を順次追加しています。
 
@@ -20,11 +20,11 @@ Stories are supplied by the creator and published in English, Persian and Japane
 - [x] personal-014 · [English](personal-014.en.md) · [فارسی](personal-014.fa.md) · [日本語](personal-014.ja.md)
 - [x] personal-015 · [English](personal-015.en.md) · [فارسی](personal-015.fa.md) · [日本語](personal-015.ja.md)
 - [x] personal-016 · [English](personal-016.en.md) · [فارسی](personal-016.fa.md) · [日本語](personal-016.ja.md)
-- [ ] personal-017
-- [ ] personal-018
-- [ ] personal-019
-- [ ] personal-020
-- [ ] personal-021
+- [x] personal-017 · [English](personal-017.en.md) · [فارسی](personal-017.fa.md) · [日本語](personal-017.ja.md)
+- [x] personal-018 · [English](personal-018.en.md) · [فارسی](personal-018.fa.md) · [日本語](personal-018.ja.md)
+- [x] personal-019 · [English](personal-019.en.md) · [فارسی](personal-019.fa.md) · [日本語](personal-019.ja.md)
+- [x] personal-020 · [English](personal-020.en.md) · [فارسی](personal-020.fa.md) · [日本語](personal-020.ja.md)
+- [x] personal-021 · [English](personal-021.en.md) · [فارسی](personal-021.fa.md) · [日本語](personal-021.ja.md)
 - [ ] personal-022
 - [ ] personal-023
 - [ ] personal-024
@@ -38,12 +38,12 @@ Stories are supplied by the creator and published in English, Persian and Japane
 - [x] personal-032 · [English](personal-032.en.md) · [فارسی](personal-032.fa.md) · [日本語](personal-032.ja.md)
 - [ ] personal-033
 - [ ] personal-034
-- [ ] personal-035
-- [ ] personal-036
-- [ ] personal-037
-- [ ] personal-038
-- [ ] personal-039
-- [ ] personal-040
+- [x] personal-035 · [English](personal-035.en.md) · [فارسی](personal-035.fa.md) · [日本語](personal-035.ja.md)
+- [x] personal-036 · [English](personal-036.en.md) · [فارسی](personal-036.fa.md) · [日本語](personal-036.ja.md)
+- [x] personal-037 · [English](personal-037.en.md) · [فارسی](personal-037.fa.md) · [日本語](personal-037.ja.md)
+- [x] personal-038 · [English](personal-038.en.md) · [فارسی](personal-038.fa.md) · [日本語](personal-038.ja.md)
+- [x] personal-039 · [English](personal-039.en.md) · [فارسی](personal-039.fa.md) · [日本語](personal-039.ja.md)
+- [x] personal-040 · [English](personal-040.en.md) · [فارسی](personal-040.fa.md) · [日本語](personal-040.ja.md)
 - [ ] personal-041
 - [ ] personal-042
 - [ ] personal-043
