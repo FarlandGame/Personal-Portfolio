@@ -132,11 +132,21 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-013.jpg)
 
+این عکس‌های نیمکت پارک، خاطره‌ای مهم از دوستی و همکاری من با علی دهقان‌نژاد، با نام هنری Alivexor هستند. علی تهرانی است و امروز او را بهترین دوست و همکارم می‌دانم. آن موقع پایهٔ دهم بودم و حدود پانزده یا شانزده سال داشتم؛ علی هم حدود پانزده سال داشت و یک پایهٔ تحصیلی پایین‌تر از من بود.
+
+برای همکاری روی THE APEX، پروژهٔ سرور داستانی ماینکرافت ما، با کمک مادرم که وکیل است یک قرارداد آماده کردیم. به تهران رفتم تا علی و پدرش آن را امضا کنند؛ هر دو نوجوان بودیم و خانواده‌هایمان هم در این کار همراه بودند. دایی‌ام، سیامک نورنژاد، همراهم بود. او برای بردن مادربزرگم پیش پزشک هم به تهران می‌رفت و من با آن‌ها همراه شدم.
+
+آن روز پدر علی و دو برادر کوچک‌ترش را دیدم. وسط پارک نشستیم و شیرموز خوردیم. خوش‌تیپ کرده بودم و دایی‌ام موهایم را حالت داده بود. برای من این‌ها فقط چند عکس روی نیمکت نیستند؛ یادگاریِ یک دوستی مهم و کارهایی هستند که می‌خواستیم با هم بسازیم.
+
+
 ## personal-014 · خاطرات شخصی و خانوادگی
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-014.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-014.jpg" width="650" alt="personal-014 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-014.jpg)
+
+این عکس در خانه، درست موقع تحویل سال و روز اول عید ۱۴۰۵ گرفته شد. دایی سجادم به خانه‌مان آمد و این عکس‌ها را از ما گرفت. من کسی هستم که عینک آفتابی دارد؛ آن کسی که کنارم عینک نزده، برادر دوقلویم ارمیاست.
+
 
 ## personal-015 · خاطرات شخصی و خانوادگی
 
@@ -144,11 +154,19 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-015.jpg)
 
+این عکس را دایی سجادم در خانه‌مان، موقع تحویل سال و روز اول عید ۱۴۰۵ از من گرفت. اینجا هم خودم هستم که عینک آفتابی زده‌ام. این عکس مربوط به همان دیدار نوروزیِ عکس ۰۱۴ است.
+
+
 ## personal-016 · خاطرات شخصی و خانوادگی
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-016.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-016.jpg" width="650" alt="personal-016 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-016.jpg)
+
+این عکس مربوط به سیزده‌بدر عید ۱۴۰۵ است. با پدرم و خانوادهٔ پدری‌ام به سد مراغه رفته بودیم؛ دو عمه‌ام، عمو و زن‌عمویم، مادربزرگم، داییِ پدرم مسعود و خانواده‌اش، پسرعمه‌ها و بقیهٔ فامیل هم بودند.
+
+با پدرم و برادر دوقلویم بالای کوه رفتیم و پدرم این عکس را از ما گرفت. اینجا هم کسی که عینک آفتابی دارد منم و نفر دیگر، برادرم ارمیاست.
+
 
 ## personal-017 · خاطرات شخصی و خانوادگی
 

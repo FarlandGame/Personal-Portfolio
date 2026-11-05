@@ -132,11 +132,21 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-013.jpg)
 
+公園のベンチで撮ったこれらの写真は、Alivexorという活動名で知られるAli Dehghannejadとの友情と共同制作における、大切な思い出です。Aliはテヘラン出身で、今では私の親友であり、一緒に活動する仲間です。当時、私は学校の10年生で15〜16歳くらい、Aliは15歳くらいで、学年は私より1つ下でした。
+
+MinecraftのストーリーサーバープロジェクトTHE APEXで協力するため、弁護士である母に手伝ってもらい、協力に関する契約を用意しました。Aliとお父さんに署名してもらうため、私はテヘランへ向かいました。私たちはまだ10代で、家族にも関わってもらっていました。叔父のSiamak Nournezhadが同行しました。叔父は祖母を医師のところへ連れていくためにもテヘランへ行く予定で、私もその旅に加わりました。
+
+その日、Aliのお父さんと2人の弟さんにも会いました。公園に座ってバナナミルクを飲み、私はおしゃれをして、髪も叔父に整えてもらっていました。私にとって、これは単なるベンチでの写真ではなく、大切な友人と、一緒に作りたいと思ったものの思い出です。
+
+
 ## personal-014 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-014.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-014.jpg" width="650" alt="personal-014 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-014.jpg)
+
+この写真は、イラン暦1405年のノウルーズ初日、年が明ける頃に家で撮りました。母方の叔父Sajjadが家に来て、私たちの写真を撮ってくれました。サングラスをかけているのが私で、隣の眼鏡をかけていない人は双子の弟Armiyaです。
+
 
 ## personal-015 · 個人と家族の思い出
 
@@ -144,11 +154,19 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-015.jpg)
 
+母方の叔父Sajjadが、イラン暦1405年のノウルーズ初日、年が明ける頃に私たちの家で撮ってくれた写真です。サングラスをかけているのは私です。写真personal-014と同じ、年始の訪問のときの1枚です。
+
+
 ## personal-016 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-016.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-016.jpg" width="650" alt="personal-016 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-016.jpg)
+
+この写真は、イラン暦1405年のノウルーズ13日目、シーズダ・ベダルの日のものです。父と父方の親戚と一緒に、Maragheh近くのダムへ出かけました。父方の2人の叔母、叔父とその妻、祖母、父の母方の叔父Masoudとその家族、いとこたちや、ほかの親戚も一緒でした。
+
+父と双子の弟と私で山の斜面を上がり、父が私たちを撮ってくれました。ここでもサングラスをかけているのが私で、もう1人は弟のArmiyaです。
+
 
 ## personal-017 · 個人と家族の思い出
 

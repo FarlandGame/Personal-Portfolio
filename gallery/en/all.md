@@ -132,11 +132,21 @@ That day I met Ali’s father and his two younger brothers. We sat in a park and
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-013.jpg)
 
+These park-bench photographs mark an important moment in my friendship and collaboration with Ali Dehghannejad, known as Alivexor. Ali is from Tehran, and today I consider him my best friend and collaborator. I was in tenth grade, around fifteen or sixteen, and Ali was around fifteen and one school year below me.
+
+For THE APEX, our Minecraft story-server project, my mother, who is a lawyer, helped prepare a collaboration agreement. I travelled to Tehran so Ali and his father could sign it; we were teenagers and involved our families in the process. My uncle Siamak Nournezhad accompanied me. He was also taking my grandmother to see a doctor, and I joined the trip.
+
+That day I met Ali’s father and his two younger brothers. We sat in a park and had banana milk. I had dressed up, and my uncle had styled my hair. These are more than just photographs on a bench to me: they are memories of an important friend and the work we wanted to build together.
+
+
 ## personal-014 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-014.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-014.jpg" width="650" alt="personal-014 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-014.jpg)
+
+This photograph was taken at home at the turn of the year, on the first day of Nowruz 1405 in the Iranian calendar. My maternal uncle Sajjad came over and took these pictures of us. I am the one wearing sunglasses; the person beside me without glasses is my twin brother Armiya.
+
 
 ## personal-015 · Personal & family memories
 
@@ -144,11 +154,19 @@ That day I met Ali’s father and his two younger brothers. We sat in a park and
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-015.jpg)
 
+My maternal uncle Sajjad took this photograph at our home at the turn of the year, on the first day of Nowruz 1405 in the Iranian calendar. I am wearing sunglasses. It belongs to the same New Year visit as photograph personal-014.
+
+
 ## personal-016 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-016.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-016.jpg" width="650" alt="personal-016 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-016.jpg)
+
+This photograph is from Sizdah Bedar, the thirteenth day of Nowruz 1405 in the Iranian calendar. We went to the dam near Maragheh with my father and his extended family: my two aunts, uncle and his wife, grandmother, my father’s maternal uncle Masoud and his family, cousins and other relatives.
+
+My father, my twin brother and I went up the mountainside, and my father took this photograph of us. Once again, I am the one wearing sunglasses; the other person is my brother Armiya.
+
 
 ## personal-017 · Personal & family memories
 
