@@ -1,0 +1,12 @@
+{
+  "personal-025": {
+    "path": "restorations/personal-025-ai-restored.png",
+    "label": {
+      "en": "AI-restored version · glare removed and clarity enhanced",
+      "fa": "نسخهٔ ترمیم‌شده با هوش مصنوعی؛ حذف بازتاب نور و بهبود وضوح",
+      "ja": "AI修復版：光の反射を除去し、見やすさを改善"
+    },
+    "sha256": "6e2708db599f0a73ab282b1d09d5ee8779c37a477c6811951840c2f734965b4e",
+    "method": "Built-in image_gen edit; generated restoration, may reconstruct fine details. Original supplied photo remains alongside it."
+  }
+}
