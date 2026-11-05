@@ -470,11 +470,17 @@ I saved this screenshot when I was seeing my book appear on websites around its 
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-042.jpg)
 
+This is another screenshot from the period when I was seeing my book featured online. It belongs to the same memory as photograph personal-041. I remember Digikala promoting the book around publication, and I saved these screenshots as a record of seeing it introduced on websites.
+
+
 ## personal-043 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-043.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-043.jpg" width="650" alt="personal-043 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-043.jpg)
+
+I took these casual photographs on the balcony at Aziz’s home because my hairstyle caught my attention. I remember that I actually wanted to send them to someone, although I no longer remember who. A small everyday moment that stayed in my gallery.
+
 
 ## personal-044 · Personal & family memories
 
@@ -482,11 +488,17 @@ I saved this screenshot when I was seeing my book appear on websites around its 
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-044.jpg)
 
+I took these casual photographs on the balcony at Aziz’s home because my hairstyle caught my attention. I remember that I actually wanted to send them to someone, although I no longer remember who. A small everyday moment that stayed in my gallery.
+
+
 ## personal-045 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-045.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-045.jpg" width="650" alt="personal-045 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-045.jpg)
+
+This is a school photograph of Amir Hossein Sadegh and me from tenth grade. Amir suggested taking a photograph together as a keepsake, so I took one. The sunlight made his face less clear in the picture than we would have liked, but the photograph remains a memory of that moment together.
+
 
 ## personal-046 · Personal & family memories
 

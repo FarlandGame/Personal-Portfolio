@@ -470,11 +470,17 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-042.jpg)
 
+این هم اسکرین‌شات دیگری از زمانی است که کتابم را در وب و میان معرفی‌ها و تبلیغات می‌دیدم؛ مربوط به همان خاطرهٔ عکس ۰۴۱ است. به یادم، دیجی‌کالا هنگام انتشار کتاب آن را معرفی و تبلیغ می‌کرد و من این تصویرها را به‌عنوان یادگاریِ دیده‌شدن کتاب در سایت‌ها نگه داشتم.
+
+
 ## personal-043 · خاطرات شخصی و خانوادگی
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-043.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-043.jpg" width="650" alt="personal-043 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-043.jpg)
+
+این دو عکس ساده را روی بالکن خانهٔ عزیز گرفتم، چون مدل موهایم برایم جالب شده بود. یادم هست در واقع می‌خواستم آن‌ها را برای کسی بفرستم، اما دیگر یادم نیست برای چه کسی. یک لحظهٔ معمولی که در گالری‌ام باقی مانده است.
+
 
 ## personal-044 · خاطرات شخصی و خانوادگی
 
@@ -482,11 +488,17 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-044.jpg)
 
+این دو عکس ساده را روی بالکن خانهٔ عزیز گرفتم، چون مدل موهایم برایم جالب شده بود. یادم هست در واقع می‌خواستم آن‌ها را برای کسی بفرستم، اما دیگر یادم نیست برای چه کسی. یک لحظهٔ معمولی که در گالری‌ام باقی مانده است.
+
+
 ## personal-045 · خاطرات شخصی و خانوادگی
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-045.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-045.jpg" width="650" alt="personal-045 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-045.jpg)
+
+این عکس یادگاریِ من و امیرحسین صادق در مدرسه و مربوط به پایهٔ دهم است. امیرحسین پیشنهاد داد با هم یک عکس یادگاری بگیریم و من هم گرفتم. نور آفتاب باعث شد صورت او در عکس آن‌طور که می‌خواستیم واضح نیفتد، اما عکس یادگاریِ همان لحظهٔ دونفره باقی مانده است.
+
 
 ## personal-046 · خاطرات شخصی و خانوادگی
 

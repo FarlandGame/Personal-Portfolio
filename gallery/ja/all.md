@@ -470,11 +470,17 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-042.jpg)
 
+自分の本がウェブ上で紹介されているのを見かけた頃の、もう1枚のスクリーンショットです。写真personal-041と同じ思い出に関係しています。出版の頃、Digikalaが本を紹介・宣伝していたと覚えていて、ウェブサイトに載った記録として保存していました。
+
+
 ## personal-043 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-043.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-043.jpg" width="650" alt="personal-043 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-043.jpg)
+
+髪型が気になって、Azizの家のバルコニーで撮った何気ない写真です。実は誰かに送ろうと思っていたことは覚えていますが、誰に送るつもりだったのかは、もう思い出せません。ギャラリーに残った、日常の小さなひとときです。
+
 
 ## personal-044 · 個人と家族の思い出
 
@@ -482,11 +488,17 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-044.jpg)
 
+髪型が気になって、Azizの家のバルコニーで撮った何気ない写真です。実は誰かに送ろうと思っていたことは覚えていますが、誰に送るつもりだったのかは、もう思い出せません。ギャラリーに残った、日常の小さなひとときです。
+
+
 ## personal-045 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-045.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-045.jpg" width="650" alt="personal-045 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-045.jpg)
+
+10年生の頃、学校でAmir Hossein Sadeghと一緒に撮った写真です。Amirが記念に写真を撮ろうと提案してくれたので、私が撮りました。日差しのために彼の顔が思うほどはっきり写りませんでしたが、一緒に過ごした瞬間の思い出として残っています。
+
 
 ## personal-046 · 個人と家族の思い出
 
