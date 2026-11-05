@@ -202,6 +202,9 @@
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-032.jpg)
 
+これは家で母と撮った自撮り写真です。母が「一緒に写真を撮ろう」と言ってくれました。母は黒い服を着ていて、赤い花が写っています。家で過ごした、何気ない2人のひとときです。
+
+
 ## personal-033 · 本の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-033.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-033.jpg" width="650" alt="personal-033 · 本の思い出" loading="lazy"></a>

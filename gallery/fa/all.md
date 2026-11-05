@@ -202,6 +202,9 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-032.jpg)
 
+این سلفی من و مادرم در خانه است. مادرم گفت: «بیا با هم عکس بگیریم.» لباسش سیاه است و یک گل قرمز دارد؛ یک لحظهٔ سادهٔ دونفره در خانه.
+
+
 ## personal-033 · خاطرات کتاب
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-033.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-033.jpg" width="650" alt="personal-033 · خاطرات کتاب" loading="lazy"></a>

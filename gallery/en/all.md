@@ -202,6 +202,9 @@ This is me at about one year and a few months old, close to turning two. I liked
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-032.jpg)
 
+This is a selfie with my mother at home. She said, “Come, let’s take a picture together.” She is wearing black with a red flower. A simple moment together at home.
+
+
 ## personal-033 · Book memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-033.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-033.jpg" width="650" alt="personal-033 · Book memories" loading="lazy"></a>
