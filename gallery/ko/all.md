@@ -1,4 +1,4 @@
-# 이미지 140장 전체 📸
+# 이미지 139장 전체 📸
 
 [GitHub 포트폴리오](https://github.com/FarlandGame) · [나의 개인 아카이브 — Farland_game 뒤의 Kabir](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.ko.md) · [▶ 사진과 아트워크 + 영상과 편집 작품](https://farlandgame.github.io/Personal-Portfolio/)
 
@@ -275,12 +275,6 @@
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-045.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-045.jpg" width="650" alt="personal-045 · 개인과 가족의 추억" loading="lazy"></a>
 
 [보기 / 다운로드](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-045.jpg)
-
-## personal-046 · 개인과 가족의 추억
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-046.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-046.jpg" width="650" alt="personal-046 · 개인과 가족의 추억" loading="lazy"></a>
-
-[보기 / 다운로드](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-046.jpg)
 
 ## personal-047 · 개인과 가족의 추억
 

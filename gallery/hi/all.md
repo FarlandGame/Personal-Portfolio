@@ -1,4 +1,4 @@
-# सभी 140 तस्वीरें व कलाकृतियाँ 📸
+# सभी 139 तस्वीरें व कलाकृतियाँ 📸
 
 [GitHub पोर्टफ़ोलियो](https://github.com/FarlandGame) · [मेरा निजी संग्रह — Farland_game के पीछे का Kabir](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.hi.md) · [▶ तस्वीरें और कलाकृतियाँ + वीडियो और संपादित रचनाएँ](https://farlandgame.github.io/Personal-Portfolio/)
 
@@ -275,12 +275,6 @@
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-045.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-045.jpg" width="650" alt="personal-045 · निजी और पारिवारिक यादें" loading="lazy"></a>
 
 [देखें / डाउनलोड करें](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-045.jpg)
-
-## personal-046 · निजी और पारिवारिक यादें
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-046.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-046.jpg" width="650" alt="personal-046 · निजी और पारिवारिक यादें" loading="lazy"></a>
-
-[देखें / डाउनलोड करें](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-046.jpg)
 
 ## personal-047 · निजी और पारिवारिक यादें
 

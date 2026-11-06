@@ -1,4 +1,4 @@
-# All 140 images 📸
+# All 139 images 📸
 
 [GitHub portfolio](https://github.com/FarlandGame) · [My Story — Kabir behind Farland_game](https://github.com/FarlandGame/Personal-Portfolio/blob/main/README.md) · [▶ Photos & artwork + Videos & edits](https://farlandgame.github.io/Personal-Portfolio/)
 
@@ -500,17 +500,14 @@ I took these casual photographs on the balcony at Aziz’s home because my hairs
 This is a school photograph of Amir Hossein Sadegh and me from tenth grade. Amir suggested taking a photograph together as a keepsake, so I took one. The sunlight made his face less clear in the picture than we would have liked, but the photograph remains a memory of that moment together.
 
 
-## personal-046 · Personal & family memories
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-046.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-046.jpg" width="650" alt="personal-046 · Personal &amp; family memories" loading="lazy"></a>
-
-[View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-046.jpg)
-
 ## personal-047 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-047.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-047.jpg" width="650" alt="personal-047 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-047.jpg)
+
+This is a school photograph of Amir Hossein Sadegh and me from tenth grade. Amir suggested taking a photograph together as a keepsake, so I took one. The sunlight made his face less clear in the picture than we would have liked, but the photograph remains a memory of that moment together.
+
 
 ## personal-048 · Personal & family memories
 
@@ -518,11 +515,33 @@ This is a school photograph of Amir Hossein Sadegh and me from tenth grade. Amir
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-048.jpg)
 
+Photograph personal-048 shows the parent budgies from the bird family we used to keep.
+
+We had kept the blue budgie and a white one since about seventh grade, when I was around thirteen. They were together for roughly three years without laying eggs. The seller had described them as a pair, but I later suspected that both were male. I tried vitamins and different things, and eventually the white bird died.
+
+Later, my father found a green budgie in the street. It seemed unwell, with an uneven beak and claws, so I took it to a vet. As I remember the conversation, the vet described it as a very old female in poor health with little prospect of recovery. We later exchanged it for a younger female. After she joined our blue bird, they bred and laid eggs. I remember about five chicks, with three hatching on one occasion and two on another; some eggs did not hatch. The chicks looked like their father.
+
+Eventually the birds became very noisy, and we sold them. These are among the last photographs I kept of that little bird family.
+
+There is an earlier childhood memory too. When my brother and I were about three or four, our aunt bought us two budgies, a golden one and a white one. A cat caught the golden bird at our grandmother’s home. We brought the white bird home and kept it for several years. I remember it later dying after eating a persimmon. These are my memories of what happened, not established veterinary explanations.
+
+
 ## personal-049 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-049.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-049.jpg" width="650" alt="personal-049 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-049.jpg)
+
+Photograph personal-049 shows two of their chicks. I remember the chicks taking after their father’s colour.
+
+We had kept the blue budgie and a white one since about seventh grade, when I was around thirteen. They were together for roughly three years without laying eggs. The seller had described them as a pair, but I later suspected that both were male. I tried vitamins and different things, and eventually the white bird died.
+
+Later, my father found a green budgie in the street. It seemed unwell, with an uneven beak and claws, so I took it to a vet. As I remember the conversation, the vet described it as a very old female in poor health with little prospect of recovery. We later exchanged it for a younger female. After she joined our blue bird, they bred and laid eggs. I remember about five chicks, with three hatching on one occasion and two on another; some eggs did not hatch. The chicks looked like their father.
+
+Eventually the birds became very noisy, and we sold them. These are among the last photographs I kept of that little bird family.
+
+There is an earlier childhood memory too. When my brother and I were about three or four, our aunt bought us two budgies, a golden one and a white one. A cat caught the golden bird at our grandmother’s home. We brought the white bird home and kept it for several years. I remember it later dying after eating a persimmon. These are my memories of what happened, not established veterinary explanations.
+
 
 ## personal-050 · Personal & family memories
 

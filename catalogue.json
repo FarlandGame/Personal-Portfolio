@@ -2,7 +2,7 @@
   "creator": "Bardiya Alizadeh (Kabir) / Farland_game",
   "ordering": "Catalogue order; chronology unconfirmed.",
   "processing_authorized": "User-selected complete, resized/recompressed viewing copies. Originals retained privately.",
-  "images": 140,
+  "images": 139,
   "videos": 12,
   "media": [
     {
@@ -978,27 +978,6 @@
       "published_path": "images/personal-045.jpg",
       "published_bytes": 378642,
       "published_sha256": "8c99bc04c865c15d2b82fcb514eae7b8f2227244286dc4b158c8138c65d9e3ab"
-    },
-    {
-      "collection": "personal",
-      "source_name": "1793887999876.jpg",
-      "bytes": 457460,
-      "sha256": "ca49038cc41897d25b7bd56f347764cce5e0aeca42c95250284914c3478338a3",
-      "type": "image",
-      "id": "personal-046",
-      "size": [
-        968,
-        1732
-      ],
-      "published_size": [
-        968,
-        1732
-      ],
-      "category": "memories",
-      "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
-      "published_path": "images/personal-046.jpg",
-      "published_bytes": 213078,
-      "published_sha256": "0ef4b049b5299d254319b2c0087d4583104a432643c49482b2c265713ce78baf"
     },
     {
       "collection": "personal",
@@ -3242,5 +3221,11 @@
       "download_url": "https://github.com/FarlandGame/Animation-Portfolio/releases/download/roblox-collection/RobloxEdit4.mp4"
     }
   ],
-  "story_status": "Creator stories being collected one photo at a time; no invented biographical captions."
+  "story_status": "Creator stories being collected one photo at a time; no invented biographical captions.",
+  "excluded_images": [
+    {
+      "id": "personal-046",
+      "reason": "Cropped duplicate of personal-047; excluded at creator request."
+    }
+  ]
 }

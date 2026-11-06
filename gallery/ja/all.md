@@ -1,4 +1,4 @@
-# 画像140点すべて 📸
+# 画像139点すべて 📸
 
 [GitHubポートフォリオ](https://github.com/FarlandGame) · [私の物語 — Farland_gameの素顔、Kabir](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.ja.md) · [▶ 写真と画像作品 + 動画と編集作品](https://farlandgame.github.io/Personal-Portfolio/?lang=ja)
 
@@ -500,17 +500,14 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 10年生の頃、学校でAmir Hossein Sadeghと一緒に撮った写真です。Amirが記念に写真を撮ろうと提案してくれたので、私が撮りました。日差しのために彼の顔が思うほどはっきり写りませんでしたが、一緒に過ごした瞬間の思い出として残っています。
 
 
-## personal-046 · 個人と家族の思い出
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-046.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-046.jpg" width="650" alt="personal-046 · 個人と家族の思い出" loading="lazy"></a>
-
-[表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-046.jpg)
-
 ## personal-047 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-047.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-047.jpg" width="650" alt="personal-047 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-047.jpg)
+
+10年生の頃、学校でAmir Hossein Sadeghと一緒に撮った写真です。Amirが記念に写真を撮ろうと提案してくれたので、私が撮りました。日差しのために彼の顔が思うほどはっきり写りませんでしたが、一緒に過ごした瞬間の思い出として残っています。
+
 
 ## personal-048 · 個人と家族の思い出
 
@@ -518,11 +515,33 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-048.jpg)
 
+写真personal-048に写っているのは、私たちが飼っていた鳥の家族の親鳥です。
+
+7年生で13歳くらいの頃から、青いセキセイインコと白い1羽を飼っていました。約3年間一緒にいましたが、卵は産みませんでした。店ではペアだと言われたものの、後になって私は両方ともオスだったのかもしれないと思いました。ビタミンなどいろいろ試しましたが、やがて白い鳥は死んでしまいました。
+
+その後、父が道で緑色のセキセイインコを見つけました。具合が悪そうで、くちばしや爪も曲がっていたため、獣医に連れていきました。私の記憶では、とても年を取った病気のメスで、回復は難しいという説明でした。その後、若いメスと交換しました。青い鳥と一緒になると繁殖して卵を産みました。あるときは3羽、別のときは2羽、合わせて5羽ほどのひなが生まれたと覚えています。かえらない卵もあり、ひなは父鳥に似ていました。
+
+やがて鳥たちの声がとても大きくなり、手放しました。これらは、その小さな鳥の家族を写した最後の写真の一部です。
+
+さらに昔の思い出もあります。弟と私が3〜4歳くらいの頃、叔母が金色と白のセキセイインコを買ってくれました。金色の鳥は祖母の家で猫に捕まり、白い鳥は私たちの家へ連れて帰って何年か飼いました。私の記憶では、その後、柿を食べた後に死んでしまいました。これらは私自身の記憶であり、獣医学的に確認された死因の説明ではありません。
+
+
 ## personal-049 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-049.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-049.jpg" width="650" alt="personal-049 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-049.jpg)
+
+写真personal-049に写っているのは、親鳥から生まれたひな2羽です。父鳥と同じような色になったと覚えています。
+
+7年生で13歳くらいの頃から、青いセキセイインコと白い1羽を飼っていました。約3年間一緒にいましたが、卵は産みませんでした。店ではペアだと言われたものの、後になって私は両方ともオスだったのかもしれないと思いました。ビタミンなどいろいろ試しましたが、やがて白い鳥は死んでしまいました。
+
+その後、父が道で緑色のセキセイインコを見つけました。具合が悪そうで、くちばしや爪も曲がっていたため、獣医に連れていきました。私の記憶では、とても年を取った病気のメスで、回復は難しいという説明でした。その後、若いメスと交換しました。青い鳥と一緒になると繁殖して卵を産みました。あるときは3羽、別のときは2羽、合わせて5羽ほどのひなが生まれたと覚えています。かえらない卵もあり、ひなは父鳥に似ていました。
+
+やがて鳥たちの声がとても大きくなり、手放しました。これらは、その小さな鳥の家族を写した最後の写真の一部です。
+
+さらに昔の思い出もあります。弟と私が3〜4歳くらいの頃、叔母が金色と白のセキセイインコを買ってくれました。金色の鳥は祖母の家で猫に捕まり、白い鳥は私たちの家へ連れて帰って何年か飼いました。私の記憶では、その後、柿を食べた後に死んでしまいました。これらは私自身の記憶であり、獣医学的に確認された死因の説明ではありません。
+
 
 ## personal-050 · 個人と家族の思い出
 

@@ -4,9 +4,9 @@
 
 [English](https://github.com/FarlandGame/Personal-Portfolio/blob/main/README.md) · [日本語](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.ja.md) · [فارسی](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.fa.md) · [Deutsch](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.de.md) · [Français](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.fr.md) · [Español](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.es.md) · [Português (Brasil)](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.pt-BR.md) · [Italiano](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.it.md) · [Nederlands](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.nl.md) · [Polski](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.pl.md) · [Українська](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.uk.md) · [Türkçe](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.tr.md) · [Русский](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.ru.md) · [简体中文](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.zh-CN.md) · [繁體中文](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.zh-TW.md) · [한국어](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.ko.md) · [हिन्दी](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.hi.md) · [Bahasa Indonesia](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.id.md)
 
-Je suis Bardiya Alizadeh, aussi appelé Kabir, artiste sous le nom de Farland_game. Je partage ici 140 images et 12 vidéos issues de mes archives personnelles sur le Bureau de mon ordinateur : souvenirs d’enfance et de famille, moments entre amis, photos de promotion et de reconnaissance de mon livre, portraits et créations retouchées. Vous trouverez aussi des visuels de THE APEX, mon serveur Minecraft narratif en cours de création, et une animation de 11,67 secondes. Bienvenue dans cette facette plus personnelle de mon univers.
+Je suis Bardiya Alizadeh, aussi appelé Kabir, artiste sous le nom de Farland_game. Je partage ici 139 images et 12 vidéos issues de mes archives personnelles sur le Bureau de mon ordinateur : souvenirs d’enfance et de famille, moments entre amis, photos de promotion et de reconnaissance de mon livre, portraits et créations retouchées. Vous trouverez aussi des visuels de THE APEX, mon serveur Minecraft narratif en cours de création, et une animation de 11,67 secondes. Bienvenue dans cette facette plus personnelle de mon univers.
 
-[▶ Photos et créations visuelles + Vidéos et montages](https://farlandgame.github.io/Personal-Portfolio/) · [Les 140 images](https://github.com/FarlandGame/Personal-Portfolio/blob/main/gallery/fr/all.md) · [Portfolio GitHub](https://github.com/FarlandGame)
+[▶ Photos et créations visuelles + Vidéos et montages](https://farlandgame.github.io/Personal-Portfolio/) · [Les 139 images](https://github.com/FarlandGame/Personal-Portfolio/blob/main/gallery/fr/all.md) · [Portfolio GitHub](https://github.com/FarlandGame)
 
 > Mon journal de quêtes inclut enfin la personne qui tient la manette.
 
@@ -18,7 +18,7 @@ Les portraits stylisés ou composites et les scènes fantastiques humoristiques 
 
 **Viewing copies: images resized to at most 2048 px with the full frame retained; complete-duration videos recompressed to fit within 1920×1080. Original desktop files remain unchanged.**
 
-- [Souvenirs personnels et familiaux](https://farlandgame.github.io/Personal-Portfolio/#category-memories) · 85 📸 · 6 🎬
+- [Souvenirs personnels et familiaux](https://farlandgame.github.io/Personal-Portfolio/#category-memories) · 84 📸 · 6 🎬
 - [Portraits retouchés](https://farlandgame.github.io/Personal-Portfolio/#category-portraits) · 38 📸 · 5 🎬
 - [Souvenirs autour du livre](https://farlandgame.github.io/Personal-Portfolio/#category-book) · 10 📸 · 0 🎬
 - [THE APEX](https://farlandgame.github.io/Personal-Portfolio/#category-apex) · 7 📸 · 1 🎬

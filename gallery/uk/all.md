@@ -1,4 +1,4 @@
-# Усі 140 зображень 📸
+# Усі 139 зображень 📸
 
 [Портфоліо на GitHub](https://github.com/FarlandGame) · [Мій особистий архів — Кабір за Farland_game](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.uk.md) · [▶ Фотографії та візуальні роботи + Відео та монтажі](https://farlandgame.github.io/Personal-Portfolio/)
 
@@ -275,12 +275,6 @@
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-045.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-045.jpg" width="650" alt="personal-045 · Особисті та родинні спогади" loading="lazy"></a>
 
 [Переглянути / завантажити](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-045.jpg)
-
-## personal-046 · Особисті та родинні спогади
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-046.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-046.jpg" width="650" alt="personal-046 · Особисті та родинні спогади" loading="lazy"></a>
-
-[Переглянути / завантажити](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-046.jpg)
 
 ## personal-047 · Особисті та родинні спогади
 

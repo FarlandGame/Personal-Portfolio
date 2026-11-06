@@ -1,4 +1,4 @@
-# 全部 140 张图片 📸
+# 全部 139 张图片 📸
 
 [GitHub 作品集](https://github.com/FarlandGame) · [我的私人档案——Farland_game 背后的 Kabir](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.zh-CN.md) · [▶ 照片与美术作品 + 视频与编辑作品](https://farlandgame.github.io/Personal-Portfolio/)
 
@@ -275,12 +275,6 @@
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-045.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-045.jpg" width="650" alt="personal-045 · 个人与家庭回忆" loading="lazy"></a>
 
 [查看 / 下载](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-045.jpg)
-
-## personal-046 · 个人与家庭回忆
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-046.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-046.jpg" width="650" alt="personal-046 · 个人与家庭回忆" loading="lazy"></a>
-
-[查看 / 下载](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-046.jpg)
 
 ## personal-047 · 个人与家庭回忆
 
