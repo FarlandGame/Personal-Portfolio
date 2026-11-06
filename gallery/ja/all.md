@@ -549,11 +549,19 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-050.jpg)
 
+これらの写真は、10年生の頃、学校から帰るときに撮りました。Amir Hossein Sadeghが一緒に写真を撮ろうと提案してくれたので、私が撮りました。私の白いシャツには、自分のチャンネルとブランドのデザインであるサボテンと紫色のLOVEの文字が入っています。9年生のときにデザインしてプリントしてもらい、費用は約200万トマンだったと覚えています。
+
+
 ## personal-051 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-051.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-051.jpg" width="650" alt="personal-051 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-051.jpg)
+
+これらの写真は、10年生の頃、学校から帰るときに撮りました。Amir Hossein Sadeghが一緒に写真を撮ろうと提案してくれたので、私が撮りました。私の白いシャツには、自分のチャンネルとブランドのデザインであるサボテンと紫色のLOVEの文字が入っています。9年生のときにデザインしてプリントしてもらい、費用は約200万トマンだったと覚えています。
+
+写真personal-051では、写真を撮っている私たちを見かけた11年生の生徒が、中央に入って一緒に写ってくれました。名前はNajafだったと思いますが、はっきりとは覚えていません。
+
 
 ## personal-052 · 個人と家族の思い出
 
@@ -561,11 +569,17 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-052.jpg)
 
+これらの写真は、10年生の頃、学校から帰るときに撮りました。Amir Hossein Sadeghが一緒に写真を撮ろうと提案してくれたので、私が撮りました。私の白いシャツには、自分のチャンネルとブランドのデザインであるサボテンと紫色のLOVEの文字が入っています。9年生のときにデザインしてプリントしてもらい、費用は約200万トマンだったと覚えています。
+
+
 ## personal-053 · 本の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-053.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-053.jpg" width="650" alt="personal-053 · 本の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-053.jpg)
+
+これも、自分の本がインターネットで紹介・宣伝されているところを保存したスクリーンショットです。前の画像と同じように、ウェブサイトで本を見かけた思い出として残しています。
+
 
 ## personal-054 · 個人と家族の思い出
 

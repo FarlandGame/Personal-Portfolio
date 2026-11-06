@@ -549,11 +549,19 @@ There is an earlier childhood memory too. When my brother and I were about three
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-050.jpg)
 
+These photographs were taken as we were leaving school in tenth grade. Amir Hossein Sadegh suggested taking a photograph together, so I took the pictures. The white shirt I am wearing carries my own channel and brand design: a cactus motif with purple LOVE lettering. I designed and had the shirt printed in ninth grade, at a cost I remember as about two million tomans.
+
+
 ## personal-051 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-051.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-051.jpg" width="650" alt="personal-051 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-051.jpg)
+
+These photographs were taken as we were leaving school in tenth grade. Amir Hossein Sadegh suggested taking a photograph together, so I took the pictures. The white shirt I am wearing carries my own channel and brand design: a cactus motif with purple LOVE lettering. I designed and had the shirt printed in ninth grade, at a cost I remember as about two million tomans.
+
+In photograph personal-051, an eleventh-grade student saw us taking pictures and joined us in the middle. I think his name was Najaf, but I am not certain.
+
 
 ## personal-052 · Personal & family memories
 
@@ -561,11 +569,17 @@ There is an earlier childhood memory too. When my brother and I were about three
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-052.jpg)
 
+These photographs were taken as we were leaving school in tenth grade. Amir Hossein Sadegh suggested taking a photograph together, so I took the pictures. The white shirt I am wearing carries my own channel and brand design: a cactus motif with purple LOVE lettering. I designed and had the shirt printed in ninth grade, at a cost I remember as about two million tomans.
+
+
 ## personal-053 · Book memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-053.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-053.jpg" width="650" alt="personal-053 · Book memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-053.jpg)
+
+This is another screenshot I saved of my book being promoted online. Like the earlier screenshots, I kept it as a memory of seeing the book introduced on websites.
+
 
 ## personal-054 · Personal & family memories
 

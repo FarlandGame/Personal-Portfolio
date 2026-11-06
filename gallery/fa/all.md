@@ -549,11 +549,19 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-050.jpg)
 
+این عکس‌ها را هنگام بیرون‌آمدن از مدرسه در پایهٔ دهم گرفتیم. امیرحسین صادق گفت با هم عکس بگیریم و من هم گرفتم. پیراهن سفیدم طرح کانال و برند خودم را دارد: کاکتوس و نوشتهٔ بنفش LOVE. این پیراهن را در پایهٔ نهم طراحی و چاپ کردم و هزینه‌اش، به یادم، حدود دو میلیون تومان بود.
+
+
 ## personal-051 · خاطرات شخصی و خانوادگی
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-051.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-051.jpg" width="650" alt="personal-051 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-051.jpg)
+
+این عکس‌ها را هنگام بیرون‌آمدن از مدرسه در پایهٔ دهم گرفتیم. امیرحسین صادق گفت با هم عکس بگیریم و من هم گرفتم. پیراهن سفیدم طرح کانال و برند خودم را دارد: کاکتوس و نوشتهٔ بنفش LOVE. این پیراهن را در پایهٔ نهم طراحی و چاپ کردم و هزینه‌اش، به یادم، حدود دو میلیون تومان بود.
+
+در عکس ۰۵۱، یکی از دانش‌آموزان پایهٔ یازدهم دید که عکس می‌گیریم و آمد وسط ما ایستاد تا با هم عکس بگیریم. فکر می‌کنم اسمش نجف بود، اما مطمئن نیستم.
+
 
 ## personal-052 · خاطرات شخصی و خانوادگی
 
@@ -561,11 +569,17 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-052.jpg)
 
+این عکس‌ها را هنگام بیرون‌آمدن از مدرسه در پایهٔ دهم گرفتیم. امیرحسین صادق گفت با هم عکس بگیریم و من هم گرفتم. پیراهن سفیدم طرح کانال و برند خودم را دارد: کاکتوس و نوشتهٔ بنفش LOVE. این پیراهن را در پایهٔ نهم طراحی و چاپ کردم و هزینه‌اش، به یادم، حدود دو میلیون تومان بود.
+
+
 ## personal-053 · خاطرات کتاب
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-053.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-053.jpg" width="650" alt="personal-053 · خاطرات کتاب" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-053.jpg)
+
+این هم اسکرین‌شات دیگری از معرفی و تبلیغ کتابم در اینترنت است. مثل تصویرهای قبلی، آن را به‌عنوان یادگاریِ دیده‌شدن کتاب در سایت‌ها نگه داشتم.
+
 
 ## personal-054 · خاطرات شخصی و خانوادگی
 
