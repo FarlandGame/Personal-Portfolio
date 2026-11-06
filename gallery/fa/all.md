@@ -631,11 +631,19 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-059.jpg)
 
+آن شب از صفحهٔ مقدمهٔ کتابم هم عکس گرفتیم.
+
+شبی که اولین ۵۰ جلد از چاپ اول کتابم به دستم رسید، مادرم کیک گرفت و من، برادر دوقلویم و مادرم با هم جشن گرفتیم. عکس گرفتیم، لحظه را استوری کردیم و کیک را خوردیم؛ یک جشن خانوادگی برای دیدن اولین کتابم در نسخهٔ چاپی.
+
+
 ## personal-060 · خاطرات شخصی و خانوادگی
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-060.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-060.jpg" width="650" alt="personal-060 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-060.jpg)
+
+این عکس مربوط به جشنوارهٔ کتابی در تهران در سال ۱۴۰۴ است. برای تبلیغات کلاسینو یک فضای ماینکرفتی ساخته بودند، با کاراکتر زامبی و کلاه‌های استیو. اگر با زامبی عکس می‌گرفتی و استوری می‌کردی، وارد قرعه‌کشی می‌شدی. برنده نشدم، اما این عکس و کلاه‌های استیو را به‌عنوان یادگاریِ آن بازدید نگه داشتم.
+
 
 ## personal-061 · خاطرات شخصی و خانوادگی
 
@@ -643,11 +651,21 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-061.jpg)
 
+این عکس کودکیِ خودم است؛ حدود یک تا دو سال داشتم. بعدها با گوشی از عکس داخل آلبوم عکس گرفتم. بازتاب نور و کیفیت عکس گوشی باعث شد نسخهٔ ارسالی وضوح خوبی نداشته باشد؛ برای همین خواستم یک نسخهٔ ترمیم‌شدهٔ جدا داشته باشم و نسخهٔ ارسالی هم حفظ شود.
+
+
+[نسخهٔ ترمیم‌شده با هوش مصنوعی؛ کاهش بازتاب نور و بهبود وضوح](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/restorations/personal-061-ai-restored.png)
+
 ## personal-062 · خاطرات شخصی و خانوادگی
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-062.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-062.jpg" width="650" alt="personal-062 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-062.jpg)
+
+این عکس را از پایهٔ نهم و حدود سال ۱۴۰۲ یا ۱۴۰۳ به یاد دارم؛ از سال دقیقش مطمئن نیستم. لباس ورزشی طوسی‌ام یادم می‌آورد که دوشنبه بود و زنگ اول ورزش داشتیم.
+
+موقع بیرون‌آمدن از مدرسه به دوستم علی، که از هفتم تا حالا با او دوستم، گفتم عکس درست‌وحسابی با هم نداریم و پیشنهاد دادم عکس بگیریم. به نظر خودم، هیچ‌کداممان خیلی خوب نیفتادیم؛ ولی دوستی‌مان خیلی بهتر از کیفیت این عکس است! او از بهترین دوست‌هایی است که هرکسی می‌تواند داشته باشد.
+
 
 ## personal-063 · خاطرات شخصی و خانوادگی
 

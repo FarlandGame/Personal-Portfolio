@@ -631,11 +631,19 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-059.jpg)
 
+その夜、本の序文のページも写真に撮りました。
+
+初版の本50冊が手元に届いた夜、母がケーキを買ってくれました。双子の弟と母と私の3人でお祝いし、写真を撮ってストーリーに載せ、ケーキを食べました。自分の初めての本が印刷された形になったことを喜ぶ、小さな家族のお祝いでした。
+
+
 ## personal-060 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-060.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-060.jpg" width="650" alt="personal-060 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-060.jpg)
+
+これはイラン暦1404年にテヘランの本のフェスティバルで撮った写真です。Classinoの宣伝用にMinecraftをテーマにした場所があり、ゾンビのキャラクターやSteveの帽子が用意されていました。ゾンビと写真を撮り、ストーリーに投稿すると抽選に参加できました。当たりませんでしたが、この写真とSteveの帽子が訪問の思い出になりました。
+
 
 ## personal-061 · 個人と家族の思い出
 
@@ -643,11 +651,21 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-061.jpg)
 
+これは1〜2歳くらいの私の写真です。後になって、アルバムのプリント写真をスマートフォンで撮りました。光の反射やその撮影の画質で見えにくくなっていたため、提供した画像を残したまま、修復版を別に作ってもらうことにしました。
+
+
+[AI修復版：光の反射を抑え、見やすさを改善](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/restorations/personal-061-ai-restored.png)
+
 ## personal-062 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-062.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-062.jpg" width="650" alt="personal-062 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-062.jpg)
+
+9年生の頃、イラン暦1402年か1403年あたりの写真だったと覚えていますが、正確な年には自信がありません。灰色の運動着を見ると、1時間目に体育があった月曜日だったことを思い出します。
+
+学校から帰るとき、7年生からずっと友人のAliと、まともな写真をまだ撮っていないと気づき、一緒に撮ろうと声をかけました。私としては2人ともあまりうまく写らなかったと思いますが、友情はこの写真の出来よりずっとすてきです！誰にとっても最高の友人になれる人です。
+
 
 ## personal-063 · 個人と家族の思い出
 

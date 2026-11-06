@@ -631,11 +631,19 @@ The evening my first 50 printed copies arrived, my mother bought a cake and we c
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-059.jpg)
 
+We also photographed the introduction page of my book that evening.
+
+The evening my first 50 printed copies arrived, my mother bought a cake and we celebrated together—my twin brother, my mother and me. We took photographs, shared the moment in our stories and ate the cake. It was a small family celebration for seeing my first book in print.
+
+
 ## personal-060 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-060.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-060.jpg" width="650" alt="personal-060 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-060.jpg)
+
+This photograph is from a book festival in Tehran in 1404 of the Iranian calendar. There was a Minecraft-themed promotional area for Classino, with a zombie character and Steve hats. Visitors could take a photograph with the zombie and share it in their stories to enter a prize draw. I did not win, but I kept this photograph and the Steve hats as memories of the visit.
+
 
 ## personal-061 · Personal & family memories
 
@@ -643,11 +651,21 @@ The evening my first 50 printed copies arrived, my mother bought a cake and we c
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-061.jpg)
 
+This is a childhood photograph of me, around one to two years old. I later photographed the album print with my phone. Reflected light and the quality of that phone photograph made the supplied image less clear, so I requested a separately labelled restoration while keeping the supplied version.
+
+
+[AI-restored version · reflection reduced and clarity enhanced](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/restorations/personal-061-ai-restored.png)
+
 ## personal-062 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-062.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-062.jpg" width="650" alt="personal-062 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-062.jpg)
+
+I remember this as a ninth-grade photograph, from around 1402 or 1403 in the Iranian calendar; I am not certain of the year. My grey sports clothes remind me that it was a Monday, when we had physical education in the first lesson.
+
+As we were leaving school, I realised I did not have a good photograph with my friend Ali, whom I have known since seventh grade. I suggested taking one together. In my opinion, neither of us came out at our best—but our friendship is much better than the photograph! He is one of the best friends anyone could have.
+
 
 ## personal-063 · Personal & family memories
 
