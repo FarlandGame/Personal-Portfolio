@@ -587,17 +587,26 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-054.jpg)
 
+学校で撮った何気ない写真です。自分のブランドのサボテンと紫色のLOVEのデザインが入った、あの白いシャツを着ています。生徒のSina Vatanも写真に写っています。
+
+
 ## personal-055 · 本の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-055.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-055.jpg" width="650" alt="personal-055 · 本の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-055.jpg)
 
+初版の本50冊が手元に届いた夜、母がケーキを買ってくれました。双子の弟と母と私の3人でお祝いし、写真を撮ってストーリーに載せ、ケーキを食べました。自分の初めての本が印刷された形になったことを喜ぶ、小さな家族のお祝いでした。 これらの写真も同じ夜に撮り、ストーリーに載せました。
+
+
 ## personal-056 · 本の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-056.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-056.jpg" width="650" alt="personal-056 · 本の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-056.jpg)
+
+初版の本50冊が手元に届いた夜、母がケーキを買ってくれました。双子の弟と母と私の3人でお祝いし、写真を撮ってストーリーに載せ、ケーキを食べました。自分の初めての本が印刷された形になったことを喜ぶ、小さな家族のお祝いでした。 これらの写真も同じ夜に撮り、ストーリーに載せました。
+
 
 ## personal-057 · 本の思い出
 
@@ -612,6 +621,9 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-058.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-058.jpg" width="650" alt="personal-058 · 本の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-058.jpg)
+
+初版の本50冊が手元に届いた夜、母がケーキを買ってくれました。双子の弟と母と私の3人でお祝いし、写真を撮ってストーリーに載せ、ケーキを食べました。自分の初めての本が印刷された形になったことを喜ぶ、小さな家族のお祝いでした。 これらの写真も同じ夜に撮り、ストーリーに載せました。
+
 
 ## personal-059 · 本の思い出
 

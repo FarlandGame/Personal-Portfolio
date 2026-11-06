@@ -587,17 +587,26 @@ This is another screenshot I saved of my book being promoted online. Like the ea
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-054.jpg)
 
+This is a casual photograph at school. I am wearing the same white shirt with my own cactus and purple LOVE brand design. Another student, Sina Vatan, also appears in the photograph.
+
+
 ## personal-055 · Book memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-055.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-055.jpg" width="650" alt="personal-055 · Book memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-055.jpg)
 
+The evening my first 50 printed copies arrived, my mother bought a cake and we celebrated together—my twin brother, my mother and me. We took photographs, shared the moment in our stories and ate the cake. It was a small family celebration for seeing my first book in print. These photographs were taken that same evening, and I shared them in my stories.
+
+
 ## personal-056 · Book memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-056.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-056.jpg" width="650" alt="personal-056 · Book memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-056.jpg)
+
+The evening my first 50 printed copies arrived, my mother bought a cake and we celebrated together—my twin brother, my mother and me. We took photographs, shared the moment in our stories and ate the cake. It was a small family celebration for seeing my first book in print. These photographs were taken that same evening, and I shared them in my stories.
+
 
 ## personal-057 · Book memories
 
@@ -612,6 +621,9 @@ The evening my first 50 printed copies arrived, my mother bought a cake and we c
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-058.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-058.jpg" width="650" alt="personal-058 · Book memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-058.jpg)
+
+The evening my first 50 printed copies arrived, my mother bought a cake and we celebrated together—my twin brother, my mother and me. We took photographs, shared the moment in our stories and ate the cake. It was a small family celebration for seeing my first book in print. These photographs were taken that same evening, and I shared them in my stories.
+
 
 ## personal-059 · Book memories
 

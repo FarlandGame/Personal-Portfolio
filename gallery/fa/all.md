@@ -587,17 +587,26 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-054.jpg)
 
+این یک عکس معمولی در مدرسه است. همان پیراهن سفید با طرح کاکتوس و LOVE بنفشِ برند خودم را پوشیده‌ام. یکی از دانش‌آموزان به نام سینا وطن هم در این عکس دیده می‌شود.
+
+
 ## personal-055 · خاطرات کتاب
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-055.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-055.jpg" width="650" alt="personal-055 · خاطرات کتاب" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-055.jpg)
 
+شبی که اولین ۵۰ جلد از چاپ اول کتابم به دستم رسید، مادرم کیک گرفت و من، برادر دوقلویم و مادرم با هم جشن گرفتیم. عکس گرفتیم، لحظه را استوری کردیم و کیک را خوردیم؛ یک جشن خانوادگی برای دیدن اولین کتابم در نسخهٔ چاپی. این عکس‌ها هم همان شب گرفته شدند و آن‌ها را استوری کردم.
+
+
 ## personal-056 · خاطرات کتاب
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-056.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-056.jpg" width="650" alt="personal-056 · خاطرات کتاب" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-056.jpg)
+
+شبی که اولین ۵۰ جلد از چاپ اول کتابم به دستم رسید، مادرم کیک گرفت و من، برادر دوقلویم و مادرم با هم جشن گرفتیم. عکس گرفتیم، لحظه را استوری کردیم و کیک را خوردیم؛ یک جشن خانوادگی برای دیدن اولین کتابم در نسخهٔ چاپی. این عکس‌ها هم همان شب گرفته شدند و آن‌ها را استوری کردم.
+
 
 ## personal-057 · خاطرات کتاب
 
@@ -612,6 +621,9 @@
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-058.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-058.jpg" width="650" alt="personal-058 · خاطرات کتاب" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-058.jpg)
+
+شبی که اولین ۵۰ جلد از چاپ اول کتابم به دستم رسید، مادرم کیک گرفت و من، برادر دوقلویم و مادرم با هم جشن گرفتیم. عکس گرفتیم، لحظه را استوری کردیم و کیک را خوردیم؛ یک جشن خانوادگی برای دیدن اولین کتابم در نسخهٔ چاپی. این عکس‌ها هم همان شب گرفته شدند و آن‌ها را استوری کردم.
+
 
 ## personal-059 · خاطرات کتاب
 
