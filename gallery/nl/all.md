@@ -1,4 +1,4 @@
-# Alle 139 beelden 📸
+# Alle 138 beelden 📸
 
 [GitHub-portfolio](https://github.com/FarlandGame) · [Mijn persoonlijke archief — Kabir achter Farland_game](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.nl.md) · [▶ Foto’s en beeldende kunst + Video’s en bewerkingen](https://farlandgame.github.io/Personal-Portfolio/)
 
@@ -431,12 +431,6 @@ De volgorde volgt de catalogus en is geen bevestigde chronologie.
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-072.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-072.jpg" width="650" alt="personal-072 · Persoonlijke en familieherinneringen" loading="lazy"></a>
 
 [Bekijken / downloaden](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-072.jpg)
-
-## personal-073 · Persoonlijke en familieherinneringen
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-073.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-073.jpg" width="650" alt="personal-073 · Persoonlijke en familieherinneringen" loading="lazy"></a>
-
-[Bekijken / downloaden](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-073.jpg)
 
 ## personal-074 · Persoonlijke en familieherinneringen
 

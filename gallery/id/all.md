@@ -1,4 +1,4 @@
-# Semua 139 gambar 📸
+# Semua 138 gambar 📸
 
 [Portofolio GitHub](https://github.com/FarlandGame) · [Arsip pribadi saya — Kabir di balik Farland_game](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.id.md) · [▶ Foto dan karya visual + Video dan suntingan](https://farlandgame.github.io/Personal-Portfolio/)
 
@@ -431,12 +431,6 @@ Materi disusun menurut urutan katalog, bukan kronologi yang telah dipastikan.
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-072.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-072.jpg" width="650" alt="personal-072 · Kenangan pribadi dan keluarga" loading="lazy"></a>
 
 [Lihat / unduh](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-072.jpg)
-
-## personal-073 · Kenangan pribadi dan keluarga
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-073.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-073.jpg" width="650" alt="personal-073 · Kenangan pribadi dan keluarga" loading="lazy"></a>
-
-[Lihat / unduh](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-073.jpg)
 
 ## personal-074 · Kenangan pribadi dan keluarga
 

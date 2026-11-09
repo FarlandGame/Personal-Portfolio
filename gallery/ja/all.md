@@ -1,4 +1,4 @@
-# 画像139点すべて 📸
+# 画像138点すべて 📸
 
 [GitHubポートフォリオ](https://github.com/FarlandGame) · [私の物語 — Farland_gameの素顔、Kabir](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.ja.md) · [▶ 写真と画像作品 + 動画と編集作品](https://farlandgame.github.io/Personal-Portfolio/?lang=ja)
 
@@ -747,23 +747,26 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-071.jpg)
 
+これらの写真は、写真personal-066と同じ、タブリーズでの誕生日のお祝いのものです。15歳になり、人生の16年目を迎えるところでした。母と母方の家族と一緒に、Berkehという名前だったと覚えているレストランでお祝いしました。とても楽しく、その後は遊園地にも行きました。同じ幸せな家族の1日を残した写真です。
+
+
 ## personal-072 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-072.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-072.jpg" width="650" alt="personal-072 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-072.jpg)
 
-## personal-073 · 個人と家族の思い出
+これらの写真は、写真personal-066と同じ、タブリーズでの誕生日のお祝いのものです。15歳になり、人生の16年目を迎えるところでした。母と母方の家族と一緒に、Berkehという名前だったと覚えているレストランでお祝いしました。とても楽しく、その後は遊園地にも行きました。同じ幸せな家族の1日を残した写真です。
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-073.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-073.jpg" width="650" alt="personal-073 · 個人と家族の思い出" loading="lazy"></a>
-
-[表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-073.jpg)
 
 ## personal-074 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-074.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-074.jpg" width="650" alt="personal-074 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-074.jpg)
+
+これはイラン暦1403年か1404年のノウルーズの写真だったと覚えています。どちらの年かははっきり思い出せないので、その不確かさも写真と一緒に残しています。
+
 
 ## personal-075 · 個人と家族の思い出
 

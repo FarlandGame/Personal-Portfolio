@@ -1,4 +1,4 @@
-# هر ۱۳۹ عکس و تصویر 📸
+# هر ۱۳۸ عکس و تصویر 📸
 
 [پروفایل گیت‌هاب](https://github.com/FarlandGame) · [داستان من؛ کبیر پشت نام Farland_game](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.fa.md) · [▶ عکس‌ها و تصویرها + ویدئوها و ادیت‌ها](https://farlandgame.github.io/Personal-Portfolio/?lang=fa)
 
@@ -747,23 +747,26 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-071.jpg)
 
+این عکس‌ها مربوط به همان جشن تولد در تبریز هستند که خاطره‌اش را برای عکس ۰۶۶ گفتم. پانزده سال را تمام کرده بودم و وارد شانزدهمین سال زندگی‌ام می‌شدم. با مادرم و خانوادهٔ مادری‌ام در رستورانی که نامش را «برکه» به یاد دارم جشن گرفتیم. خیلی خوش گذشت و بعد هم به شهربازی رفتیم. این‌ها یادگاری‌های بیشتری از همان روز خوب خانوادگی هستند.
+
+
 ## personal-072 · خاطرات شخصی و خانوادگی
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-072.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-072.jpg" width="650" alt="personal-072 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-072.jpg)
 
-## personal-073 · خاطرات شخصی و خانوادگی
+این عکس‌ها مربوط به همان جشن تولد در تبریز هستند که خاطره‌اش را برای عکس ۰۶۶ گفتم. پانزده سال را تمام کرده بودم و وارد شانزدهمین سال زندگی‌ام می‌شدم. با مادرم و خانوادهٔ مادری‌ام در رستورانی که نامش را «برکه» به یاد دارم جشن گرفتیم. خیلی خوش گذشت و بعد هم به شهربازی رفتیم. این‌ها یادگاری‌های بیشتری از همان روز خوب خانوادگی هستند.
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-073.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-073.jpg" width="650" alt="personal-073 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
-
-[دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-073.jpg)
 
 ## personal-074 · خاطرات شخصی و خانوادگی
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-074.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-074.jpg" width="650" alt="personal-074 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-074.jpg)
+
+این عکس را از عید نوروز، در سال ۱۴۰۳ یا ۱۴۰۴، به یاد دارم. مطمئن نیستم کدام سال بوده؛ برای همین تاریخش را همان‌طور نامطمئن نگه می‌دارم.
+
 
 ## personal-075 · خاطرات شخصی و خانوادگی
 

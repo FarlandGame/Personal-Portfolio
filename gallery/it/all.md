@@ -1,4 +1,4 @@
-# Tutte le 139 immagini 📸
+# Tutte le 138 immagini 📸
 
 [Portfolio GitHub](https://github.com/FarlandGame) · [Il mio archivio personale — Kabir dietro Farland_game](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.it.md) · [▶ Foto e opere visive + Video ed elaborazioni](https://farlandgame.github.io/Personal-Portfolio/)
 
@@ -431,12 +431,6 @@ Gli elementi seguono l’ordine del catalogo, non una cronologia confermata.
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-072.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-072.jpg" width="650" alt="personal-072 · Ricordi personali e di famiglia" loading="lazy"></a>
 
 [Visualizza / scarica](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-072.jpg)
-
-## personal-073 · Ricordi personali e di famiglia
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-073.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-073.jpg" width="650" alt="personal-073 · Ricordi personali e di famiglia" loading="lazy"></a>
-
-[Visualizza / scarica](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-073.jpg)
 
 ## personal-074 · Ricordi personali e di famiglia
 

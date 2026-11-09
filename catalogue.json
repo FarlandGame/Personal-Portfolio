@@ -2,7 +2,7 @@
   "creator": "Bardiya Alizadeh (Kabir) / Farland_game",
   "ordering": "Catalogue order; chronology unconfirmed.",
   "processing_authorized": "User-selected complete, resized/recompressed viewing copies. Originals retained privately.",
-  "images": 139,
+  "images": 138,
   "videos": 12,
   "media": [
     {
@@ -1526,27 +1526,6 @@
       "published_path": "images/personal-072.jpg",
       "published_bytes": 181206,
       "published_sha256": "ffb77511ee363872f2793bf1bd568520fd6a18752c43919d62b91ca8b97bf001"
-    },
-    {
-      "collection": "personal",
-      "source_name": "1793888000425.jpg",
-      "bytes": 1558734,
-      "sha256": "aa24fcfde1f38fb528f08122af6683bd65f2f8327fa6d0aaae246ad8eaa6963f",
-      "type": "image",
-      "id": "personal-073",
-      "size": [
-        3120,
-        4160
-      ],
-      "published_size": [
-        1536,
-        2048
-      ],
-      "category": "memories",
-      "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
-      "published_path": "images/personal-073.jpg",
-      "published_bytes": 243640,
-      "published_sha256": "d8c446dc9c65bbfed7d98860e497de6b34a37e0d76dec905dd7bc7dead20a108"
     },
     {
       "collection": "personal",
@@ -3228,6 +3207,10 @@
     {
       "id": "personal-046",
       "reason": "Cropped duplicate of personal-047; excluded at creator request."
+    },
+    {
+      "id": "personal-073",
+      "reason": "Temporarily withheld while the creator decides whether to share this family edit."
     }
   ]
 }

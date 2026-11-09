@@ -1,4 +1,4 @@
-# All 139 images 📸
+# All 138 images 📸
 
 [GitHub portfolio](https://github.com/FarlandGame) · [My Story — Kabir behind Farland_game](https://github.com/FarlandGame/Personal-Portfolio/blob/main/README.md) · [▶ Photos & artwork + Videos & edits](https://farlandgame.github.io/Personal-Portfolio/)
 
@@ -747,23 +747,26 @@ These photographs are from the same birthday celebration in Tabriz as photograph
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-071.jpg)
 
+These photographs are from the same birthday celebration in Tabriz as photograph personal-066. I had turned fifteen and was beginning my sixteenth year of life. We celebrated with my mother and her side of the family at a restaurant I remember as Berkeh. We had a wonderful time, and went to an amusement park afterwards. These are more memories from that happy family day.
+
+
 ## personal-072 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-072.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-072.jpg" width="650" alt="personal-072 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-072.jpg)
 
-## personal-073 · Personal & family memories
+These photographs are from the same birthday celebration in Tabriz as photograph personal-066. I had turned fifteen and was beginning my sixteenth year of life. We celebrated with my mother and her side of the family at a restaurant I remember as Berkeh. We had a wonderful time, and went to an amusement park afterwards. These are more memories from that happy family day.
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-073.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-073.jpg" width="650" alt="personal-073 · Personal &amp; family memories" loading="lazy"></a>
-
-[View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-073.jpg)
 
 ## personal-074 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-074.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-074.jpg" width="650" alt="personal-074 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-074.jpg)
+
+I remember this as a photograph from Nowruz, either 1403 or 1404 in the Iranian calendar. I am not certain which year it was, so I am keeping that uncertainty with the photograph.
+
 
 ## personal-075 · Personal & family memories
 

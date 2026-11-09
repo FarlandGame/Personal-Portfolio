@@ -1,4 +1,4 @@
-# 139 görselin tamamı 📸
+# 138 görselin tamamı 📸
 
 [GitHub portfolyosu](https://github.com/FarlandGame) · [Kişisel arşivim — Farland_game’in ardındaki Kabir](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.tr.md) · [▶ Fotoğraflar ve görsel çalışmalar + Videolar ve düzenlemeler](https://farlandgame.github.io/Personal-Portfolio/)
 
@@ -431,12 +431,6 @@
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-072.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-072.jpg" width="650" alt="personal-072 · Kişisel anılar ve aile anıları" loading="lazy"></a>
 
 [Görüntüle / indir](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-072.jpg)
-
-## personal-073 · Kişisel anılar ve aile anıları
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-073.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-073.jpg" width="650" alt="personal-073 · Kişisel anılar ve aile anıları" loading="lazy"></a>
-
-[Görüntüle / indir](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-073.jpg)
 
 ## personal-074 · Kişisel anılar ve aile anıları
 
