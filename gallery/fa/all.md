@@ -711,11 +711,17 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-067.jpg)
 
+این عکس‌ها مربوط به همان جشن تولد در تبریز هستند که خاطره‌اش را برای عکس ۰۶۶ گفتم. پانزده سال را تمام کرده بودم و وارد شانزدهمین سال زندگی‌ام می‌شدم. با مادرم و خانوادهٔ مادری‌ام در رستورانی که نامش را «برکه» به یاد دارم جشن گرفتیم. خیلی خوش گذشت و بعد هم به شهربازی رفتیم. این‌ها یادگاری‌های بیشتری از همان روز خوب خانوادگی هستند.
+
+
 ## personal-068 · خاطرات شخصی و خانوادگی
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-068.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-068.jpg" width="650" alt="personal-068 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-068.jpg)
+
+این عکس‌ها مربوط به همان جشن تولد در تبریز هستند که خاطره‌اش را برای عکس ۰۶۶ گفتم. پانزده سال را تمام کرده بودم و وارد شانزدهمین سال زندگی‌ام می‌شدم. با مادرم و خانوادهٔ مادری‌ام در رستورانی که نامش را «برکه» به یاد دارم جشن گرفتیم. خیلی خوش گذشت و بعد هم به شهربازی رفتیم. این‌ها یادگاری‌های بیشتری از همان روز خوب خانوادگی هستند.
+
 
 ## personal-069 · خاطرات شخصی و خانوادگی
 
@@ -723,11 +729,17 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-069.jpg)
 
+این عکس‌ها مربوط به همان جشن تولد در تبریز هستند که خاطره‌اش را برای عکس ۰۶۶ گفتم. پانزده سال را تمام کرده بودم و وارد شانزدهمین سال زندگی‌ام می‌شدم. با مادرم و خانوادهٔ مادری‌ام در رستورانی که نامش را «برکه» به یاد دارم جشن گرفتیم. خیلی خوش گذشت و بعد هم به شهربازی رفتیم. این‌ها یادگاری‌های بیشتری از همان روز خوب خانوادگی هستند.
+
+
 ## personal-070 · خاطرات شخصی و خانوادگی
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-070.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-070.jpg" width="650" alt="personal-070 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-070.jpg)
+
+این عکس‌ها مربوط به همان جشن تولد در تبریز هستند که خاطره‌اش را برای عکس ۰۶۶ گفتم. پانزده سال را تمام کرده بودم و وارد شانزدهمین سال زندگی‌ام می‌شدم. با مادرم و خانوادهٔ مادری‌ام در رستورانی که نامش را «برکه» به یاد دارم جشن گرفتیم. خیلی خوش گذشت و بعد هم به شهربازی رفتیم. این‌ها یادگاری‌های بیشتری از همان روز خوب خانوادگی هستند.
+
 
 ## personal-071 · خاطرات شخصی و خانوادگی
 

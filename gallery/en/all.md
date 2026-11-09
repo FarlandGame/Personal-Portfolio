@@ -711,11 +711,17 @@ My mother appears in this photograph from the trip for my fifteenth birthday, wh
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-067.jpg)
 
+These photographs are from the same birthday celebration in Tabriz as photograph personal-066. I had turned fifteen and was beginning my sixteenth year of life. We celebrated with my mother and her side of the family at a restaurant I remember as Berkeh. We had a wonderful time, and went to an amusement park afterwards. These are more memories from that happy family day.
+
+
 ## personal-068 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-068.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-068.jpg" width="650" alt="personal-068 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-068.jpg)
+
+These photographs are from the same birthday celebration in Tabriz as photograph personal-066. I had turned fifteen and was beginning my sixteenth year of life. We celebrated with my mother and her side of the family at a restaurant I remember as Berkeh. We had a wonderful time, and went to an amusement park afterwards. These are more memories from that happy family day.
+
 
 ## personal-069 · Personal & family memories
 
@@ -723,11 +729,17 @@ My mother appears in this photograph from the trip for my fifteenth birthday, wh
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-069.jpg)
 
+These photographs are from the same birthday celebration in Tabriz as photograph personal-066. I had turned fifteen and was beginning my sixteenth year of life. We celebrated with my mother and her side of the family at a restaurant I remember as Berkeh. We had a wonderful time, and went to an amusement park afterwards. These are more memories from that happy family day.
+
+
 ## personal-070 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-070.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-070.jpg" width="650" alt="personal-070 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-070.jpg)
+
+These photographs are from the same birthday celebration in Tabriz as photograph personal-066. I had turned fifteen and was beginning my sixteenth year of life. We celebrated with my mother and her side of the family at a restaurant I remember as Berkeh. We had a wonderful time, and went to an amusement park afterwards. These are more memories from that happy family day.
+
 
 ## personal-071 · Personal & family memories
 

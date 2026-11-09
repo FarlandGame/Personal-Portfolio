@@ -711,11 +711,17 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-067.jpg)
 
+これらの写真は、写真personal-066と同じ、タブリーズでの誕生日のお祝いのものです。15歳になり、人生の16年目を迎えるところでした。母と母方の家族と一緒に、Berkehという名前だったと覚えているレストランでお祝いしました。とても楽しく、その後は遊園地にも行きました。同じ幸せな家族の1日を残した写真です。
+
+
 ## personal-068 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-068.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-068.jpg" width="650" alt="personal-068 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-068.jpg)
+
+これらの写真は、写真personal-066と同じ、タブリーズでの誕生日のお祝いのものです。15歳になり、人生の16年目を迎えるところでした。母と母方の家族と一緒に、Berkehという名前だったと覚えているレストランでお祝いしました。とても楽しく、その後は遊園地にも行きました。同じ幸せな家族の1日を残した写真です。
+
 
 ## personal-069 · 個人と家族の思い出
 
@@ -723,11 +729,17 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-069.jpg)
 
+これらの写真は、写真personal-066と同じ、タブリーズでの誕生日のお祝いのものです。15歳になり、人生の16年目を迎えるところでした。母と母方の家族と一緒に、Berkehという名前だったと覚えているレストランでお祝いしました。とても楽しく、その後は遊園地にも行きました。同じ幸せな家族の1日を残した写真です。
+
+
 ## personal-070 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-070.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-070.jpg" width="650" alt="personal-070 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-070.jpg)
+
+これらの写真は、写真personal-066と同じ、タブリーズでの誕生日のお祝いのものです。15歳になり、人生の16年目を迎えるところでした。母と母方の家族と一緒に、Berkehという名前だったと覚えているレストランでお祝いしました。とても楽しく、その後は遊園地にも行きました。同じ幸せな家族の1日を残した写真です。
+
 
 ## personal-071 · 個人と家族の思い出
 
