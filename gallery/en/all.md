@@ -1034,10 +1034,9 @@ This photograph shows a handmade Rick-themed board I was making for fun. It was 
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-103.png)
 
-This group photograph is from the Taha Bamshad public-speaking class that my twin brother and I attended. It is a memory of the summer 1403 course and the people in that classroom. I supplied it as a phone screenshot and asked for its top and bottom margins to be removed, leaving the class photograph. A separately labelled enhanced version may be available alongside the cropped source photograph.
+This group photograph is from the Taha Bamshad public-speaking class that my twin brother and I attended in summer 1403. I supplied it as a phone screenshot and asked for the top and bottom margins to be removed. The photograph is kept at its original quality and resolution within the cropped frame.
 
 
-[AI-enhanced version · fine details may be reconstructed](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/restorations/personal-103-ai-enhanced.png)
 
 ## personal-104 · Personal & family memories
 
@@ -1072,11 +1071,17 @@ This image features Ali Dehghannejad, known as Alivexor, and me. We made it toge
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-107.jpg)
 
+I made these images myself using Photoshop and AI for my friend Ashkan Mohammad Alipour to use in a video edit of me. They were part of preparing visual material for that edit. Looking back now, I do not feel the images resemble me as closely as they once did.
+
+
 ## personal-108 · Portrait edits
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-108.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-108.jpg" width="650" alt="personal-108 · Portrait edits" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-108.jpg)
+
+I made these images myself using Photoshop and AI for my friend Ashkan Mohammad Alipour to use in a video edit of me. They were part of preparing visual material for that edit. Looking back now, I do not feel the images resemble me as closely as they once did.
+
 
 ## personal-109 · Portrait edits
 
@@ -1084,11 +1089,19 @@ This image features Ali Dehghannejad, known as Alivexor, and me. We made it toge
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-109.jpg)
 
+I made these images myself using Photoshop and AI for my friend Ashkan Mohammad Alipour to use in a video edit of me. They were part of preparing visual material for that edit. Looking back now, I do not feel the images resemble me as closely as they once did.
+
+
 ## personal-110 · Portrait edits
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-110.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-110.jpg" width="650" alt="personal-110 · Portrait edits" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-110.jpg)
+
+I made these images myself using Photoshop and AI for my friend Ashkan Mohammad Alipour to use in a video edit of me. They were part of preparing visual material for that edit. Looking back now, I do not feel the images resemble me as closely as they once did.
+
+Among these images, personal-110 is my favourite because of its comic-like feeling.
+
 
 ## personal-111 · Portrait edits
 

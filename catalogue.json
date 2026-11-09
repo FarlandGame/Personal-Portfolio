@@ -2199,7 +2199,7 @@
         384
       ],
       "category": "memories",
-      "processing": "Exact creator-requested screenshot crop to retain only the class photograph; lossless PNG preserving source rectangle pixels. Separate labelled enhanced version may be available.",
+      "processing": "Exact creator-requested screenshot crop to retain only the class photograph; lossless PNG preserving source rectangle pixels and original quality.",
       "published_path": "images/personal-103.png",
       "published_bytes": 290831,
       "published_sha256": "4cb033e61c4690f225c1f7e6c110dc4eb0ba1e226bd5c057360df2410ecbe4ae",
@@ -2300,7 +2300,14 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-107.jpg",
       "published_bytes": 123988,
-      "published_sha256": "cda16d7802080947eeacbe006e88a9d04f3e4ef3b4fe205a4ae023e021efb42a"
+      "published_sha256": "cda16d7802080947eeacbe006e88a9d04f3e4ef3b4fe205a4ae023e021efb42a",
+      "artist_reported": "Bardiya Alizadeh / Farland_game",
+      "tools_reported": [
+        "Photoshop",
+        "AI, unspecified tools"
+      ],
+      "intended_use_reported": "Visual material for Ashkan Mohammad Alipour’s video edit of the creator.",
+      "likeness_note_reported": "Creator feels these stylized images no longer resemble him closely."
     },
     {
       "collection": "personal",
@@ -2321,7 +2328,14 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-108.jpg",
       "published_bytes": 455552,
-      "published_sha256": "88d9a9d6264fc0aa1907eb94c7be4dbf76dcc4f037a9e742fd609af667f574a2"
+      "published_sha256": "88d9a9d6264fc0aa1907eb94c7be4dbf76dcc4f037a9e742fd609af667f574a2",
+      "artist_reported": "Bardiya Alizadeh / Farland_game",
+      "tools_reported": [
+        "Photoshop",
+        "AI, unspecified tools"
+      ],
+      "intended_use_reported": "Visual material for Ashkan Mohammad Alipour’s video edit of the creator.",
+      "likeness_note_reported": "Creator feels these stylized images no longer resemble him closely."
     },
     {
       "collection": "personal",
@@ -2342,7 +2356,14 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-109.jpg",
       "published_bytes": 192717,
-      "published_sha256": "565750b46e5011edc52f05967bedbec9b40872a928eeb4cfd4d47c9bb42eaa58"
+      "published_sha256": "565750b46e5011edc52f05967bedbec9b40872a928eeb4cfd4d47c9bb42eaa58",
+      "artist_reported": "Bardiya Alizadeh / Farland_game",
+      "tools_reported": [
+        "Photoshop",
+        "AI, unspecified tools"
+      ],
+      "intended_use_reported": "Visual material for Ashkan Mohammad Alipour’s video edit of the creator.",
+      "likeness_note_reported": "Creator feels these stylized images no longer resemble him closely."
     },
     {
       "collection": "personal",
@@ -2379,7 +2400,14 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-110.jpg",
       "published_bytes": 487413,
-      "published_sha256": "fd623e405c8975adf091723576051c508b7ef468bbe318e14a659d9a9a99d3b0"
+      "published_sha256": "fd623e405c8975adf091723576051c508b7ef468bbe318e14a659d9a9a99d3b0",
+      "artist_reported": "Bardiya Alizadeh / Farland_game",
+      "tools_reported": [
+        "Photoshop",
+        "AI, unspecified tools"
+      ],
+      "intended_use_reported": "Visual material for Ashkan Mohammad Alipour’s video edit of the creator.",
+      "likeness_note_reported": "Creator feels these stylized images no longer resemble him closely."
     },
     {
       "collection": "personal",

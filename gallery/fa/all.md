@@ -1034,10 +1034,9 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-103.png)
 
-این عکس گروهی مربوط به کلاس فن بیان طاها بامشاد است که من و برادر دوقلویم در آن شرکت کردیم؛ یادگاریِ دورهٔ تابستان ۱۴۰۳ و جمعِ آن کلاس. فایل ارسالی اسکرین‌شات گوشی بود و خواستم حاشیه‌های بالا و پایینش حذف شوند تا خود عکس کلاس باقی بماند. نسخهٔ بهبودکیفیت‌یافته، اگر در دسترس باشد، جدا از عکس اصلیِ برش‌خورده و با برچسب مشخص نگه داشته می‌شود.
+این عکس گروهی مربوط به کلاس فن بیان طاها بامشاد است که من و برادر دوقلویم در تابستان ۱۴۰۳ گذراندیم. فایل ارسالی اسکرین‌شات گوشی بود و خواستم حاشیه‌های بالا و پایین حذف شوند. خود عکس با همان کیفیت و وضوح اصلی در کادر برش‌خورده حفظ شده است.
 
 
-[نسخهٔ بهبودکیفیت‌یافته با هوش مصنوعی؛ جزئیات ریز ممکن است بازسازی شده باشند](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/restorations/personal-103-ai-enhanced.png)
 
 ## personal-104 · خاطرات شخصی و خانوادگی
 
@@ -1072,11 +1071,17 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-107.jpg)
 
+این تصویرها را خودم با Photoshop و هوش مصنوعی برای دوستم اشکان محمدعلی‌پور درست کردم تا در یک ادیت ویدئویی از من استفاده کند. بخشی از آماده‌کردن مواد تصویری برای آن ادیت بودند. حالا که نگاهشان می‌کنم، حس می‌کنم دیگر آن‌قدرها شبیه من نیستند.
+
+
 ## personal-108 · ادیت‌های پرتره
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-108.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-108.jpg" width="650" alt="personal-108 · ادیت‌های پرتره" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-108.jpg)
+
+این تصویرها را خودم با Photoshop و هوش مصنوعی برای دوستم اشکان محمدعلی‌پور درست کردم تا در یک ادیت ویدئویی از من استفاده کند. بخشی از آماده‌کردن مواد تصویری برای آن ادیت بودند. حالا که نگاهشان می‌کنم، حس می‌کنم دیگر آن‌قدرها شبیه من نیستند.
+
 
 ## personal-109 · ادیت‌های پرتره
 
@@ -1084,11 +1089,19 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-109.jpg)
 
+این تصویرها را خودم با Photoshop و هوش مصنوعی برای دوستم اشکان محمدعلی‌پور درست کردم تا در یک ادیت ویدئویی از من استفاده کند. بخشی از آماده‌کردن مواد تصویری برای آن ادیت بودند. حالا که نگاهشان می‌کنم، حس می‌کنم دیگر آن‌قدرها شبیه من نیستند.
+
+
 ## personal-110 · ادیت‌های پرتره
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-110.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-110.jpg" width="650" alt="personal-110 · ادیت‌های پرتره" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-110.jpg)
+
+این تصویرها را خودم با Photoshop و هوش مصنوعی برای دوستم اشکان محمدعلی‌پور درست کردم تا در یک ادیت ویدئویی از من استفاده کند. بخشی از آماده‌کردن مواد تصویری برای آن ادیت بودند. حالا که نگاهشان می‌کنم، حس می‌کنم دیگر آن‌قدرها شبیه من نیستند.
+
+در میان این تصویرها، ۱۱۰ را بیشتر دوست دارم، چون حس‌وحال کمیک دارد.
+
 
 ## personal-111 · ادیت‌های پرتره
 

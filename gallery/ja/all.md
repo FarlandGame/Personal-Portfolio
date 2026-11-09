@@ -1034,10 +1034,9 @@ THE APEXという名前は、Alivexorとして活動するAli Dehghannejadと私
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-103.png)
 
-これは、双子の弟と一緒に通ったTaha Bamshadのスピーチ講座の集合写真です。イラン暦1403年の夏の講座と、あの教室の人たちの思い出です。提供したファイルはスマートフォンのスクリーンショットだったため、上下の余白を取り除いて講座の写真だけを残すようお願いしました。画質を改善した版がある場合は、切り取った元画像とは別に、編集版と明記して保存しています。
+これは、双子の弟と一緒にイラン暦1403年の夏に通った、Taha Bamshadのスピーチ講座の集合写真です。提供したファイルはスマートフォンのスクリーンショットだったため、上下の余白を取り除くようお願いしました。切り取った範囲の写真は、元の画質と解像度のまま残しています。
 
 
-[AI画質改善版：細部が再構成されている場合があります](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/restorations/personal-103-ai-enhanced.png)
 
 ## personal-104 · 個人と家族の思い出
 
@@ -1072,11 +1071,17 @@ THE APEXという名前は、Alivexorとして活動するAli Dehghannejadと私
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-107.jpg)
 
+これらの画像は、友人Ashkan Mohammad Alipourが私の動画編集に使えるよう、私自身がPhotoshopとAIで作りました。その編集のために用意したビジュアル素材の一部です。今見返すと、以前ほど自分に似ていないと感じています。
+
+
 ## personal-108 · ポートレート編集
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-108.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-108.jpg" width="650" alt="personal-108 · ポートレート編集" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-108.jpg)
+
+これらの画像は、友人Ashkan Mohammad Alipourが私の動画編集に使えるよう、私自身がPhotoshopとAIで作りました。その編集のために用意したビジュアル素材の一部です。今見返すと、以前ほど自分に似ていないと感じています。
+
 
 ## personal-109 · ポートレート編集
 
@@ -1084,11 +1089,19 @@ THE APEXという名前は、Alivexorとして活動するAli Dehghannejadと私
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-109.jpg)
 
+これらの画像は、友人Ashkan Mohammad Alipourが私の動画編集に使えるよう、私自身がPhotoshopとAIで作りました。その編集のために用意したビジュアル素材の一部です。今見返すと、以前ほど自分に似ていないと感じています。
+
+
 ## personal-110 · ポートレート編集
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-110.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-110.jpg" width="650" alt="personal-110 · ポートレート編集" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-110.jpg)
+
+これらの画像は、友人Ashkan Mohammad Alipourが私の動画編集に使えるよう、私自身がPhotoshopとAIで作りました。その編集のために用意したビジュアル素材の一部です。今見返すと、以前ほど自分に似ていないと感じています。
+
+この中では、コミックのような雰囲気のpersonal-110が特に気に入っています。
+
 
 ## personal-111 · ポートレート編集
 
