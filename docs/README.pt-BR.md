@@ -18,8 +18,8 @@ Retratos estilizados ou compostos e cenas de fantasia bem-humoradas são criaç�
 
 **Viewing copies: images resized to at most 2048 px with the full frame retained; complete-duration videos recompressed to fit within 1920×1080. Original desktop files remain unchanged.**
 
-- [Lembranças pessoais e de família](https://farlandgame.github.io/Personal-Portfolio/#category-memories) · 83 📸 · 6 🎬
-- [Retratos editados](https://farlandgame.github.io/Personal-Portfolio/#category-portraits) · 38 📸 · 5 🎬
+- [Lembranças pessoais e de família](https://farlandgame.github.io/Personal-Portfolio/#category-memories) · 84 📸 · 6 🎬
+- [Retratos editados](https://farlandgame.github.io/Personal-Portfolio/#category-portraits) · 37 📸 · 5 🎬
 - [Lembranças do livro](https://farlandgame.github.io/Personal-Portfolio/#category-book) · 10 📸 · 0 🎬
 - [THE APEX](https://farlandgame.github.io/Personal-Portfolio/#category-apex) · 7 📸 · 1 🎬
 

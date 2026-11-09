@@ -18,8 +18,8 @@
 
 **Viewing copies: images resized to at most 2048 px with the full frame retained; complete-duration videos recompressed to fit within 1920×1080. Original desktop files remain unchanged.**
 
-- [个人与家庭回忆](https://farlandgame.github.io/Personal-Portfolio/#category-memories) · 83 📸 · 6 🎬
-- [肖像编辑作品](https://farlandgame.github.io/Personal-Portfolio/#category-portraits) · 38 📸 · 5 🎬
+- [个人与家庭回忆](https://farlandgame.github.io/Personal-Portfolio/#category-memories) · 84 📸 · 6 🎬
+- [肖像编辑作品](https://farlandgame.github.io/Personal-Portfolio/#category-portraits) · 37 📸 · 5 🎬
 - [书籍相关回忆](https://farlandgame.github.io/Personal-Portfolio/#category-book) · 10 📸 · 0 🎬
 - [THE APEX](https://farlandgame.github.io/Personal-Portfolio/#category-apex) · 7 📸 · 1 🎬
 

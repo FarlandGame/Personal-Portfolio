@@ -498,9 +498,9 @@
 
 [Görüntüle / indir](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-084.jpg)
 
-## personal-085 · Portre düzenlemeleri
+## personal-085 · Kişisel anılar ve aile anıları
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg" width="650" alt="personal-085 · Portre düzenlemeleri" loading="lazy"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg" width="650" alt="personal-085 · Kişisel anılar ve aile anıları" loading="lazy"></a>
 
 [Görüntüle / indir](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg)
 

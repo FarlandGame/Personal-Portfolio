@@ -848,23 +848,35 @@ My uncle Siamak took this photograph at his home in Tehran. I kept the picture a
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-083.jpg)
 
+This is another pose from the same photo session as photograph personal-082. My uncle Siamak took the picture at his home in Tehran. I kept it as another memory of that visit.
+
+
 ## personal-084 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-084.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-084.jpg" width="650" alt="personal-084 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-084.jpg)
 
-## personal-085 · Portrait edits
+The person wearing the Steve head in this photograph is my uncle Siamak. I had got the Minecraft Steve hat, and during the same visit he put it on. I took this photograph of him—a playful memory of that time at his home in Tehran.
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg" width="650" alt="personal-085 · Portrait edits" loading="lazy"></a>
+
+## personal-085 · Personal & family memories
+
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg" width="650" alt="personal-085 · Personal & family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg)
+
+This is a real studio photograph featuring my own brand shirt. After designing the shirt with the logo of my brand and channel, I wore it for a photography-studio session. It is an older photograph, and it also appears in the Persian edition of my book.
+
 
 ## personal-086 · Portrait edits
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-086.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-086.jpg" width="650" alt="personal-086 · Portrait edits" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-086.jpg)
+
+This image shows the back of my shirt design. It belongs to the clothing design carrying my brand and channel identity; the front of the shirt appears later in the gallery.
+
 
 ## personal-087 · Portrait edits
 

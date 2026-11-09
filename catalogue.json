@@ -1737,7 +1737,9 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-083.jpg",
       "published_bytes": 172638,
-      "published_sha256": "e66a704fd102b8f19a838dc69fd7366f1a0d9fd2580a0ce4b8224f0a2507a21b"
+      "published_sha256": "e66a704fd102b8f19a838dc69fd7366f1a0d9fd2580a0ce4b8224f0a2507a21b",
+      "photographer_reported": "Siamak Nournezhad, creator’s maternal uncle.",
+      "creation_context": "Another pose at uncle’s home in Tehran; linked to082session."
     },
     {
       "collection": "personal",
@@ -1758,7 +1760,9 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-084.jpg",
       "published_bytes": 474353,
-      "published_sha256": "3d4f16aebcf0797c38da63876f1b78449cb10f847d6751e2e259c99e7ef20289"
+      "published_sha256": "3d4f16aebcf0797c38da63876f1b78449cb10f847d6751e2e259c99e7ef20289",
+      "subject_reported": "Creator’s uncle Siamak Nournezhad wearing the Steve hat.",
+      "photographer_reported": "Bardiya Alizadeh / Farland_game"
     },
     {
       "collection": "personal",
@@ -1775,11 +1779,12 @@
         1365,
         2048
       ],
-      "category": "portraits",
+      "category": "memories",
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-085.jpg",
       "published_bytes": 193937,
-      "published_sha256": "1d86dac65e92f07eb60645882fe4bb9438e45e70b61ff14138b07fb64d2ae429"
+      "published_sha256": "1d86dac65e92f07eb60645882fe4bb9438e45e70b61ff14138b07fb64d2ae429",
+      "creation_context": "Real photography-studio portrait wearing creator-designed branded shirt; also in Persian book edition, creator-reported."
     },
     {
       "collection": "personal",

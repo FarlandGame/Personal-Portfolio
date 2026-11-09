@@ -498,9 +498,9 @@
 
 [देखें / डाउनलोड करें](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-084.jpg)
 
-## personal-085 · संपादित पोर्ट्रेट
+## personal-085 · निजी और पारिवारिक यादें
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg" width="650" alt="personal-085 · संपादित पोर्ट्रेट" loading="lazy"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg" width="650" alt="personal-085 · निजी और पारिवारिक यादें" loading="lazy"></a>
 
 [देखें / डाउनलोड करें](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg)
 

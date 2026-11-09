@@ -18,8 +18,8 @@ Stilisierte und zusammengesetzte Porträts sowie humorvolle Fantasieszenen sind 
 
 **Viewing copies: images resized to at most 2048 px with the full frame retained; complete-duration videos recompressed to fit within 1920×1080. Original desktop files remain unchanged.**
 
-- [Persönliche und familiäre Erinnerungen](https://farlandgame.github.io/Personal-Portfolio/#category-memories) · 83 📸 · 6 🎬
-- [Porträtbearbeitungen](https://farlandgame.github.io/Personal-Portfolio/#category-portraits) · 38 📸 · 5 🎬
+- [Persönliche und familiäre Erinnerungen](https://farlandgame.github.io/Personal-Portfolio/#category-memories) · 84 📸 · 6 🎬
+- [Porträtbearbeitungen](https://farlandgame.github.io/Personal-Portfolio/#category-portraits) · 37 📸 · 5 🎬
 - [Erinnerungen rund ums Buch](https://farlandgame.github.io/Personal-Portfolio/#category-book) · 10 📸 · 0 🎬
 - [THE APEX](https://farlandgame.github.io/Personal-Portfolio/#category-apex) · 7 📸 · 1 🎬
 

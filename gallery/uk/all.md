@@ -498,9 +498,9 @@
 
 [Переглянути / завантажити](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-084.jpg)
 
-## personal-085 · Оброблені портрети
+## personal-085 · Особисті та родинні спогади
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg" width="650" alt="personal-085 · Оброблені портрети" loading="lazy"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg" width="650" alt="personal-085 · Особисті та родинні спогади" loading="lazy"></a>
 
 [Переглянути / завантажити](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg)
 

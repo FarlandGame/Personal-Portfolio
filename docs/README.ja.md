@@ -18,8 +18,8 @@ Bardiya Alizadeh、愛称Kabir、活動名Farland_gameです。このアーカ�
 
 **閲覧用コピー：画像は全体の構図を保ち長辺最大2048pxに縮小、動画は全編を保ち1920×1080以内に再圧縮しています。デスクトップの元ファイルは変更していません。**
 
-- [個人と家族の思い出](https://farlandgame.github.io/Personal-Portfolio/?lang=ja#category-memories) · 83 📸 · 6 🎬
-- [ポートレート編集](https://farlandgame.github.io/Personal-Portfolio/?lang=ja#category-portraits) · 38 📸 · 5 🎬
+- [個人と家族の思い出](https://farlandgame.github.io/Personal-Portfolio/?lang=ja#category-memories) · 84 📸 · 6 🎬
+- [ポートレート編集](https://farlandgame.github.io/Personal-Portfolio/?lang=ja#category-portraits) · 37 📸 · 5 🎬
 - [本の思い出](https://farlandgame.github.io/Personal-Portfolio/?lang=ja#category-book) · 10 📸 · 0 🎬
 - [THE APEX](https://farlandgame.github.io/Personal-Portfolio/?lang=ja#category-apex) · 7 📸 · 1 🎬
 

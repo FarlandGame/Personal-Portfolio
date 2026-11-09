@@ -498,9 +498,9 @@ Kolejność wynika z katalogu i nie stanowi potwierdzonej chronologii.
 
 [Zobacz / pobierz](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-084.jpg)
 
-## personal-085 · Przeróbki portretów
+## personal-085 · Wspomnienia osobiste i rodzinne
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg" width="650" alt="personal-085 · Przeróbki portretów" loading="lazy"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg" width="650" alt="personal-085 · Wspomnienia osobiste i rodzinne" loading="lazy"></a>
 
 [Zobacz / pobierz](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg)
 

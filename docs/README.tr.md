@@ -18,8 +18,8 @@ Stilize ve birleştirilmiş portreler ile mizahi fantastik sahneler yaratıcı �
 
 **Viewing copies: images resized to at most 2048 px with the full frame retained; complete-duration videos recompressed to fit within 1920×1080. Original desktop files remain unchanged.**
 
-- [Kişisel anılar ve aile anıları](https://farlandgame.github.io/Personal-Portfolio/#category-memories) · 83 📸 · 6 🎬
-- [Portre düzenlemeleri](https://farlandgame.github.io/Personal-Portfolio/#category-portraits) · 38 📸 · 5 🎬
+- [Kişisel anılar ve aile anıları](https://farlandgame.github.io/Personal-Portfolio/#category-memories) · 84 📸 · 6 🎬
+- [Portre düzenlemeleri](https://farlandgame.github.io/Personal-Portfolio/#category-portraits) · 37 📸 · 5 🎬
 - [Kitap anıları](https://farlandgame.github.io/Personal-Portfolio/#category-book) · 10 📸 · 0 🎬
 - [THE APEX](https://farlandgame.github.io/Personal-Portfolio/#category-apex) · 7 📸 · 1 🎬
 

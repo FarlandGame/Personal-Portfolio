@@ -848,23 +848,35 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-083.jpg)
 
+این هم یک عکس دیگر با ژستی متفاوت از همان موقعیت عکس ۰۸۲ است. دایی سیامکم در خانه‌اش در تهران از من عکس گرفت و آن را به‌عنوان یادگاری دیگری از آن دیدار نگه داشتم.
+
+
 ## personal-084 · خاطرات شخصی و خانوادگی
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-084.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-084.jpg" width="650" alt="personal-084 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-084.jpg)
 
-## personal-085 · ادیت‌های پرتره
+کسی که در این عکس کلاه استیو را سرش کرده، دایی سیامکم است. کلاه ماینکرفتیِ استیو را گرفته بودم و او در همان دیدار آن را سرش گذاشت. من هم این عکس را از او گرفتم؛ یک یادگاری بامزه از آن روز در خانه‌اش در تهران.
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg" width="650" alt="personal-085 · ادیت‌های پرتره" loading="lazy"></a>
+
+## personal-085 · خاطرات شخصی و خانوادگی
+
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg" width="650" alt="personal-085 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg)
+
+این عکس واقعیِ آتلیه، مربوط به پیراهن برند خودم است. بعد از اینکه لباس دلخواهم را با لوگوی برند و کانالم طراحی کردم، با آن در آتلیه عکس گرفتم. عکس قدیمی است و در نسخهٔ فارسی کتابم هم آمده است.
+
 
 ## personal-086 · ادیت‌های پرتره
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-086.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-086.jpg" width="650" alt="personal-086 · ادیت‌های پرتره" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-086.jpg)
+
+این تصویر نمای پشتِ طرح بلوزم است؛ بخشی از طراحی لباسی که هویت برند و کانالم را دارد. نمای جلوی پیراهن در عکس‌های بعدیِ گالری دیده می‌شود.
+
 
 ## personal-087 · ادیت‌های پرتره
 

@@ -18,8 +18,8 @@ Gestileerde en samengestelde portretten en grappige fantasietaferelen zijn creat
 
 **Viewing copies: images resized to at most 2048 px with the full frame retained; complete-duration videos recompressed to fit within 1920×1080. Original desktop files remain unchanged.**
 
-- [Persoonlijke en familieherinneringen](https://farlandgame.github.io/Personal-Portfolio/#category-memories) · 83 📸 · 6 🎬
-- [Portretbewerkingen](https://farlandgame.github.io/Personal-Portfolio/#category-portraits) · 38 📸 · 5 🎬
+- [Persoonlijke en familieherinneringen](https://farlandgame.github.io/Personal-Portfolio/#category-memories) · 84 📸 · 6 🎬
+- [Portretbewerkingen](https://farlandgame.github.io/Personal-Portfolio/#category-portraits) · 37 📸 · 5 🎬
 - [Herinneringen rond het boek](https://farlandgame.github.io/Personal-Portfolio/#category-book) · 10 📸 · 0 🎬
 - [THE APEX](https://farlandgame.github.io/Personal-Portfolio/#category-apex) · 7 📸 · 1 🎬
 

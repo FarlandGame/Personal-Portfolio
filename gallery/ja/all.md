@@ -848,23 +848,35 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-083.jpg)
 
+これは写真personal-082と同じときに、別のポーズで撮った1枚です。叔父Siamakがテヘランの自宅で私を撮ってくれました。その訪問のもう1つの思い出として残しています。
+
+
 ## personal-084 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-084.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-084.jpg" width="650" alt="personal-084 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-084.jpg)
 
-## personal-085 · ポートレート編集
+この写真でSteveの頭の帽子をかぶっているのは、叔父Siamakです。私が手に入れたMinecraftのSteveの帽子を、同じ訪問のときに叔父がかぶり、私が撮りました。テヘランの叔父の家での、楽しい思い出の1枚です。
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg" width="650" alt="personal-085 · ポートレート編集" loading="lazy"></a>
+
+## personal-085 · 個人と家族の思い出
+
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg" width="650" alt="personal-085 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-085.jpg)
+
+これは、自分のブランドのシャツを着て写真スタジオで撮った、本物の写真です。ブランドとチャンネルのロゴを入れたシャツをデザインし、それを着てスタジオで撮影しました。以前の写真で、私の本のペルシャ語版にも載っています。
+
 
 ## personal-086 · ポートレート編集
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-086.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-086.jpg" width="650" alt="personal-086 · ポートレート編集" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-086.jpg)
+
+この画像は、私がデザインしたシャツの背面です。ブランドとチャンネルのアイデンティティを込めた服のデザインの一部で、前面はギャラリーの後の画像に登場します。
+
 
 ## personal-087 · ポートレート編集
 
