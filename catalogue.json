@@ -2682,7 +2682,13 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-119.jpg",
       "published_bytes": 131725,
-      "published_sha256": "988d55d002d2598623ee50f077f252b4aaf0c1a53b910a47bb589d036a907d98"
+      "published_sha256": "988d55d002d2598623ee50f077f252b4aaf0c1a53b910a47bb589d036a907d98",
+      "artist_reported": "Bardiya Alizadeh / Farland_game",
+      "tools_reported": [
+        "Photoshop",
+        "ChatGPT, paid version; model unspecified"
+      ],
+      "creation_context": "Same early AI-assisted Instagram album as115..118; creative imagery based on existing photographs, creator-confirmed."
     },
     {
       "collection": "personal",
@@ -2703,7 +2709,13 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-120.jpg",
       "published_bytes": 172854,
-      "published_sha256": "4864a52be9a485487160e8e7deb889c9ff80ac8a657045ee257809b7d2f273fe"
+      "published_sha256": "4864a52be9a485487160e8e7deb889c9ff80ac8a657045ee257809b7d2f273fe",
+      "artist_reported": "Bardiya Alizadeh / Farland_game",
+      "tools_reported": [
+        "Photoshop",
+        "ChatGPT, paid version; model unspecified"
+      ],
+      "creation_context": "Same early AI-assisted Instagram album as115..118; creative imagery based on existing photographs, creator-confirmed."
     },
     {
       "collection": "personal",
@@ -2724,7 +2736,13 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-121.jpg",
       "published_bytes": 157204,
-      "published_sha256": "a013a90babfd1877a9c0d2a09e17bfc28c8bd320790a6e4a6310b99cc3c47b9d"
+      "published_sha256": "a013a90babfd1877a9c0d2a09e17bfc28c8bd320790a6e4a6310b99cc3c47b9d",
+      "artist_reported": "Bardiya Alizadeh / Farland_game",
+      "tools_reported": [
+        "Photoshop",
+        "ChatGPT, paid version; model unspecified"
+      ],
+      "creation_context": "Same early AI-assisted Instagram album as115..118; creative imagery based on existing photographs, creator-confirmed."
     },
     {
       "collection": "personal",
@@ -2745,7 +2763,13 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-122.jpg",
       "published_bytes": 242758,
-      "published_sha256": "a88a4a5441c6ac1dbbeb63e9f82029d1e1d13b4cbaf56c883f0db5acbd1da62a"
+      "published_sha256": "a88a4a5441c6ac1dbbeb63e9f82029d1e1d13b4cbaf56c883f0db5acbd1da62a",
+      "artist_reported": "Bardiya Alizadeh / Farland_game",
+      "tools_reported": [
+        "Photoshop",
+        "AI, unspecified tools"
+      ],
+      "intended_use_reported": "Visual material for Ashkan Mohammad Alipour’s video edit of the creator."
     },
     {
       "collection": "personal",

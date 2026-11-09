@@ -1,6 +1,6 @@
-# Photo stories — 116 of 138 recorded
+# Photo stories — 120 of 138 recorded
 
-Stories are supplied by the creator and published in English, Persian and Japanese. The remaining 22 images have not yet received individual stories. Dates, ages and identities are not inferred from appearance.
+Stories are supplied by the creator and published in English, Persian and Japanese. The remaining 18 images have not yet received individual stories. Dates, ages and identities are not inferred from appearance.
 
 داستان‌ها از زبان خود بردیا ثبت می‌شوند؛ هنوز کامل نیستند. / 作者本人から聞いた思い出を順次追加しています。
 
@@ -120,10 +120,10 @@ Stories are supplied by the creator and published in English, Persian and Japane
 - [x] personal-116 · [English](personal-116.en.md) · [فارسی](personal-116.fa.md) · [日本語](personal-116.ja.md)
 - [x] personal-117 · [English](personal-117.en.md) · [فارسی](personal-117.fa.md) · [日本語](personal-117.ja.md)
 - [x] personal-118 · [English](personal-118.en.md) · [فارسی](personal-118.fa.md) · [日本語](personal-118.ja.md)
-- [ ] personal-119
-- [ ] personal-120
-- [ ] personal-121
-- [ ] personal-122
+- [x] personal-119 · [English](personal-119.en.md) · [فارسی](personal-119.fa.md) · [日本語](personal-119.ja.md)
+- [x] personal-120 · [English](personal-120.en.md) · [فارسی](personal-120.fa.md) · [日本語](personal-120.ja.md)
+- [x] personal-121 · [English](personal-121.en.md) · [فارسی](personal-121.fa.md) · [日本語](personal-121.ja.md)
+- [x] personal-122 · [English](personal-122.en.md) · [فارسی](personal-122.fa.md) · [日本語](personal-122.ja.md)
 - [ ] personal-123
 - [ ] personal-124
 - [ ] personal-125

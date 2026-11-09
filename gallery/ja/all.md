@@ -1185,11 +1185,17 @@ THE APEXという名前は、Alivexorとして活動するAli Dehghannejadと私
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-119.jpg)
 
+これらの画像は、AIを活用した画像制作を始めた頃の作品です。当時すでにPhotoshopを使っていて、双子の弟Armiyaと私のInstagramアルバムを作りたいと思っていました。良いカメラがなかったため、私たちの既存の写真と有料版のChatGPTを使い、画像を作成・編集・再デザインしてから公開しました。今でも、この初期の試みの仕上がりが気に入っています。
+
+
 ## personal-120 · ポートレート編集
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-120.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-120.jpg" width="650" alt="personal-120 · ポートレート編集" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-120.jpg)
+
+これらの画像は、AIを活用した画像制作を始めた頃の作品です。当時すでにPhotoshopを使っていて、双子の弟Armiyaと私のInstagramアルバムを作りたいと思っていました。良いカメラがなかったため、私たちの既存の写真と有料版のChatGPTを使い、画像を作成・編集・再デザインしてから公開しました。今でも、この初期の試みの仕上がりが気に入っています。
+
 
 ## personal-121 · ポートレート編集
 
@@ -1197,11 +1203,17 @@ THE APEXという名前は、Alivexorとして活動するAli Dehghannejadと私
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-121.jpg)
 
+これらの画像は、AIを活用した画像制作を始めた頃の作品です。当時すでにPhotoshopを使っていて、双子の弟Armiyaと私のInstagramアルバムを作りたいと思っていました。良いカメラがなかったため、私たちの既存の写真と有料版のChatGPTを使い、画像を作成・編集・再デザインしてから公開しました。今でも、この初期の試みの仕上がりが気に入っています。
+
+
 ## personal-122 · ポートレート編集
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-122.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-122.jpg" width="650" alt="personal-122 · ポートレート編集" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-122.jpg)
+
+これは、友人Ashkan Mohammad Alipourが私の動画編集に使うビジュアル素材として、PhotoshopとAIで作った自分の画像です。彼の編集用に用意した創作素材のグループにあたります。
+
 
 ## personal-123 · 個人と家族の思い出
 
