@@ -774,11 +774,17 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-075.jpg)
 
+これはイラン暦1403年か1404年のノウルーズの写真だったと覚えています。どちらの年かははっきり思い出せないので、その不確かさも写真と一緒に残しています。
+
+
 ## personal-076 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-076.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-076.jpg" width="650" alt="personal-076 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-076.jpg)
+
+これらの写真は、双子の弟Armiyaと私が小学生だった頃のものです。一緒に過ごした子ども時代の思い出で、正確な年はまだ記録していません。
+
 
 ## personal-077 · 個人と家族の思い出
 
@@ -786,11 +792,19 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-077.jpg)
 
+これは、双子の弟と私がTaha Bamshadのもとで受けた、全10回のスピーチ講座の思い出です。イラン暦1403年の夏、モルダード月とシャフリーヴァル月に通いました。
+
+その夏の数か月は、私の人生の転機になりました。振り返ると、講座の後は自信がとても増し、恥ずかしさが減って、自分の考えを話したり表現したりすることが楽になりました。振る舞いや自分自身の見方が変わったと感じています。
+
+
 ## personal-078 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-078.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-078.jpg" width="650" alt="personal-078 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-078.jpg)
+
+これらの写真は、双子の弟Armiyaと私が小学生だった頃のものです。一緒に過ごした子ども時代の思い出で、正確な年はまだ記録していません。
+
 
 ## personal-079 · 個人と家族の思い出
 

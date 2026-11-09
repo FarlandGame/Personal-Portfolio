@@ -774,11 +774,17 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-075.jpg)
 
+این عکس را از عید نوروز، در سال ۱۴۰۳ یا ۱۴۰۴، به یاد دارم. مطمئن نیستم کدام سال بوده؛ برای همین تاریخش را همان‌طور نامطمئن نگه می‌دارم.
+
+
 ## personal-076 · خاطرات شخصی و خانوادگی
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-076.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-076.jpg" width="650" alt="personal-076 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-076.jpg)
+
+این عکس‌ها مربوط به دوران دبستان من و برادر دوقلویم ارمیا هستند؛ یادگاری‌هایی از کودکیِ مشترکمان. سال دقیقشان را مشخص نکرده‌ام.
+
 
 ## personal-077 · خاطرات شخصی و خانوادگی
 
@@ -786,11 +792,19 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-077.jpg)
 
+این عکس یادگاریِ دورهٔ ده‌جلسه‌ای فن بیان طاها بامشاد است که من و برادر دوقلویم در تابستان ۱۴۰۳، در ماه‌های مرداد و شهریور، گذراندیم.
+
+آن ماه‌های تابستان برایم نقطهٔ عطف شدند. به تجربهٔ خودم، بعد از دوره اعتمادبه‌نفسم خیلی بیشتر شد، خجالتم کمتر شد و صحبت‌کردن و بیان خودم برایم راحت‌تر شد. رفتارم و نگاهم به خودم تغییر کرد.
+
+
 ## personal-078 · خاطرات شخصی و خانوادگی
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-078.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-078.jpg" width="650" alt="personal-078 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-078.jpg)
+
+این عکس‌ها مربوط به دوران دبستان من و برادر دوقلویم ارمیا هستند؛ یادگاری‌هایی از کودکیِ مشترکمان. سال دقیقشان را مشخص نکرده‌ام.
+
 
 ## personal-079 · خاطرات شخصی و خانوادگی
 

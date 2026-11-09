@@ -774,11 +774,17 @@ I remember this as a photograph from Nowruz, either 1403 or 1404 in the Iranian 
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-075.jpg)
 
+I remember this as a photograph from Nowruz, either 1403 or 1404 in the Iranian calendar. I am not certain which year it was, so I am keeping that uncertainty with the photograph.
+
+
 ## personal-076 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-076.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-076.jpg" width="650" alt="personal-076 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-076.jpg)
+
+These photographs are from the primary-school years of my twin brother Armiya and me. They are memories of our childhood together; no exact year has been assigned.
+
 
 ## personal-077 · Personal & family memories
 
@@ -786,11 +792,19 @@ I remember this as a photograph from Nowruz, either 1403 or 1404 in the Iranian 
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-077.jpg)
 
+This photograph is a memory of the ten-session public-speaking course that my twin brother and I took with Taha Bamshad during the summer, in Mordad and Shahrivar 1403 in the Iranian calendar.
+
+Those summer months became a turning point in my life. Looking back, I felt much more confident, less shy and more comfortable speaking and expressing myself after the course. It changed how I behaved and how I saw myself.
+
+
 ## personal-078 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-078.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-078.jpg" width="650" alt="personal-078 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-078.jpg)
+
+These photographs are from the primary-school years of my twin brother Armiya and me. They are memories of our childhood together; no exact year has been assigned.
+
 
 ## personal-079 · Personal & family memories
 
