@@ -1221,11 +1221,17 @@ THE APEXという名前は、Alivexorとして活動するAli Dehghannejadと私
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-123.jpg)
 
+これは1〜2歳くらいの私の写真です。後になって、アルバムのプリント写真をスマートフォンで撮りました。光の反射やその撮影の画質で見えにくくなっていたため、提供した画像を残したまま、修復版を別に作ってもらうことにしました。
+
+
 ## personal-124 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-124.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-124.jpg" width="650" alt="personal-124 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-124.jpg)
+
+これも、家族の昔の写真と一緒に残している、子どもの頃の私の写真です。
+
 
 ## personal-125 · 個人と家族の思い出
 
@@ -1233,11 +1239,17 @@ THE APEXという名前は、Alivexorとして活動するAli Dehghannejadと私
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-125.jpg)
 
+これも、家族の昔の写真と一緒に残している、子どもの頃の私の写真です。
+
+
 ## personal-126 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-126.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-126.jpg" width="650" alt="personal-126 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-126.jpg)
+
+この子どもの頃の写真には、コンピューターのそばにいる双子の弟Armiyaと私が写っています。残している昔の家族写真の1枚です。
+
 
 ## personal-127 · 個人と家族の思い出
 

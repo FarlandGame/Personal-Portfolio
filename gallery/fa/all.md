@@ -1221,11 +1221,17 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-123.jpg)
 
+این عکس کودکیِ خودم است؛ حدود یک تا دو سال داشتم. بعدها با گوشی از عکس داخل آلبوم عکس گرفتم. بازتاب نور و کیفیت عکس گوشی باعث شد نسخهٔ ارسالی وضوح خوبی نداشته باشد؛ برای همین خواستم یک نسخهٔ ترمیم‌شدهٔ جدا داشته باشم و نسخهٔ ارسالی هم حفظ شود.
+
+
 ## personal-124 · خاطرات شخصی و خانوادگی
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-124.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-124.jpg" width="650" alt="personal-124 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-124.jpg)
+
+این هم عکسی از کودکیِ خودم است که میان عکس‌های قدیمی خانواده نگه داشته‌ام.
+
 
 ## personal-125 · خاطرات شخصی و خانوادگی
 
@@ -1233,11 +1239,17 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-125.jpg)
 
+این هم عکسی از کودکیِ خودم است که میان عکس‌های قدیمی خانواده نگه داشته‌ام.
+
+
 ## personal-126 · خاطرات شخصی و خانوادگی
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-126.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-126.jpg" width="650" alt="personal-126 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-126.jpg)
+
+در این عکس کودکی، من و برادر دوقلویم ارمیا کنار کامپیوتر هستیم. از عکس‌های قدیمی خانوادگی است که نگه داشته‌ام.
+
 
 ## personal-127 · خاطرات شخصی و خانوادگی
 

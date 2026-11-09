@@ -2790,7 +2790,9 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-123.jpg",
       "published_bytes": 100956,
-      "published_sha256": "b87f6a907e06b1509241cd99bb8eefbca77d96836acec2938dc4b87d962d98d8"
+      "published_sha256": "b87f6a907e06b1509241cd99bb8eefbca77d96836acec2938dc4b87d962d98d8",
+      "same_photograph_as": "personal-061",
+      "creation_context": "Alternate file of the previously documented childhood album photograph; creator indicated it was already shared."
     },
     {
       "collection": "personal",
@@ -2811,7 +2813,8 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-124.jpg",
       "published_bytes": 42317,
-      "published_sha256": "34a4664d181c801f4538238850e133692d2dc8d9755fe4d2c6c6aeea6a95ffb7"
+      "published_sha256": "34a4664d181c801f4538238850e133692d2dc8d9755fe4d2c6c6aeea6a95ffb7",
+      "subject_reported": "Bardiya as a child; exact age/date unspecified."
     },
     {
       "collection": "personal",
@@ -2832,7 +2835,8 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-125.jpg",
       "published_bytes": 110741,
-      "published_sha256": "7400ebdc3fffc83355a27d584dd55ecdcbd5c348ae6ba59875b8d82b087765a1"
+      "published_sha256": "7400ebdc3fffc83355a27d584dd55ecdcbd5c348ae6ba59875b8d82b087765a1",
+      "subject_reported": "Bardiya as a child; exact age/date unspecified."
     },
     {
       "collection": "personal",
@@ -2853,7 +2857,12 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-126.jpg",
       "published_bytes": 52255,
-      "published_sha256": "c7bae38e181a396a2c081523c345763733a7efca5a7c1ce6c103b5c7e54ef207"
+      "published_sha256": "c7bae38e181a396a2c081523c345763733a7efca5a7c1ce6c103b5c7e54ef207",
+      "subjects_reported": [
+        "Bardiya Alizadeh",
+        "Armiya Alizadeh"
+      ],
+      "creation_context": "Childhood family photograph beside a computer; no age/date or subject positions specified."
     },
     {
       "collection": "personal",

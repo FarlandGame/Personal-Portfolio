@@ -1221,11 +1221,17 @@ I made this image of myself with Photoshop and AI as visual material for my frie
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-123.jpg)
 
+This is a childhood photograph of me, around one to two years old. I later photographed the album print with my phone. Reflected light and the quality of that phone photograph made the supplied image less clear, so I requested a separately labelled restoration while keeping the supplied version.
+
+
 ## personal-124 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-124.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-124.jpg" width="650" alt="personal-124 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-124.jpg)
+
+This is a photograph of me as a child, kept among my early family pictures.
+
 
 ## personal-125 · Personal & family memories
 
@@ -1233,11 +1239,17 @@ I made this image of myself with Photoshop and AI as visual material for my frie
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-125.jpg)
 
+This is a photograph of me as a child, kept among my early family pictures.
+
+
 ## personal-126 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-126.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-126.jpg" width="650" alt="personal-126 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-126.jpg)
+
+This childhood photograph includes my twin brother Armiya and me beside a computer. It is one of the early family photographs I kept.
+
 
 ## personal-127 · Personal & family memories
 
