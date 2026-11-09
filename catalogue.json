@@ -2460,7 +2460,14 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-111.jpg",
       "published_bytes": 193278,
-      "published_sha256": "a1c4fdd6908b641a8c0791aeb3136fd90ef5d637bcb97bf2587dc04e72cd1ccd"
+      "published_sha256": "a1c4fdd6908b641a8c0791aeb3136fd90ef5d637bcb97bf2587dc04e72cd1ccd",
+      "artist_reported": "Bardiya Alizadeh / Farland_game",
+      "tools_reported": [
+        "Photoshop",
+        "AI, unspecified tools"
+      ],
+      "related_video": "personal-video-12",
+      "creation_context": "Better Call Saul-inspired video project, same context as001..004, creator-confirmed."
     },
     {
       "collection": "personal",
@@ -2481,7 +2488,13 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-112.jpg",
       "published_bytes": 270114,
-      "published_sha256": "f5345393735a08c62ef6fe5f40971d78e57dbe8b5385556a42d13c8ebf4094ce"
+      "published_sha256": "f5345393735a08c62ef6fe5f40971d78e57dbe8b5385556a42d13c8ebf4094ce",
+      "artist_reported": "Bardiya Alizadeh / Farland_game",
+      "tools_reported": [
+        "Photoshop",
+        "AI, unspecified tools"
+      ],
+      "creation_context": "AI/Photoshop composite of creator and a depiction of Ferdowsi for classroom presentation; not a documentary or historical photograph."
     },
     {
       "collection": "personal",
@@ -2502,7 +2515,13 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-113.jpg",
       "published_bytes": 205095,
-      "published_sha256": "4e753b5a16c8e8ccd76084d01237c789377e016baf201404babf1bba6ec3e02b"
+      "published_sha256": "4e753b5a16c8e8ccd76084d01237c789377e016baf201404babf1bba6ec3e02b",
+      "artist_reported": "Bardiya Alizadeh / Farland_game",
+      "tools_reported": [
+        "Photoshop",
+        "AI, unspecified tools"
+      ],
+      "intended_use_reported": "Visuals for Ashkan Mohammad Alipour’s video edit of the creator."
     },
     {
       "collection": "personal",
@@ -2523,7 +2542,13 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-114.jpg",
       "published_bytes": 89713,
-      "published_sha256": "3c387b2052a41ad75068685c56d3c6de35006aac9c3cb8dfc531250630c01dd5"
+      "published_sha256": "3c387b2052a41ad75068685c56d3c6de35006aac9c3cb8dfc531250630c01dd5",
+      "artist_reported": "Bardiya Alizadeh / Farland_game",
+      "tools_reported": [
+        "Photoshop",
+        "AI, unspecified tools"
+      ],
+      "intended_use_reported": "Visuals for Ashkan Mohammad Alipour’s video edit of the creator."
     },
     {
       "collection": "personal",

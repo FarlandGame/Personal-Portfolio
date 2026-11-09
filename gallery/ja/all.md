@@ -1109,11 +1109,19 @@ THE APEXという名前は、Alivexorとして活動するAli Dehghannejadと私
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-111.jpg)
 
+これは、『ベター・コール・ソウル』に着想を得た映像作品のために、AIとPhotoshopを使って作った自分の画像です。画像personal-001〜004、映像personal-video-12と同じ制作プロジェクトのものです。
+
+
 ## personal-112 · ポートレート編集
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-112.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-112.jpg" width="650" alt="personal-112 · ポートレート編集" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-112.jpg)
+
+これは、授業での発表のために、AIとPhotoshopを使って作った、私とフェルドウスィーの姿を組み合わせた画像です。フェルドウスィーが大好きで、私の手本となる人物の1人でもあります。
+
+私は挨拶に「Dorood」、別れ際には「Bedrood」と言います。私が好んで使う、こんにちはとさようならの言い方です。この画像は、ペルシャ文学への関心と、発表のためのビジュアル制作を結びつけたものです。
+
 
 ## personal-113 · ポートレート編集
 
@@ -1121,11 +1129,17 @@ THE APEXという名前は、Alivexorとして活動するAli Dehghannejadと私
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-113.jpg)
 
+これらの画像は、友人Ashkan Mohammad Alipourが私の動画編集に使えるよう、私自身がPhotoshopとAIで作りました。その編集のために用意したビジュアル素材の一部です。今見返すと、以前ほど自分に似ていないと感じています。
+
+
 ## personal-114 · ポートレート編集
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-114.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-114.jpg" width="650" alt="personal-114 · ポートレート編集" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-114.jpg)
+
+これらの画像は、友人Ashkan Mohammad Alipourが私の動画編集に使えるよう、私自身がPhotoshopとAIで作りました。その編集のために用意したビジュアル素材の一部です。今見返すと、以前ほど自分に似ていないと感じています。
+
 
 ## personal-115 · ポートレート編集
 

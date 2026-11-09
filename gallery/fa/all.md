@@ -1109,11 +1109,19 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-111.jpg)
 
+این تصویر خودم را با هوش مصنوعی و Photoshop برای پروژهٔ ویدئویی الهام‌گرفته از Better Call Saul ساختم. مربوط به همان پروژهٔ خلاقانهٔ عکس‌های ۰۰۱ تا ۰۰۴ و فیلم personal-video-12 است.
+
+
 ## personal-112 · ادیت‌های پرتره
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-112.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-112.jpg" width="650" alt="personal-112 · ادیت‌های پرتره" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-112.jpg)
+
+این تصویر ترکیبیِ خودم کنار تصویری از فردوسی را با هوش مصنوعی و Photoshop برای ارائهٔ کلاسی دربارهٔ او ساختم. فردوسی را خیلی دوست دارم و او هم یکی از الگوهای من است.
+
+من به‌جای سلام می‌گویم «درود» و به‌جای خداحافظی می‌گویم «بدرود»؛ شیوهٔ موردعلاقه‌ام برای آغاز و پایان گفت‌وگو. این تصویر، علاقه‌ام به ادبیات فارسی را با یک کار بصری برای ارائه‌ام پیوند می‌دهد.
+
 
 ## personal-113 · ادیت‌های پرتره
 
@@ -1121,11 +1129,17 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-113.jpg)
 
+این تصویرها را خودم با Photoshop و هوش مصنوعی برای دوستم اشکان محمدعلی‌پور درست کردم تا در یک ادیت ویدئویی از من استفاده کند. بخشی از آماده‌کردن مواد تصویری برای آن ادیت بودند. حالا که نگاهشان می‌کنم، حس می‌کنم دیگر آن‌قدرها شبیه من نیستند.
+
+
 ## personal-114 · ادیت‌های پرتره
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-114.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-114.jpg" width="650" alt="personal-114 · ادیت‌های پرتره" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-114.jpg)
+
+این تصویرها را خودم با Photoshop و هوش مصنوعی برای دوستم اشکان محمدعلی‌پور درست کردم تا در یک ادیت ویدئویی از من استفاده کند. بخشی از آماده‌کردن مواد تصویری برای آن ادیت بودند. حالا که نگاهشان می‌کنم، حس می‌کنم دیگر آن‌قدرها شبیه من نیستند.
+
 
 ## personal-115 · ادیت‌های پرتره
 

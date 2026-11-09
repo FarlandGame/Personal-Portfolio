@@ -1109,11 +1109,19 @@ Among these images, personal-110 is my favourite because of its comic-like feeli
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-111.jpg)
 
+I made this image of myself with AI and Photoshop for the video project inspired by Better Call Saul. It belongs to the same creative project as images personal-001 to personal-004 and the film personal-video-12.
+
+
 ## personal-112 · Portrait edits
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-112.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-112.jpg" width="650" alt="personal-112 · Portrait edits" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-112.jpg)
+
+I made this AI-and-Photoshop composite of myself with a depiction of Ferdowsi for a classroom presentation about him. Ferdowsi is someone I deeply admire and another of my role models.
+
+My own greeting is “Dorood,” and I say “Bedrood” when leaving—my preferred ways of saying hello and goodbye. This image brings together that interest in Persian literature and a creative visual for my presentation.
+
 
 ## personal-113 · Portrait edits
 
@@ -1121,11 +1129,17 @@ Among these images, personal-110 is my favourite because of its comic-like feeli
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-113.jpg)
 
+I made these images myself using Photoshop and AI for my friend Ashkan Mohammad Alipour to use in a video edit of me. They were part of preparing visual material for that edit. Looking back now, I do not feel the images resemble me as closely as they once did.
+
+
 ## personal-114 · Portrait edits
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-114.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-114.jpg" width="650" alt="personal-114 · Portrait edits" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-114.jpg)
+
+I made these images myself using Photoshop and AI for my friend Ashkan Mohammad Alipour to use in a video edit of me. They were part of preparing visual material for that edit. Looking back now, I do not feel the images resemble me as closely as they once did.
+
 
 ## personal-115 · Portrait edits
 
