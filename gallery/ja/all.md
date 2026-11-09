@@ -812,11 +812,17 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-079.jpg)
 
+これも、双子の弟Armiyaと私の子どもの頃の写真です。一緒に過ごした幼い日々の思い出で、正確な年齢や年はまだ記録していません。
+
+
 ## personal-080 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-080.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-080.jpg" width="650" alt="personal-080 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-080.jpg)
+
+これは母の誕生日の思い出の写真です。その家族の記念日から残している写真の1枚で、正確な年はまだ記録していません。
+
 
 ## personal-081 · 個人と家族の思い出
 
@@ -824,11 +830,17 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-081.jpg)
 
+これは母の誕生日の思い出の写真です。その家族の記念日から残している写真の1枚で、正確な年はまだ記録していません。
+
+
 ## personal-082 · ポートレート編集
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-082.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-082.jpg" width="650" alt="personal-082 · ポートレート編集" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-082.jpg)
+
+叔父Siamakが、テヘランの自宅で私を撮ってくれた写真です。写真を残しておき、後から自分のブランドのデザインを加えました。仕上がりが気に入っています。家族に撮ってもらった1枚が、自分の創作上のアイデンティティの一部にもなりました。
+
 
 ## personal-083 · 個人と家族の思い出
 

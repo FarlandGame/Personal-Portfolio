@@ -812,11 +812,17 @@ These photographs are from the primary-school years of my twin brother Armiya an
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-079.jpg)
 
+These are childhood photographs of my twin brother Armiya and me. They are another keepsake from our early years together; no exact age or year has been assigned.
+
+
 ## personal-080 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-080.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-080.jpg" width="650" alt="personal-080 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-080.jpg)
+
+This photograph is a memory of my mother’s birthday. It belongs to the pictures we kept from that family occasion; no exact year has been assigned.
+
 
 ## personal-081 · Personal & family memories
 
@@ -824,11 +830,17 @@ These photographs are from the primary-school years of my twin brother Armiya an
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-081.jpg)
 
+This photograph is a memory of my mother’s birthday. It belongs to the pictures we kept from that family occasion; no exact year has been assigned.
+
+
 ## personal-082 · Portrait edits
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-082.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-082.jpg" width="650" alt="personal-082 · Portrait edits" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-082.jpg)
+
+My uncle Siamak took this photograph at his home in Tehran. I kept the picture and later added my own brand design to it. I like how it turned out; it is a family-taken photograph that also became part of my creative identity.
+
 
 ## personal-083 · Personal & family memories
 

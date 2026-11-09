@@ -812,11 +812,17 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-079.jpg)
 
+این‌ها هم عکس‌های کودکی من و برادر دوقلویم ارمیا هستند؛ یادگاری‌های دیگری از سال‌های کودکیِ مشترکمان. سن و سال دقیقشان را مشخص نکرده‌ام.
+
+
 ## personal-080 · خاطرات شخصی و خانوادگی
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-080.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-080.jpg" width="650" alt="personal-080 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-080.jpg)
+
+این عکس یادگاریِ روز تولد مادرم است؛ از عکس‌هایی که از آن مناسبت خانوادگی نگه داشته‌ایم. سال دقیقش را مشخص نکرده‌ام.
+
 
 ## personal-081 · خاطرات شخصی و خانوادگی
 
@@ -824,11 +830,17 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-081.jpg)
 
+این عکس یادگاریِ روز تولد مادرم است؛ از عکس‌هایی که از آن مناسبت خانوادگی نگه داشته‌ایم. سال دقیقش را مشخص نکرده‌ام.
+
+
 ## personal-082 · ادیت‌های پرتره
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-082.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-082.jpg" width="650" alt="personal-082 · ادیت‌های پرتره" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-082.jpg)
+
+این عکس را دایی سیامکم در خانه‌اش در تهران از من گرفت. عکس را نگه داشتم و بعداً طرح برند خودم را به آن اضافه کردم. از نتیجه‌اش خوشم می‌آید؛ عکسی خانوادگی که بخشی از هویت خلاقانه‌ام هم شد.
+
 
 ## personal-083 · خاطرات شخصی و خانوادگی
 

@@ -1714,7 +1714,9 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-082.jpg",
       "published_bytes": 290767,
-      "published_sha256": "e50045f0343f752c238500c716bd3ee635f0ab7710c6cfc53e17d4c62f8a947e"
+      "published_sha256": "e50045f0343f752c238500c716bd3ee635f0ab7710c6cfc53e17d4c62f8a947e",
+      "photographer_reported": "Siamak Nournezhad, creator’s maternal uncle.",
+      "creation_context": "Real photograph at uncle’s Tehran home; creator later added own brand design. Software not specified."
     },
     {
       "collection": "personal",
