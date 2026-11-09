@@ -6,7 +6,7 @@ Catalogue order is not confirmed chronological order. Exact dates, ages and the 
 
 **Viewing copies: images resized to at most 2048 px with the full frame retained; complete-duration videos recompressed to fit within 1920×1080. Original desktop files remain unchanged.**
 
-Image personal-088 is an exception: its phone-screen borders were cropped away at the creator’s request; the photograph itself is preserved without retouching.
+Images personal-088 and personal-103 are exceptions: phone-screen margins were cropped at the creator’s request; the retained photograph pixels were not retouched.
 
 ## personal-001 · Portrait edits
 
@@ -1030,9 +1030,14 @@ This photograph shows a handmade Rick-themed board I was making for fun. It was 
 
 ## personal-103 · Personal & family memories
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-103.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-103.jpg" width="650" alt="personal-103 · Personal &amp; family memories" loading="lazy"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-103.png"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-103.png" width="650" alt="personal-103 · Personal &amp; family memories" loading="lazy"></a>
 
-[View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-103.jpg)
+[View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-103.png)
+
+This group photograph is from the Taha Bamshad public-speaking class that my twin brother and I attended. It is a memory of the summer 1403 course and the people in that classroom. I supplied it as a phone screenshot and asked for its top and bottom margins to be removed, leaving the class photograph. A separately labelled enhanced version may be available alongside the cropped source photograph.
+
+
+[AI-enhanced version · fine details may be reconstructed](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/restorations/personal-103-ai-enhanced.png)
 
 ## personal-104 · Personal & family memories
 
@@ -1040,17 +1045,26 @@ This photograph shows a handmade Rick-themed board I was making for fun. It was 
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-104.jpg)
 
+This is a childhood photograph of my twin brother Armiya and me at my aunt Haleh’s marriage ceremony in 1399 of the Iranian calendar.
+
+
 ## personal-105 · Portrait edits
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-105.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-105.jpg" width="650" alt="personal-105 · Portrait edits" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-105.jpg)
 
+I put several photographs of myself together in one frame to make this collage. I thought the photographs were particularly good at the time, and wanted to keep them together in one presentation.
+
+
 ## personal-106 · Portrait edits
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-106.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-106.jpg" width="650" alt="personal-106 · Portrait edits" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-106.jpg)
+
+This image features Ali Dehghannejad, known as Alivexor, and me. We made it together, and I really like how it turned out. It is a shared creative work with my close friend and collaborator.
+
 
 ## personal-107 · Portrait edits
 

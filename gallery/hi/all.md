@@ -6,7 +6,7 @@
 
 **Viewing copies: images resized to at most 2048 px with the full frame retained; complete-duration videos recompressed to fit within 1920×1080. Original desktop files remain unchanged.**
 
-Image personal-088 is an exception: its phone-screen borders were cropped away at the creator’s request; the photograph itself is preserved without retouching.
+Images personal-088 and personal-103 are exceptions: phone-screen margins were cropped at the creator’s request; the retained photograph pixels were not retouched.
 
 ## personal-001 · संपादित पोर्ट्रेट
 
@@ -610,9 +610,9 @@ Image personal-088 is an exception: its phone-screen borders were cropped away a
 
 ## personal-103 · निजी और पारिवारिक यादें
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-103.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-103.jpg" width="650" alt="personal-103 · निजी और पारिवारिक यादें" loading="lazy"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-103.png"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-103.png" width="650" alt="personal-103 · निजी और पारिवारिक यादें" loading="lazy"></a>
 
-[देखें / डाउनलोड करें](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-103.jpg)
+[देखें / डाउनलोड करें](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-103.png)
 
 ## personal-104 · निजी और पारिवारिक यादें
 

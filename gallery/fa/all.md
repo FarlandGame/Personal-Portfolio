@@ -6,7 +6,7 @@
 
 **نسخه‌های نمایشی: عکس‌ها با حفظ تمام کادر تا ۲۰۴۸ پیکسل تغییر اندازه یافته‌اند؛ ویدئوها بدون کوتاه‌کردن، در کادر حداکثر ۱۹۲۰×۱۰۸۰ بازفشرده شده‌اند. فایل‌های اصلی دسکتاپ دست‌نخورده‌اند.**
 
-استثنا، عکس ۰۸۸ است: به درخواست سازنده، حاشیه‌های صفحهٔ گوشی برش خورده‌اند و خود عکس بدون روتوش حفظ شده است.
+عکس‌های ۰۸۸ و ۱۰۳ استثنا هستند: به درخواست سازنده، حاشیه‌های صفحهٔ گوشی برش خورده‌اند و پیکسل‌های داخل خود عکس‌ها بدون روتوش حفظ شده‌اند.
 
 ## personal-001 · ادیت‌های پرتره
 
@@ -1030,9 +1030,14 @@
 
 ## personal-103 · خاطرات شخصی و خانوادگی
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-103.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-103.jpg" width="650" alt="personal-103 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-103.png"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-103.png" width="650" alt="personal-103 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
 
-[دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-103.jpg)
+[دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-103.png)
+
+این عکس گروهی مربوط به کلاس فن بیان طاها بامشاد است که من و برادر دوقلویم در آن شرکت کردیم؛ یادگاریِ دورهٔ تابستان ۱۴۰۳ و جمعِ آن کلاس. فایل ارسالی اسکرین‌شات گوشی بود و خواستم حاشیه‌های بالا و پایینش حذف شوند تا خود عکس کلاس باقی بماند. نسخهٔ بهبودکیفیت‌یافته، اگر در دسترس باشد، جدا از عکس اصلیِ برش‌خورده و با برچسب مشخص نگه داشته می‌شود.
+
+
+[نسخهٔ بهبودکیفیت‌یافته با هوش مصنوعی؛ جزئیات ریز ممکن است بازسازی شده باشند](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/restorations/personal-103-ai-enhanced.png)
 
 ## personal-104 · خاطرات شخصی و خانوادگی
 
@@ -1040,17 +1045,26 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-104.jpg)
 
+این عکس کودکی من و برادر دوقلویم ارمیا در مراسم عقد خاله هاله، در سال ۱۳۹۹ است.
+
+
 ## personal-105 · ادیت‌های پرتره
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-105.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-105.jpg" width="650" alt="personal-105 · ادیت‌های پرتره" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-105.jpg)
 
+برای ساخت این قاب، چند عکس از خودم را کنار هم گذاشتم. آن موقع عکس‌ها را خیلی خوب می‌دانستم و می‌خواستم در یک ترکیب‌بندی کنار هم نگهشان دارم.
+
+
 ## personal-106 · ادیت‌های پرتره
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-106.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-106.jpg" width="650" alt="personal-106 · ادیت‌های پرتره" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-106.jpg)
+
+این تصویر من و علی دهقان‌نژاد، با نام هنری Alivexor، است و آن را با هم درست کردیم. نتیجه‌اش را خیلی دوست دارم؛ کاری مشترک با دوست و همکار عزیزم.
+
 
 ## personal-107 · ادیت‌های پرتره
 

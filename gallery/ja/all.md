@@ -6,7 +6,7 @@
 
 **閲覧用コピー：画像は全体の構図を保ち長辺最大2048pxに縮小、動画は全編を保ち1920×1080以内に再圧縮しています。デスクトップの元ファイルは変更していません。**
 
-例外はpersonal-088です。作者の希望でスマートフォン画面の余白を切り取り、写真自体はレタッチせずに残しています。
+personal-088とpersonal-103は例外です。作者の希望で画面の余白を切り取り、写真自体の画素はレタッチせず残しています。
 
 ## personal-001 · ポートレート編集
 
@@ -1030,9 +1030,14 @@ THE APEXという名前は、Alivexorとして活動するAli Dehghannejadと私
 
 ## personal-103 · 個人と家族の思い出
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-103.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-103.jpg" width="650" alt="personal-103 · 個人と家族の思い出" loading="lazy"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-103.png"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-103.png" width="650" alt="personal-103 · 個人と家族の思い出" loading="lazy"></a>
 
-[表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-103.jpg)
+[表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-103.png)
+
+これは、双子の弟と一緒に通ったTaha Bamshadのスピーチ講座の集合写真です。イラン暦1403年の夏の講座と、あの教室の人たちの思い出です。提供したファイルはスマートフォンのスクリーンショットだったため、上下の余白を取り除いて講座の写真だけを残すようお願いしました。画質を改善した版がある場合は、切り取った元画像とは別に、編集版と明記して保存しています。
+
+
+[AI画質改善版：細部が再構成されている場合があります](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/restorations/personal-103-ai-enhanced.png)
 
 ## personal-104 · 個人と家族の思い出
 
@@ -1040,17 +1045,26 @@ THE APEXという名前は、Alivexorとして活動するAli Dehghannejadと私
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-104.jpg)
 
+これは、イラン暦1399年の叔母Halehの結婚の儀式で撮った、双子の弟Armiyaと私の子ども時代の写真です。
+
+
 ## personal-105 · ポートレート編集
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-105.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-105.jpg" width="650" alt="personal-105 · ポートレート編集" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-105.jpg)
 
+自分の写真を何枚か1つのフレームにまとめて、このコラージュを作りました。当時は特に良い写真だと思っていて、1つにまとめて残したかったのです。
+
+
 ## personal-106 · ポートレート編集
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-106.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-106.jpg" width="650" alt="personal-106 · ポートレート編集" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-106.jpg)
+
+これは、Alivexorとして活動するAli Dehghannejadと私を描いた画像です。2人で一緒に作り、仕上がりがとても気に入っています。親しい友人であり、制作仲間でもある彼との共同作品です。
+
 
 ## personal-107 · ポートレート編集
 

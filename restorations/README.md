@@ -5,3 +5,7 @@ personal-025-ai-restored.png is an AI-generated restoration requested by the cre
 ## personal-061
 
 Second creator-requested AI restoration: childhood album photo, toddler wearing sunglasses. Reduced reflected phone light, haze and scratches while retaining the same composition. Separately labelled generated restoration, supplied photo preserved in images/personal-061.jpg. May reconstruct fine details.
+
+## personal-103
+
+Creator-requested AI quality enhancement of a low-resolution class group photograph. Fine details, including faces, may be reconstructed. The exact cropped source remains in images/personal-103.png as the authentic record; the generated enhancement is separate and explicitly labelled.

@@ -2196,13 +2196,19 @@
       ],
       "published_size": [
         576,
-        1280
+        384
       ],
       "category": "memories",
-      "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
-      "published_path": "images/personal-103.jpg",
-      "published_bytes": 52448,
-      "published_sha256": "71abce093ae8011d986ad42c7d07769834732d339287f1c2631fb449b3d31a86"
+      "processing": "Exact creator-requested screenshot crop to retain only the class photograph; lossless PNG preserving source rectangle pixels. Separate labelled enhanced version may be available.",
+      "published_path": "images/personal-103.png",
+      "published_bytes": 290831,
+      "published_sha256": "4cb033e61c4690f225c1f7e6c110dc4eb0ba1e226bd5c057360df2410ecbe4ae",
+      "crop_box_source_pixels": [
+        0,
+        410,
+        576,
+        794
+      ]
     },
     {
       "collection": "personal",
@@ -2223,7 +2229,8 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-104.jpg",
       "published_bytes": 79944,
-      "published_sha256": "0e532a49b78bc370fd92a907cddedb1e95263aaaf148fcf4ec77daf258687a05"
+      "published_sha256": "0e532a49b78bc370fd92a907cddedb1e95263aaaf148fcf4ec77daf258687a05",
+      "date_reported": "1399, aunt Haleh’s marriage ceremony; explicitly corrected by creator."
     },
     {
       "collection": "personal",
@@ -2244,7 +2251,9 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-105.jpg",
       "published_bytes": 147351,
-      "published_sha256": "2702f54b6dfda798b0460274f63db124b7366c240f8ae208970303d8e6c37405"
+      "published_sha256": "2702f54b6dfda798b0460274f63db124b7366c240f8ae208970303d8e6c37405",
+      "artist_reported": "Bardiya Alizadeh / Farland_game",
+      "creation_context": "Creator-composed collage of photographs of himself."
     },
     {
       "collection": "personal",
@@ -2265,7 +2274,12 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-106.jpg",
       "published_bytes": 200972,
-      "published_sha256": "153552668f201aef71e0674f3170b35dc7811965d5741e12ed9c31649bbd93b9"
+      "published_sha256": "153552668f201aef71e0674f3170b35dc7811965d5741e12ed9c31649bbd93b9",
+      "artists_reported": [
+        "Bardiya Alizadeh / Farland_game",
+        "Ali Dehghannejad / Alivexor"
+      ],
+      "creation_context": "Collaborative image featuring both creators; medium not specified."
     },
     {
       "collection": "personal",

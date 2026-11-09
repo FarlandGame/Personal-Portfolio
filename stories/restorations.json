@@ -18,5 +18,15 @@
     },
     "sha256": "f4d26e7073279a61ffea131b5200b276c0abf7a4deafb28c9789796a7d1db781",
     "method": "Built-inimage_gen edit;AI-generatedrestoration,notexactrecoveryoffinedetails.Suppliedalbumphotokeptunchanged."
+  },
+  "personal-103": {
+    "path": "restorations/personal-103-ai-enhanced.png",
+    "label": {
+      "en": "AI-enhanced version · fine details may be reconstructed",
+      "fa": "نسخهٔ بهبودکیفیت‌یافته با هوش مصنوعی؛ جزئیات ریز ممکن است بازسازی شده باشند",
+      "ja": "AI画質改善版：細部が再構成されている場合があります"
+    },
+    "sha256": "c3f079c626cb11899e98529844cadb8f595cc5b338f8bc77660dcb0da94eeee3",
+    "method": "Built-inimage_gen enhancement oflow-resolutiongroupimage;finefacialdetailsmaybereconstructed.Primaryimages/personal-103.pngremainsexactsourcepixelcrop."
   }
 }
