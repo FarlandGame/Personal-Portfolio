@@ -1302,8 +1302,12 @@ THE APEXという名前は、Alivexorとして活動するAli Dehghannejadと私
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-132.jpg)
 
-この思い出を話した時点では、これは自分を写した写真の中で一番のお気に入りで、それまでで最も良い1枚だと思っていました。いろいろな場所でプロフィール写真として使っていました。これは当時の私自身の感想と使い方です。
+これは自分を写した一番のお気に入りのポートレートで、元の画像はいろいろな場所でプロフィール写真として使ってきました。そのバリエーションの中でも、ここにあるスーツと赤いネクタイの版が最も気に入っています。私自身の好みとして、両方の版を一緒に残しています。
 
+
+### 一番のお気に入りのバージョン：スーツと赤いネクタイ
+
+![personal-132 · suit variant](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/variants/personal-132-suit.png)
 
 ## personal-133 · ポートレート編集
 

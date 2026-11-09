@@ -3010,7 +3010,20 @@
       "published_path": "images/personal-132.jpg",
       "published_bytes": 275586,
       "published_sha256": "79acd2a3d6e761afd7109417d815f7e99b4e01f8f5faae0c3ace39a3b1249345",
-      "creation_context": "Creator’s favourite self-portrait and widely used profile image at time of story (2026-11-10); subjective preference, capture method unspecified."
+      "creation_context": "Favourite portrait; creator specifically prefers the supplied suit/red-tie variation. Base portrait retained; no profile-avatar change requested.",
+      "variant": {
+        "path": "variants/personal-132-suit.png",
+        "label": {
+          "en": "My favourite version · suit and red tie",
+          "fa": "نسخهٔ موردعلاقه‌ام؛ کت‌وشلوار با کراوات قرمز",
+          "ja": "一番のお気に入りのバージョン：スーツと赤いネクタイ"
+        },
+        "width": 320,
+        "height": 320,
+        "bytes": 13324,
+        "sha256": "69ae510ef7ba829a5b8741fd7ab29c43763f5578cc46d995361c947870bf8f42",
+        "provenance": "Creator-supplied suit variation; copied byte-identically, creation method not specified."
+      }
     },
     {
       "collection": "personal",

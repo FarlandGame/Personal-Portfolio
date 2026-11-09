@@ -788,6 +788,10 @@ Images personal-088 and personal-103 are exceptions: phone-screen margins were c
 
 [查看 / 下载](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-132.jpg)
 
+### My favourite version · suit and red tie
+
+![personal-132 · suit variant](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/variants/personal-132-suit.png)
+
 ## personal-133 · 肖像编辑作品
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-133.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-133.jpg" width="650" alt="personal-133 · 肖像编辑作品" loading="lazy"></a>

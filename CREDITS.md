@@ -17,3 +17,5 @@ Server-entry welcome graphic personal-101: **Bardiya Alizadeh / Farland_game**. 
 Collaborative image personal-106: **Bardiya Alizadeh / Farland_game and Ali Dehghannejad / Alivexor**. Photograph collage personal-105: **Bardiya Alizadeh / Farland_game**.
 
 Playful AI-edited variation personal-128: **Bardiya Alizadeh / Farland_game and Ali Dehghannejad / Alivexor**, based on their shared image personal-106.
+
+Creator-supplied suit/red-tie variant of personal-132 is stored in variants/personal-132-suit.png unchanged. The creator identifies it as his preferred version; its production method was not specified. Both the base image and this sibling variant are retained.
