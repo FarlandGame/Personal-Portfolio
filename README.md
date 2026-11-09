@@ -20,8 +20,8 @@ Stylized or composite portraits and playful fantasy scenes belong to creative pr
 
 Images personal-088 and personal-103 are exceptions: phone-screen margins were cropped at the creator’s request; the retained photograph pixels were not retouched.
 
-- [Personal & family memories](https://farlandgame.github.io/Personal-Portfolio/#category-memories) · 84 📸 · 6 🎬
-- [Portrait edits](https://farlandgame.github.io/Personal-Portfolio/#category-portraits) · 37 📸 · 5 🎬
+- [Personal & family memories](https://farlandgame.github.io/Personal-Portfolio/#category-memories) · 85 📸 · 6 🎬
+- [Portrait edits](https://farlandgame.github.io/Personal-Portfolio/#category-portraits) · 36 📸 · 5 🎬
 - [Book memories](https://farlandgame.github.io/Personal-Portfolio/#category-book) · 10 📸 · 0 🎬
 - [THE APEX](https://farlandgame.github.io/Personal-Portfolio/#category-apex) · 7 📸 · 1 🎬
 

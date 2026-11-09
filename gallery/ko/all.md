@@ -794,9 +794,9 @@ Images personal-088 and personal-103 are exceptions: phone-screen margins were c
 
 [보기 / 다운로드](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-133.jpg)
 
-## personal-134 · 인물 사진 편집
+## personal-134 · 개인과 가족의 추억
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg" width="650" alt="personal-134 · 인물 사진 편집" loading="lazy"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg" width="650" alt="personal-134 · 개인과 가족의 추억" loading="lazy"></a>
 
 [보기 / 다운로드](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg)
 

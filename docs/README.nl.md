@@ -20,8 +20,8 @@ Gestileerde en samengestelde portretten en grappige fantasietaferelen zijn creat
 
 Images personal-088 and personal-103 are exceptions: phone-screen margins were cropped at the creator’s request; the retained photograph pixels were not retouched.
 
-- [Persoonlijke en familieherinneringen](https://farlandgame.github.io/Personal-Portfolio/#category-memories) · 84 📸 · 6 🎬
-- [Portretbewerkingen](https://farlandgame.github.io/Personal-Portfolio/#category-portraits) · 37 📸 · 5 🎬
+- [Persoonlijke en familieherinneringen](https://farlandgame.github.io/Personal-Portfolio/#category-memories) · 85 📸 · 6 🎬
+- [Portretbewerkingen](https://farlandgame.github.io/Personal-Portfolio/#category-portraits) · 36 📸 · 5 🎬
 - [Herinneringen rond het boek](https://farlandgame.github.io/Personal-Portfolio/#category-book) · 10 📸 · 0 🎬
 - [THE APEX](https://farlandgame.github.io/Personal-Portfolio/#category-apex) · 7 📸 · 1 🎬
 

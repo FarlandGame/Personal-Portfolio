@@ -794,9 +794,9 @@ Images personal-088 and personal-103 are exceptions: phone-screen margins were c
 
 [देखें / डाउनलोड करें](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-133.jpg)
 
-## personal-134 · संपादित पोर्ट्रेट
+## personal-134 · निजी और पारिवारिक यादें
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg" width="650" alt="personal-134 · संपादित पोर्ट्रेट" loading="lazy"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg" width="650" alt="personal-134 · निजी और पारिवारिक यादें" loading="lazy"></a>
 
 [देखें / डाउनलोड करें](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg)
 

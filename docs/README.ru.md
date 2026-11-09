@@ -20,8 +20,8 @@
 
 Images personal-088 and personal-103 are exceptions: phone-screen margins were cropped at the creator’s request; the retained photograph pixels were not retouched.
 
-- [Личные и семейные воспоминания](https://farlandgame.github.io/Personal-Portfolio/#category-memories) · 84 📸 · 6 🎬
-- [Обработанные портреты](https://farlandgame.github.io/Personal-Portfolio/#category-portraits) · 37 📸 · 5 🎬
+- [Личные и семейные воспоминания](https://farlandgame.github.io/Personal-Portfolio/#category-memories) · 85 📸 · 6 🎬
+- [Обработанные портреты](https://farlandgame.github.io/Personal-Portfolio/#category-portraits) · 36 📸 · 5 🎬
 - [Воспоминания о книге](https://farlandgame.github.io/Personal-Portfolio/#category-book) · 10 📸 · 0 🎬
 - [THE APEX](https://farlandgame.github.io/Personal-Portfolio/#category-apex) · 7 📸 · 1 🎬
 

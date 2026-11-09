@@ -1293,11 +1293,17 @@ THE APEXという名前は、Alivexorとして活動するAli Dehghannejadと私
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-131.jpg)
 
+これは、顔の前にカップがない、画像personal-130の別バージョンです。同じプロフィール画像の組として残しています。
+
+
 ## personal-132 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-132.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-132.jpg" width="650" alt="personal-132 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-132.jpg)
+
+この思い出を話した時点では、これは自分を写した写真の中で一番のお気に入りで、それまでで最も良い1枚だと思っていました。いろいろな場所でプロフィール写真として使っていました。これは当時の私自身の感想と使い方です。
+
 
 ## personal-133 · ポートレート編集
 
@@ -1305,11 +1311,17 @@ THE APEXという名前は、Alivexorとして活動するAli Dehghannejadと私
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-133.jpg)
 
-## personal-134 · ポートレート編集
+これは、子どもの頃の私の写真を編集したものです。AIを使ってスーツを加え、昔の写真をフォーマルな装いのバージョンにしました。スーツは編集で追加したものです。
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg" width="650" alt="personal-134 · ポートレート編集" loading="lazy"></a>
+
+## personal-134 · 個人と家族の思い出
+
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg" width="650" alt="personal-134 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg)
+
+これは双子の弟Armiyaのスタジオポートレートです。写真スタジオへ行って撮ってもらったもので、大胆でスタイリッシュな雰囲気が気に入っています。
+
 
 ## personal-135 · ポートレート編集
 

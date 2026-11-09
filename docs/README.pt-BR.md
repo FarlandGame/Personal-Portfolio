@@ -20,8 +20,8 @@ Retratos estilizados ou compostos e cenas de fantasia bem-humoradas são criaç�
 
 Images personal-088 and personal-103 are exceptions: phone-screen margins were cropped at the creator’s request; the retained photograph pixels were not retouched.
 
-- [Lembranças pessoais e de família](https://farlandgame.github.io/Personal-Portfolio/#category-memories) · 84 📸 · 6 🎬
-- [Retratos editados](https://farlandgame.github.io/Personal-Portfolio/#category-portraits) · 37 📸 · 5 🎬
+- [Lembranças pessoais e de família](https://farlandgame.github.io/Personal-Portfolio/#category-memories) · 85 📸 · 6 🎬
+- [Retratos editados](https://farlandgame.github.io/Personal-Portfolio/#category-portraits) · 36 📸 · 5 🎬
 - [Lembranças do livro](https://farlandgame.github.io/Personal-Portfolio/#category-book) · 10 📸 · 0 🎬
 - [THE APEX](https://farlandgame.github.io/Personal-Portfolio/#category-apex) · 7 📸 · 1 🎬
 

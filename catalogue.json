@@ -2986,7 +2986,9 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-131.jpg",
       "published_bytes": 253681,
-      "published_sha256": "dd508ff57cee1bde86f55c612a4662b88d8db77baa9a85af74d220d456929995"
+      "published_sha256": "dd508ff57cee1bde86f55c612a4662b88d8db77baa9a85af74d220d456929995",
+      "related_image": "personal-130",
+      "creation_context": "Version of130withoutcupcoveringface;methodunspecified."
     },
     {
       "collection": "personal",
@@ -3007,7 +3009,8 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-132.jpg",
       "published_bytes": 275586,
-      "published_sha256": "79acd2a3d6e761afd7109417d815f7e99b4e01f8f5faae0c3ace39a3b1249345"
+      "published_sha256": "79acd2a3d6e761afd7109417d815f7e99b4e01f8f5faae0c3ace39a3b1249345",
+      "creation_context": "Creator’s favourite self-portrait and widely used profile image at time of story (2026-11-10); subjective preference, capture method unspecified."
     },
     {
       "collection": "personal",
@@ -3028,7 +3031,11 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-133.jpg",
       "published_bytes": 273233,
-      "published_sha256": "e148fd38e0953c0e0c82a4c9dde653287b592914476cdc99a5ea725241fdd288"
+      "published_sha256": "e148fd38e0953c0e0c82a4c9dde653287b592914476cdc99a5ea725241fdd288",
+      "tools_reported": [
+        "AI, unspecified tool"
+      ],
+      "creation_context": "Edited childhood photograph with suit added using AI."
     },
     {
       "collection": "personal",
@@ -3045,11 +3052,13 @@
         1536,
         1536
       ],
-      "category": "portraits",
+      "category": "memories",
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-134.jpg",
       "published_bytes": 135639,
-      "published_sha256": "8da5dfc5ab76a65a6afb132006c3363c4e818b71e263856b1ea8600b25640824"
+      "published_sha256": "8da5dfc5ab76a65a6afb132006c3363c4e818b71e263856b1ea8600b25640824",
+      "subject_reported": "Armiya Alizadeh, explicitly identified by creator.",
+      "creation_context": "Photography-studio portrait of creator’s twin brother; no AI claim."
     },
     {
       "collection": "personal",

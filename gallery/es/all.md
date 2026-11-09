@@ -794,9 +794,9 @@ Images personal-088 and personal-103 are exceptions: phone-screen margins were c
 
 [Ver / descargar](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-133.jpg)
 
-## personal-134 · Retratos editados
+## personal-134 · Recuerdos personales y familiares
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg" width="650" alt="personal-134 · Retratos editados" loading="lazy"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg" width="650" alt="personal-134 · Recuerdos personales y familiares" loading="lazy"></a>
 
 [Ver / descargar](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg)
 

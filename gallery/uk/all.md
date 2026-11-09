@@ -794,9 +794,9 @@ Images personal-088 and personal-103 are exceptions: phone-screen margins were c
 
 [Переглянути / завантажити](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-133.jpg)
 
-## personal-134 · Оброблені портрети
+## personal-134 · Особисті та родинні спогади
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg" width="650" alt="personal-134 · Оброблені портрети" loading="lazy"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg" width="650" alt="personal-134 · Особисті та родинні спогади" loading="lazy"></a>
 
 [Переглянути / завантажити](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg)
 

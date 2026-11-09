@@ -1293,11 +1293,17 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-131.jpg)
 
+این نسخهٔ دیگری از همان تصویر ۱۳۰ است، با این تفاوت که فنجان جلوی صورتم نیست. آن را در کنار همان تصویر پروفایل نگه داشته‌ام.
+
+
 ## personal-132 · خاطرات شخصی و خانوادگی
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-132.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-132.jpg" width="650" alt="personal-132 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-132.jpg)
+
+وقتی این خاطره را تعریف کردم، این عکس موردعلاقه‌ام از خودم بود؛ به نظر خودم بهترین عکسی که تا آن موقع داشتم. در بیشتر جاها هم از آن برای پروفایلم استفاده می‌کردم. این نظر و کاربرد تصویر در همان زمانِ روایت است.
+
 
 ## personal-133 · ادیت‌های پرتره
 
@@ -1305,11 +1311,17 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-133.jpg)
 
-## personal-134 · ادیت‌های پرتره
+این یکی از عکس‌های کودکی خودم است که با هوش مصنوعی به آن کت‌وشلوار اضافه کردم؛ بازطراحیِ یک عکس قدیمی با لباس رسمی که در ادیت به تصویر اضافه شده است.
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg" width="650" alt="personal-134 · ادیت‌های پرتره" loading="lazy"></a>
+
+## personal-134 · خاطرات شخصی و خانوادگی
+
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg" width="650" alt="personal-134 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg)
+
+این پرترهٔ آتلیه‌ایِ برادر دوقلویم ارمیاست. او به آتلیه رفت و این تصویر را تهیه کرد؛ حال‌وهوای جسور و شیکش را دوست دارم.
+
 
 ## personal-135 · ادیت‌های پرتره
 

@@ -1293,11 +1293,17 @@ I designed this image for my profile some time ago. I liked the result and kept 
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-131.jpg)
 
+This is another version of the image in personal-130, with no cup in front of my face. It belongs to the same profile-image set I kept.
+
+
 ## personal-132 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-132.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-132.jpg" width="650" alt="personal-132 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-132.jpg)
+
+When I shared this story, this was my favourite photograph of myself—the best one I felt I had so far. I was using it as my profile picture in many places. That is my personal view of the photograph and how I used it at the time.
+
 
 ## personal-133 · Portrait edits
 
@@ -1305,11 +1311,17 @@ I designed this image for my profile some time ago. I liked the result and kept 
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-133.jpg)
 
-## personal-134 · Portrait edits
+This is an edited childhood photograph of me. I used AI to add a suit, turning an old picture into a dressed-up variation. The suit was added through the edit.
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg" width="650" alt="personal-134 · Portrait edits" loading="lazy"></a>
+
+## personal-134 · Personal & family memories
+
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg" width="650" alt="personal-134 · Personal & family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-134.jpg)
+
+This is a studio portrait of my twin brother Armiya. He went to a photography studio to have it made, and I like its bold, stylish feeling.
+
 
 ## personal-135 · Portrait edits
 
