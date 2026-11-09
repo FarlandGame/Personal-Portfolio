@@ -922,11 +922,19 @@ This is my maternal grandmother, whom I call “Aziz.” I kept this photograph 
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-091.jpg)
 
+This is another photograph of my maternal grandmother, whom I call Aziz. It was taken at the same time as photograph personal-090, but in this one she is wearing my sunglasses. A playful family keepsake.
+
+
 ## personal-092 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-092.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-092.jpg" width="650" alt="personal-092 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-092.jpg)
+
+This photograph is from a family celebration after my swimming competition. I remember finishing first, as described in the swimming section of my portfolio. That evening my mother and father bought a cake and took this photograph of me with the certificate.
+
+The photographed swimming documents are participation certificates and do not state a placing; the first-place result is my own recollection. This photograph preserves the family celebration of that moment.
+
 
 ## personal-093 · Personal & family memories
 
@@ -934,11 +942,17 @@ This is my maternal grandmother, whom I call “Aziz.” I kept this photograph 
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-093.jpg)
 
+This is a selfie of me with Taha Bamshad during the public-speaking course my twin brother and I attended. It is a keepsake with the instructor from the summer 1403 course that helped me become more confident speaking and expressing myself.
+
+
 ## personal-094 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-094.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-094.jpg" width="650" alt="personal-094 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-094.jpg)
+
+In this photograph my twin brother Armiya is taking a selfie with Taha Bamshad at the same public-speaking course. We both attended the summer 1403 course, and this is Armiya’s keepsake with our instructor.
+
 
 ## personal-095 · Personal & family memories
 

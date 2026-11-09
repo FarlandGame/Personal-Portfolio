@@ -1916,7 +1916,8 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-091.jpg",
       "published_bytes": 384613,
-      "published_sha256": "766ec847ed421d18ed839e394b07d76f47f3556d7ed17d2e32df7370e82c32e9"
+      "published_sha256": "766ec847ed421d18ed839e394b07d76f47f3556d7ed17d2e32df7370e82c32e9",
+      "subject_reported": "Creator’s maternal grandmother Aziz, wearing creator’s sunglasses."
     },
     {
       "collection": "personal",
@@ -1958,7 +1959,11 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-093.jpg",
       "published_bytes": 369839,
-      "published_sha256": "9522de4e6a2978b28466c45b51fb53bb33840085a9b76911f3368b53f152f27b"
+      "published_sha256": "9522de4e6a2978b28466c45b51fb53bb33840085a9b76911f3368b53f152f27b",
+      "subjects_reported": [
+        "Bardiya Alizadeh",
+        "Taha Bamshad"
+      ]
     },
     {
       "collection": "personal",
@@ -1979,7 +1984,11 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-094.jpg",
       "published_bytes": 318545,
-      "published_sha256": "c2abb22913af149b7a67f7c4577ab9f7eafcd1391cf958019db367aca1681221"
+      "published_sha256": "c2abb22913af149b7a67f7c4577ab9f7eafcd1391cf958019db367aca1681221",
+      "subjects_reported": [
+        "Armiya Alizadeh",
+        "Taha Bamshad"
+      ]
     },
     {
       "collection": "personal",

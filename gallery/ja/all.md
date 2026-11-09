@@ -922,11 +922,19 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-091.jpg)
 
+これは、私がAzizと呼ぶ母方の祖母の、もう1枚の写真です。写真personal-090と同じときに撮りましたが、こちらでは私のサングラスをかけています。楽しい家族の思い出です。
+
+
 ## personal-092 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-092.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-092.jpg" width="650" alt="personal-092 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-092.jpg)
+
+これは、水泳の大会の後、家族でお祝いしたときの写真です。ポートフォリオの水泳の欄でも話しているように、私は1位になったと覚えています。その夜、母と父がケーキを買い、証書を持った私を撮ってくれました。
+
+公開している水泳の書類は参加証書で、順位は記載されていません。1位という結果は私自身の記憶です。この写真は、その瞬間を家族で祝った思い出を残しています。
+
 
 ## personal-093 · 個人と家族の思い出
 
@@ -934,11 +942,17 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-093.jpg)
 
+これは、双子の弟と一緒に通ったスピーチ講座で、講師のTaha Bamshadと撮った私の自撮り写真です。話したり自分を表現したりする自信をつけてくれた、イラン暦1403年の夏の講座の思い出です。
+
+
 ## personal-094 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-094.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-094.jpg" width="650" alt="personal-094 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-094.jpg)
+
+この写真では、双子の弟Armiyaが同じスピーチ講座でTaha Bamshadと自撮りをしています。2人ともイラン暦1403年の夏の講座に通い、これはArmiyaと講師の思い出の1枚です。
+
 
 ## personal-095 · 個人と家族の思い出
 

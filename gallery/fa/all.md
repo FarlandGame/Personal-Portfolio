@@ -922,11 +922,19 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-091.jpg)
 
+این هم عکس دیگری از مادربزرگ مادری‌ام، عزیز، در همان روز و همان زمانِ عکس ۰۹۰ است. این بار عینک آفتابی خودم را زده؛ یک یادگاری بامزهٔ خانوادگی.
+
+
 ## personal-092 · خاطرات شخصی و خانوادگی
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-092.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-092.jpg" width="650" alt="personal-092 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-092.jpg)
+
+این عکس مربوط به جشن خانوادگیِ بعد از مسابقهٔ شنای من است. به یادم، نفر اول شدم؛ همان خاطره‌ای که در بخش شنای رزومه‌ام گفته‌ام. آن شب پدر و مادرم کیک گرفتند و این عکس را با گواهی از من گرفتند.
+
+گواهی‌های شنایی که تصویرشان منتشر شده، گواهی شرکت هستند و رتبه‌ای روی آن‌ها نوشته نشده؛ نفر اول شدن، خاطرهٔ شخصی من از مسابقه است. این عکس یادگاریِ جشن خانوادگی همان موفقیت است.
+
 
 ## personal-093 · خاطرات شخصی و خانوادگی
 
@@ -934,11 +942,17 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-093.jpg)
 
+این سلفی من با آقای طاها بامشاد، در دورهٔ فن بیانی است که من و برادر دوقلویم گذراندیم. یادگاری‌ای کنار مدرس دورهٔ تابستان ۱۴۰۳؛ دوره‌ای که کمکم کرد با اعتمادبه‌نفس بیشتری صحبت کنم و خودم را بیان کنم.
+
+
 ## personal-094 · خاطرات شخصی و خانوادگی
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-094.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-094.jpg" width="650" alt="personal-094 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-094.jpg)
+
+در این عکس، برادر دوقلویم ارمیا در حال گرفتن سلفی با آقای طاها بامشاد در همان کلاس فن بیان است. هر دو دورهٔ تابستان ۱۴۰۳ را گذراندیم و این یادگاریِ ارمیا با مدرس‌مان است.
+
 
 ## personal-095 · خاطرات شخصی و خانوادگی
 
