@@ -1841,13 +1841,19 @@
       ],
       "published_size": [
         576,
-        1280
+        832
       ],
       "category": "memories",
-      "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
-      "published_path": "images/personal-088.jpg",
-      "published_bytes": 49234,
-      "published_sha256": "61551e4c5dac8b7ebd3cfeff09ee6dfd338a211ed4d35e21541a01fa57d99eaa"
+      "processing": "Creator-requested exact crop of original screenshot to remove phone UI and black margins; lossless PNG, no generative AI, no face retouching or colour edits.",
+      "published_path": "images/personal-088.png",
+      "published_bytes": 245680,
+      "published_sha256": "ba799c4e5822e2c9143fee940b1e11c4030c2b3766f0c348be2974c958e23586",
+      "crop_box_source_pixels": [
+        0,
+        186,
+        576,
+        1018
+      ]
     },
     {
       "collection": "personal",

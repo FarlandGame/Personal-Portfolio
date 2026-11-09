@@ -6,6 +6,8 @@ Catalogue order is not confirmed chronological order. Exact dates, ages and the 
 
 **Viewing copies: images resized to at most 2048 px with the full frame retained; complete-duration videos recompressed to fit within 1920×1080. Original desktop files remain unchanged.**
 
+Image personal-088 is an exception: its phone-screen borders were cropped away at the creator’s request; the photograph itself is preserved without retouching.
+
 ## personal-001 · Portrait edits
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-001.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-001.jpg" width="650" alt="personal-001 · Portrait edits" loading="lazy"></a>
@@ -355,7 +357,7 @@ We went from school to the education department. I remember feeling overlooked o
 
 I remember receiving 500,000 tomans with the certificate. My book was priced at 350,000 tomans, and I had already given them a copy as a gift. In my disappointment I compared those figures: 150,000 tomans above the price of the book I had donated. To me, the recognition felt small compared with the work and anticipation behind it.
 
-The bouquet made me happy. My uncle Siamak, who was there, bought it for me. My mother and my maternal great-grandmother Akhtar Amir Sadeghi—whom I call “Aziz”—were also present. My father could not come. My mother took these photographs that night. Alongside the disappointment, I remember the warmth of my family and the flowers.
+The bouquet made me happy. My uncle Siamak, who was there, bought it for me. My mother and Akhtar Amir Sadeghi—whom I call “Aziz”—were also present. My father could not come. My mother took these photographs that night. Alongside the disappointment, I remember the warmth of my family and the flowers.
 
 Date note: I recall the event as late Dey 1404, close to Bahman. The photographed certificate itself is dated 1404/09/09; its printed date and my recollection of the ceremony date are kept separate pending clarification.
 
@@ -372,7 +374,7 @@ We went from school to the education department. I remember feeling overlooked o
 
 I remember receiving 500,000 tomans with the certificate. My book was priced at 350,000 tomans, and I had already given them a copy as a gift. In my disappointment I compared those figures: 150,000 tomans above the price of the book I had donated. To me, the recognition felt small compared with the work and anticipation behind it.
 
-The bouquet made me happy. My uncle Siamak, who was there, bought it for me. My mother and my maternal great-grandmother Akhtar Amir Sadeghi—whom I call “Aziz”—were also present. My father could not come. My mother took these photographs that night. Alongside the disappointment, I remember the warmth of my family and the flowers.
+The bouquet made me happy. My uncle Siamak, who was there, bought it for me. My mother and Akhtar Amir Sadeghi—whom I call “Aziz”—were also present. My father could not come. My mother took these photographs that night. Alongside the disappointment, I remember the warmth of my family and the flowers.
 
 Date note: I recall the event as late Dey 1404, close to Bahman. The photographed certificate itself is dated 1404/09/09; its printed date and my recollection of the ceremony date are kept separate pending clarification.
 
@@ -884,11 +886,17 @@ This image shows the back of my shirt design. It belongs to the clothing design 
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-087.jpg)
 
+This is the front view of the shirt design I mentioned with photograph personal-086. It carries the identity of my own brand and channel, and complements the back view shown earlier.
+
+
 ## personal-088 · Personal & family memories
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-088.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-088.jpg" width="650" alt="personal-088 · Personal &amp; family memories" loading="lazy"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-088.png"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-088.png" width="650" alt="personal-088 · Personal &amp; family memories" loading="lazy"></a>
 
-[View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-088.jpg)
+[View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-088.png)
+
+This is an old childhood photograph of me. I do not remember exactly how old I was. The supplied file was a phone screenshot; at my request its top and bottom interface areas were cropped away so that only the photograph remains. The photo itself was not retouched.
+
 
 ## personal-089 · Personal & family memories
 
@@ -896,11 +904,17 @@ This image shows the back of my shirt design. It belongs to the clothing design 
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-089.jpg)
 
+This photograph shows me working on ring-making. My twin brother Armiya and I once attended a course in making rings with silver, and this is one of the photographs from that hands-on learning experience.
+
+
 ## personal-090 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-090.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-090.jpg" width="650" alt="personal-090 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-090.jpg)
+
+This is my maternal grandmother, whom I call “Aziz.” I kept this photograph as a family memory.
+
 
 ## personal-091 · Personal & family memories
 

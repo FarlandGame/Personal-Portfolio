@@ -6,6 +6,8 @@
 
 **Viewing copies: images resized to at most 2048 px with the full frame retained; complete-duration videos recompressed to fit within 1920×1080. Original desktop files remain unchanged.**
 
+Image personal-088 is an exception: its phone-screen borders were cropped away at the creator’s request; the photograph itself is preserved without retouching.
+
 ## personal-001 · Portre düzenlemeleri
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-001.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-001.jpg" width="650" alt="personal-001 · Portre düzenlemeleri" loading="lazy"></a>
@@ -518,9 +520,9 @@
 
 ## personal-088 · Kişisel anılar ve aile anıları
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-088.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-088.jpg" width="650" alt="personal-088 · Kişisel anılar ve aile anıları" loading="lazy"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-088.png"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-088.png" width="650" alt="personal-088 · Kişisel anılar ve aile anıları" loading="lazy"></a>
 
-[Görüntüle / indir](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-088.jpg)
+[Görüntüle / indir](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-088.png)
 
 ## personal-089 · Kişisel anılar ve aile anıları
 

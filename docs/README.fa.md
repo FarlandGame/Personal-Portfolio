@@ -18,6 +18,8 @@
 
 **نسخه‌های نمایشی: عکس‌ها با حفظ تمام کادر تا ۲۰۴۸ پیکسل تغییر اندازه یافته‌اند؛ ویدئوها بدون کوتاه‌کردن، در کادر حداکثر ۱۹۲۰×۱۰۸۰ بازفشرده شده‌اند. فایل‌های اصلی دسکتاپ دست‌نخورده‌اند.**
 
+استثنا، عکس ۰۸۸ است: به درخواست سازنده، حاشیه‌های صفحهٔ گوشی برش خورده‌اند و خود عکس بدون روتوش حفظ شده است.
+
 - [خاطرات شخصی و خانوادگی](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#category-memories) · 84 📸 · 6 🎬
 - [ادیت‌های پرتره](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#category-portraits) · 37 📸 · 5 🎬
 - [خاطرات کتاب](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#category-book) · 10 📸 · 0 🎬

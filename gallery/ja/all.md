@@ -6,6 +6,8 @@
 
 **閲覧用コピー：画像は全体の構図を保ち長辺最大2048pxに縮小、動画は全編を保ち1920×1080以内に再圧縮しています。デスクトップの元ファイルは変更していません。**
 
+例外はpersonal-088です。作者の希望でスマートフォン画面の余白を切り取り、写真自体はレタッチせずに残しています。
+
 ## personal-001 · ポートレート編集
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-001.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-001.jpg" width="650" alt="personal-001 · ポートレート編集" loading="lazy"></a>
@@ -355,7 +357,7 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 感謝状とともに50万トマンを受け取ったと覚えています。本の価格は35万トマンで、すでに1冊を寄贈していました。落胆した私は、頭の中でその差を比べていました。寄贈した本の価格より15万トマン多いだけだ、と感じたのです。自分が注いだ努力や待ち続けた時間に比べ、十分に認めてもらえなかったように思いました。
 
-でも、花束はうれしかったです。その場にいた叔父Siamakが買ってくれました。母と、私が「Aziz」と呼ぶ母方の曽祖母Akhtar Amir Sadeghiも一緒でした。父は来られませんでした。その夜、母がこれらの写真を撮ってくれました。落胆とともに、家族や花の温かさも覚えています。
+でも、花束はうれしかったです。その場にいた叔父Siamakが買ってくれました。母と、私が「Aziz」と呼ぶAkhtar Amir Sadeghiも一緒でした。父は来られませんでした。その夜、母がこれらの写真を撮ってくれました。落胆とともに、家族や花の温かさも覚えています。
 
 日付について：会はイラン暦1404年のデイ月末、バフマン月に近い頃だったと覚えています。一方、写真の感謝状に印刷されている日付は1404/09/09です。確認が取れるまでは、書面の日付と私が記憶する開催時期を区別して記録しています。
 
@@ -372,7 +374,7 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 感謝状とともに50万トマンを受け取ったと覚えています。本の価格は35万トマンで、すでに1冊を寄贈していました。落胆した私は、頭の中でその差を比べていました。寄贈した本の価格より15万トマン多いだけだ、と感じたのです。自分が注いだ努力や待ち続けた時間に比べ、十分に認めてもらえなかったように思いました。
 
-でも、花束はうれしかったです。その場にいた叔父Siamakが買ってくれました。母と、私が「Aziz」と呼ぶ母方の曽祖母Akhtar Amir Sadeghiも一緒でした。父は来られませんでした。その夜、母がこれらの写真を撮ってくれました。落胆とともに、家族や花の温かさも覚えています。
+でも、花束はうれしかったです。その場にいた叔父Siamakが買ってくれました。母と、私が「Aziz」と呼ぶAkhtar Amir Sadeghiも一緒でした。父は来られませんでした。その夜、母がこれらの写真を撮ってくれました。落胆とともに、家族や花の温かさも覚えています。
 
 日付について：会はイラン暦1404年のデイ月末、バフマン月に近い頃だったと覚えています。一方、写真の感謝状に印刷されている日付は1404/09/09です。確認が取れるまでは、書面の日付と私が記憶する開催時期を区別して記録しています。
 
@@ -884,11 +886,17 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-087.jpg)
 
+これは、写真personal-086で触れたシャツのデザインの前面です。自分のブランドとチャンネルのデザインで、前に載せた背面と対になる画像です。
+
+
 ## personal-088 · 個人と家族の思い出
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-088.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-088.jpg" width="650" alt="personal-088 · 個人と家族の思い出" loading="lazy"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-088.png"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-088.png" width="650" alt="personal-088 · 個人と家族の思い出" loading="lazy"></a>
 
-[表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-088.jpg)
+[表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-088.png)
+
+これは私の昔の子ども時代の写真です。何歳の頃かは、はっきり覚えていません。提供したファイルはスマートフォンのスクリーンショットだったため、私の希望で上下の画面表示部分を切り取り、写真だけを残しました。写真自体のレタッチはしていません。
+
 
 ## personal-089 · 個人と家族の思い出
 
@@ -896,11 +904,17 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-089.jpg)
 
+この写真は、指輪作りに取り組んでいる私です。双子の弟Armiyaと一緒に銀の指輪を作る講座へ通ったことがあり、その実習で学んでいたときの1枚です。
+
+
 ## personal-090 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-090.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-090.jpg" width="650" alt="personal-090 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-090.jpg)
+
+これは母方の祖母、つまり母の母で、私が「Aziz」と呼んでいる人です。家族の思い出として残している写真です。
+
 
 ## personal-091 · 個人と家族の思い出
 

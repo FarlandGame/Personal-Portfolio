@@ -8,7 +8,7 @@ We went from school to the education department. I remember feeling overlooked o
 
 I remember receiving 500,000 tomans with the certificate. My book was priced at 350,000 tomans, and I had already given them a copy as a gift. In my disappointment I compared those figures: 150,000 tomans above the price of the book I had donated. To me, the recognition felt small compared with the work and anticipation behind it.
 
-The bouquet made me happy. My uncle Siamak, who was there, bought it for me. My mother and my maternal great-grandmother Akhtar Amir Sadeghi—whom I call “Aziz”—were also present. My father could not come. My mother took these photographs that night. Alongside the disappointment, I remember the warmth of my family and the flowers.
+The bouquet made me happy. My uncle Siamak, who was there, bought it for me. My mother and Akhtar Amir Sadeghi—whom I call “Aziz”—were also present. My father could not come. My mother took these photographs that night. Alongside the disappointment, I remember the warmth of my family and the flowers.
 
 Date note: I recall the event as late Dey 1404, close to Bahman. The photographed certificate itself is dated 1404/09/09; its printed date and my recollection of the ceremony date are kept separate pending clarification.
 

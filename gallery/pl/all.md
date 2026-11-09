@@ -6,6 +6,8 @@ Kolejność wynika z katalogu i nie stanowi potwierdzonej chronologii.
 
 **Viewing copies: images resized to at most 2048 px with the full frame retained; complete-duration videos recompressed to fit within 1920×1080. Original desktop files remain unchanged.**
 
+Image personal-088 is an exception: its phone-screen borders were cropped away at the creator’s request; the photograph itself is preserved without retouching.
+
 ## personal-001 · Przeróbki portretów
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-001.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-001.jpg" width="650" alt="personal-001 · Przeróbki portretów" loading="lazy"></a>
@@ -518,9 +520,9 @@ Kolejność wynika z katalogu i nie stanowi potwierdzonej chronologii.
 
 ## personal-088 · Wspomnienia osobiste i rodzinne
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-088.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-088.jpg" width="650" alt="personal-088 · Wspomnienia osobiste i rodzinne" loading="lazy"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-088.png"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-088.png" width="650" alt="personal-088 · Wspomnienia osobiste i rodzinne" loading="lazy"></a>
 
-[Zobacz / pobierz](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-088.jpg)
+[Zobacz / pobierz](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-088.png)
 
 ## personal-089 · Wspomnienia osobiste i rodzinne
 

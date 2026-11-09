@@ -1,6 +1,6 @@
-# Photo stories — 84 of 138 recorded
+# Photo stories — 88 of 138 recorded
 
-Stories are supplied by the creator and published in English, Persian and Japanese. The remaining 54 images have not yet received individual stories. Dates, ages and identities are not inferred from appearance.
+Stories are supplied by the creator and published in English, Persian and Japanese. The remaining 50 images have not yet received individual stories. Dates, ages and identities are not inferred from appearance.
 
 داستان‌ها از زبان خود بردیا ثبت می‌شوند؛ هنوز کامل نیستند. / 作者本人から聞いた思い出を順次追加しています。
 
@@ -88,10 +88,10 @@ Stories are supplied by the creator and published in English, Persian and Japane
 - [x] personal-084 · [English](personal-084.en.md) · [فارسی](personal-084.fa.md) · [日本語](personal-084.ja.md)
 - [x] personal-085 · [English](personal-085.en.md) · [فارسی](personal-085.fa.md) · [日本語](personal-085.ja.md)
 - [x] personal-086 · [English](personal-086.en.md) · [فارسی](personal-086.fa.md) · [日本語](personal-086.ja.md)
-- [ ] personal-087
-- [ ] personal-088
-- [ ] personal-089
-- [ ] personal-090
+- [x] personal-087 · [English](personal-087.en.md) · [فارسی](personal-087.fa.md) · [日本語](personal-087.ja.md)
+- [x] personal-088 · [English](personal-088.en.md) · [فارسی](personal-088.fa.md) · [日本語](personal-088.ja.md)
+- [x] personal-089 · [English](personal-089.en.md) · [فارسی](personal-089.fa.md) · [日本語](personal-089.ja.md)
+- [x] personal-090 · [English](personal-090.en.md) · [فارسی](personal-090.fa.md) · [日本語](personal-090.ja.md)
 - [ ] personal-091
 - [ ] personal-092
 - [ ] personal-093
