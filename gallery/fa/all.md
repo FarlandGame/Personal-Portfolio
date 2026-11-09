@@ -996,11 +996,17 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-099.jpg)
 
+این تصویر را علی، با نام هنری Alivexor، در اوایل شروع پروژهٔ THE APEX با Blender ساخته است. از کارهای تصویریِ آغاز پروژهٔ سرور داستانی ماینکرافت ماست. سازندهٔ این اثر علی است و من آن را به‌عنوان بخشی از تاریخچهٔ پروژه‌ای که با هم می‌ساختیم، اینجا گذاشته‌ام.
+
+
 ## personal-100 · THE APEX
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-100.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-100.jpg" width="650" alt="personal-100 · THE APEX" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-100.jpg)
+
+این تصویر را علی، با نام هنری Alivexor، در اوایل شروع پروژهٔ THE APEX با Blender ساخته است. از کارهای تصویریِ آغاز پروژهٔ سرور داستانی ماینکرافت ماست. سازندهٔ این اثر علی است و من آن را به‌عنوان بخشی از تاریخچهٔ پروژه‌ای که با هم می‌ساختیم، اینجا گذاشته‌ام.
+
 
 ## personal-101 · THE APEX
 
@@ -1008,11 +1014,19 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-101.jpg)
 
+این تصویرِ خوشامدگویی را اوایل شروع THE APEX طراحی کردم؛ قرار بود بازیکن هنگام ورود به سرور، این تصویر و نوشته‌هایش را ببیند. یادگاریِ ایده‌های بصری‌ای است که آن اوایل امتحان می‌کردم.
+
+نام THE APEX را من و علی دهقان‌نژاد، با نام هنری Alivexor، با هم انتخاب کردیم. این پروژه را خیلی دوست دارم و دیدن این عکس‌های قدیمی، خاطرهٔ شروعش را زنده می‌کند. آینده‌ای را تصور می‌کنم که پروژه کامل شده و سراغ نسخه‌های دوم و سوم رفته‌ایم؛ این آرزوی آینده‌ام است، نه گزارش نسخه‌هایی که همین حالا منتشر شده‌اند.
+
+
 ## personal-102 · خاطرات شخصی و خانوادگی
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-102.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-102.jpg" width="650" alt="personal-102 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-102.jpg)
+
+این عکس مربوط به تابلوی دست‌ساز ریک است که برای سرگرمی مشغول ساختنش بودم. کار هنوز نیمه‌تمام بود و تا همان‌جا از نتیجه‌اش خوشم می‌آمد. بخشی از آن هنوز باقی مانده و قصد دارم کاملش کنم.
+
 
 ## personal-103 · خاطرات شخصی و خانوادگی
 

@@ -2106,7 +2106,11 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-099.jpg",
       "published_bytes": 38911,
-      "published_sha256": "47a5a18ef2fce8ab63a0f1ea644e9297d8aada24b9fdabc2787b5c8910ef2cf0"
+      "published_sha256": "47a5a18ef2fce8ab63a0f1ea644e9297d8aada24b9fdabc2787b5c8910ef2cf0",
+      "artist_reported": "Ali / Alivexor",
+      "artist_profile": "https://github.com/Alivexor",
+      "software_reported": "Blender",
+      "creation_context": "Early THE APEX artwork, same artist/context as096..098; creator-confirmed."
     },
     {
       "collection": "personal",
@@ -2127,7 +2131,11 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-100.jpg",
       "published_bytes": 57193,
-      "published_sha256": "fbd250d6a866749f08d2c94b422e2295a705c4a5ec6286da5a29f43e7a23a1ac"
+      "published_sha256": "fbd250d6a866749f08d2c94b422e2295a705c4a5ec6286da5a29f43e7a23a1ac",
+      "artist_reported": "Ali / Alivexor",
+      "artist_profile": "https://github.com/Alivexor",
+      "software_reported": "Blender",
+      "creation_context": "Early THE APEX artwork, same artist/context as096..098; creator-confirmed."
     },
     {
       "collection": "personal",
@@ -2148,7 +2156,9 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-101.jpg",
       "published_bytes": 177863,
-      "published_sha256": "58124d57e83dc4df39a56ad7a467b80aa5563eb78d9a665672304ae67650e5db"
+      "published_sha256": "58124d57e83dc4df39a56ad7a467b80aa5563eb78d9a665672304ae67650e5db",
+      "artist_reported": "Bardiya Alizadeh / Farland_game",
+      "creation_context": "Early server-entry welcome graphic with text, designed for players joining THE APEX. Project name chosen by Bardiya and Ali together. Future versions aspirational, not released-status claims."
     },
     {
       "collection": "personal",
@@ -2169,7 +2179,9 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-102.jpg",
       "published_bytes": 524049,
-      "published_sha256": "efc4691ca2e1f8be61cb7bfe42294a44e7715b52a99984761fa4cd3e6071c4b7"
+      "published_sha256": "efc4691ca2e1f8be61cb7bfe42294a44e7715b52a99984761fa4cd3e6071c4b7",
+      "artist_reported": "Bardiya Alizadeh / Farland_game",
+      "creation_context": "Unfinished handmade Rick-themed board, leisure project; creator intends to finish."
     },
     {
       "collection": "personal",

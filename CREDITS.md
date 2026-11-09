@@ -10,4 +10,6 @@ Shared for viewing and download; no open-source or remix license is granted. Gol
 
 ## THE APEX artwork credits
 
-Artwork personal-096, personal-097 and personal-098: **Ali / Alivexor**, made in Blender during the early THE APEX project. Attribution supplied by Bardiya. [Artist profile](https://github.com/Alivexor).
+Artwork personal-096, personal-097, personal-098, personal-099 and personal-100: **Ali / Alivexor**, made in Blender during the early THE APEX project. Attribution supplied by Bardiya. [Artist profile](https://github.com/Alivexor).
+
+Server-entry welcome graphic personal-101: **Bardiya Alizadeh / Farland_game**. The project name THE APEX was chosen jointly by Bardiya and Ali.

@@ -996,11 +996,17 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-099.jpg)
 
+この画像は、Alivexorとして活動するAliが、THE APEXを始めた頃にBlenderで制作したものです。私たちのMinecraftストーリーサーバープロジェクトの初期のビジュアル作品にあたります。制作者はAliで、一緒に作っていたプロジェクトの歴史の一部として、ここに載せています。
+
+
 ## personal-100 · THE APEX
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-100.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-100.jpg" width="650" alt="personal-100 · THE APEX" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-100.jpg)
+
+この画像は、Alivexorとして活動するAliが、THE APEXを始めた頃にBlenderで制作したものです。私たちのMinecraftストーリーサーバープロジェクトの初期のビジュアル作品にあたります。制作者はAliで、一緒に作っていたプロジェクトの歴史の一部として、ここに載せています。
+
 
 ## personal-101 · THE APEX
 
@@ -1008,11 +1014,19 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-101.jpg)
 
+これはTHE APEXを始めた頃に私がデザインした、サーバーへの参加時にプレイヤーに見せるための文字入りウェルカム画像です。初期に試していたビジュアルのアイデアを思い出させてくれます。
+
+THE APEXという名前は、Alivexorとして活動するAli Dehghannejadと私で一緒に選びました。このプロジェクトが大好きで、初期の画像を見返すと、始めた頃への愛着がよみがえります。いつか完成し、第2、第3のバージョンを作っている未来を想像しています。これは将来への願いで、すでに公開済みのバージョンを示すものではありません。
+
+
 ## personal-102 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-102.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-102.jpg" width="650" alt="personal-102 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-102.jpg)
+
+これは、楽しみで作っていたRickを題材にした手作りボードの写真です。まだ制作途中でしたが、その時点までの仕上がりが気に入っていました。作品の一部は今も残っていて、完成させたいと思っています。
+
 
 ## personal-103 · 個人と家族の思い出
 

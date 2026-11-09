@@ -996,11 +996,17 @@ Ali, known as Alivexor, created this image in Blender during the early days of T
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-099.jpg)
 
+Ali, known as Alivexor, created this image in Blender during the early days of THE APEX. It belongs to the visual work from the beginning of our Minecraft story-server project. The artwork is credited to Ali; I share it here as part of the history of the project we were building together.
+
+
 ## personal-100 · THE APEX
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-100.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-100.jpg" width="650" alt="personal-100 · THE APEX" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-100.jpg)
+
+Ali, known as Alivexor, created this image in Blender during the early days of THE APEX. It belongs to the visual work from the beginning of our Minecraft story-server project. The artwork is credited to Ali; I share it here as part of the history of the project we were building together.
+
 
 ## personal-101 · THE APEX
 
@@ -1008,11 +1014,19 @@ Ali, known as Alivexor, created this image in Blender during the early days of T
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-101.jpg)
 
+I designed this welcome image near the beginning of THE APEX, with text for players to see when entering the server. It is a reminder of the visual ideas I was trying out at the start.
+
+Ali Dehghannejad, known as Alivexor, and I chose the name THE APEX together. I love this project, and looking back at these early images brings back a lot of affection for its beginnings. I imagine a future in which the project is complete and we are making second and third versions. That is a hope for the future, not a record of releases already made.
+
+
 ## personal-102 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-102.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-102.jpg" width="650" alt="personal-102 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-102.jpg)
+
+This photograph shows a handmade Rick-themed board I was making for fun. It was still a work in progress, and I liked how it was turning out. Some of the piece remains, and I intend to finish it.
+
 
 ## personal-103 · Personal & family memories
 
