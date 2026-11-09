@@ -1147,11 +1147,17 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-115.jpg)
 
+این تصویرها از نخستین تجربه‌های من در تصویرسازی با کمک هوش مصنوعی هستند. آن موقع با Photoshop کار می‌کردم و می‌خواستم برای یک آلبوم اینستاگرام از خودم و برادر دوقلویم ارمیا تصویر بسازم. دوربین خوبی نداشتم، برای همین از عکس‌های خودمان و نسخهٔ پولی ChatGPT برای ساخت، ادیت و بازطراحی تصویرها استفاده کردم و بعد منتشرشان کردم. هنوز هم نتیجهٔ این تجربه‌های اولیه را دوست دارم.
+
+
 ## personal-116 · ادیت‌های پرتره
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-116.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-116.jpg" width="650" alt="personal-116 · ادیت‌های پرتره" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-116.jpg)
+
+این تصویرها از نخستین تجربه‌های من در تصویرسازی با کمک هوش مصنوعی هستند. آن موقع با Photoshop کار می‌کردم و می‌خواستم برای یک آلبوم اینستاگرام از خودم و برادر دوقلویم ارمیا تصویر بسازم. دوربین خوبی نداشتم، برای همین از عکس‌های خودمان و نسخهٔ پولی ChatGPT برای ساخت، ادیت و بازطراحی تصویرها استفاده کردم و بعد منتشرشان کردم. هنوز هم نتیجهٔ این تجربه‌های اولیه را دوست دارم.
+
 
 ## personal-117 · ادیت‌های پرتره
 
@@ -1159,11 +1165,19 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-117.jpg)
 
+این تصویرها از نخستین تجربه‌های من در تصویرسازی با کمک هوش مصنوعی هستند. آن موقع با Photoshop کار می‌کردم و می‌خواستم برای یک آلبوم اینستاگرام از خودم و برادر دوقلویم ارمیا تصویر بسازم. دوربین خوبی نداشتم، برای همین از عکس‌های خودمان و نسخهٔ پولی ChatGPT برای ساخت، ادیت و بازطراحی تصویرها استفاده کردم و بعد منتشرشان کردم. هنوز هم نتیجهٔ این تجربه‌های اولیه را دوست دارم.
+
+
 ## personal-118 · ادیت‌های پرتره
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-118.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-118.jpg" width="650" alt="personal-118 · ادیت‌های پرتره" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-118.jpg)
+
+این تصویرها از نخستین تجربه‌های من در تصویرسازی با کمک هوش مصنوعی هستند. آن موقع با Photoshop کار می‌کردم و می‌خواستم برای یک آلبوم اینستاگرام از خودم و برادر دوقلویم ارمیا تصویر بسازم. دوربین خوبی نداشتم، برای همین از عکس‌های خودمان و نسخهٔ پولی ChatGPT برای ساخت، ادیت و بازطراحی تصویرها استفاده کردم و بعد منتشرشان کردم. هنوز هم نتیجهٔ این تجربه‌های اولیه را دوست دارم.
+
+در تصویر ۱۱۸، ارمیا همان شخصیتی است که جزئیات آبی دارد.
+
 
 ## personal-119 · ادیت‌های پرتره
 

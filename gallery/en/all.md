@@ -1147,11 +1147,17 @@ I made these images myself using Photoshop and AI for my friend Ashkan Mohammad 
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-115.jpg)
 
+These images are among my earliest experiments with AI-assisted image-making. I was already working with Photoshop and wanted to create an Instagram album featuring my twin brother Armiya and me. I did not have a good camera at the time, so I used existing photographs of us with the paid version of ChatGPT to create, edit and redesign the images. I then published the album. I still like how these early experiments turned out.
+
+
 ## personal-116 · Portrait edits
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-116.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-116.jpg" width="650" alt="personal-116 · Portrait edits" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-116.jpg)
+
+These images are among my earliest experiments with AI-assisted image-making. I was already working with Photoshop and wanted to create an Instagram album featuring my twin brother Armiya and me. I did not have a good camera at the time, so I used existing photographs of us with the paid version of ChatGPT to create, edit and redesign the images. I then published the album. I still like how these early experiments turned out.
+
 
 ## personal-117 · Portrait edits
 
@@ -1159,11 +1165,19 @@ I made these images myself using Photoshop and AI for my friend Ashkan Mohammad 
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-117.jpg)
 
+These images are among my earliest experiments with AI-assisted image-making. I was already working with Photoshop and wanted to create an Instagram album featuring my twin brother Armiya and me. I did not have a good camera at the time, so I used existing photographs of us with the paid version of ChatGPT to create, edit and redesign the images. I then published the album. I still like how these early experiments turned out.
+
+
 ## personal-118 · Portrait edits
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-118.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-118.jpg" width="650" alt="personal-118 · Portrait edits" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-118.jpg)
+
+These images are among my earliest experiments with AI-assisted image-making. I was already working with Photoshop and wanted to create an Instagram album featuring my twin brother Armiya and me. I did not have a good camera at the time, so I used existing photographs of us with the paid version of ChatGPT to create, edit and redesign the images. I then published the album. I still like how these early experiments turned out.
+
+In image personal-118, Armiya is the character with the blue detail.
+
 
 ## personal-119 · Portrait edits
 

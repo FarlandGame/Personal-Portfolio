@@ -2569,7 +2569,13 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-115.jpg",
       "published_bytes": 87498,
-      "published_sha256": "a442a04455103ffcba0c836ae267bc1d93ed53e8c90e000e863a65a2300f1f34"
+      "published_sha256": "a442a04455103ffcba0c836ae267bc1d93ed53e8c90e000e863a65a2300f1f34",
+      "artist_reported": "Bardiya Alizadeh / Farland_game",
+      "tools_reported": [
+        "Photoshop",
+        "ChatGPT, paid version; model unspecified"
+      ],
+      "creation_context": "Among creator’s earliest AI-assisted experiments, based on existing photographs of creator and twin for an Instagram album; creator reports publishing them."
     },
     {
       "collection": "personal",
@@ -2590,7 +2596,13 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-116.jpg",
       "published_bytes": 88085,
-      "published_sha256": "1df88df1fc99978870a56b96ba16075a34ee4cd61f20da94c946b0a9291bd2a7"
+      "published_sha256": "1df88df1fc99978870a56b96ba16075a34ee4cd61f20da94c946b0a9291bd2a7",
+      "artist_reported": "Bardiya Alizadeh / Farland_game",
+      "tools_reported": [
+        "Photoshop",
+        "ChatGPT, paid version; model unspecified"
+      ],
+      "creation_context": "Among creator’s earliest AI-assisted experiments, based on existing photographs of creator and twin for an Instagram album; creator reports publishing them."
     },
     {
       "collection": "personal",
@@ -2611,7 +2623,13 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-117.jpg",
       "published_bytes": 100375,
-      "published_sha256": "e88c792ef2fe175fc81129df41b3c662b9bc333cb2f8bb46a5dc9f35dc513a23"
+      "published_sha256": "e88c792ef2fe175fc81129df41b3c662b9bc333cb2f8bb46a5dc9f35dc513a23",
+      "artist_reported": "Bardiya Alizadeh / Farland_game",
+      "tools_reported": [
+        "Photoshop",
+        "ChatGPT, paid version; model unspecified"
+      ],
+      "creation_context": "Among creator’s earliest AI-assisted experiments, based on existing photographs of creator and twin for an Instagram album; creator reports publishing them."
     },
     {
       "collection": "personal",
@@ -2632,7 +2650,18 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-118.jpg",
       "published_bytes": 132386,
-      "published_sha256": "4236cca420efe4b222b6caead560aaa657b6a13d80d4b378de59d549d4034957"
+      "published_sha256": "4236cca420efe4b222b6caead560aaa657b6a13d80d4b378de59d549d4034957",
+      "artist_reported": "Bardiya Alizadeh / Farland_game",
+      "tools_reported": [
+        "Photoshop",
+        "ChatGPT, paid version; model unspecified"
+      ],
+      "creation_context": "Among creator’s earliest AI-assisted experiments, based on existing photographs of creator and twin for an Instagram album; creator reports publishing them.",
+      "subjects_reported": [
+        "Bardiya Alizadeh",
+        "Armiya Alizadeh"
+      ],
+      "subject_identification_reported": "Armiya is the character with the blue detail, explicitly identified by creator."
     },
     {
       "collection": "personal",
