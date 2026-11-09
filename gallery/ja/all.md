@@ -960,11 +960,17 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-095.jpg)
 
+これは、私がとてもかわいがっていたペットのアヒルの写真です。祖母Azizの家で猫に捕まり、亡くなってしまいました。大好きだったペットの思い出として、この写真を残しています。
+
+
 ## personal-096 · THE APEX
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-096.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-096.jpg" width="650" alt="personal-096 · THE APEX" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-096.jpg)
+
+この画像は、Alivexorとして活動するAliが、THE APEXを始めた頃にBlenderで制作したものです。私たちのMinecraftストーリーサーバープロジェクトの初期のビジュアル作品にあたります。制作者はAliで、一緒に作っていたプロジェクトの歴史の一部として、ここに載せています。
+
 
 ## personal-097 · THE APEX
 
@@ -972,11 +978,17 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-097.jpg)
 
+この画像は、Alivexorとして活動するAliが、THE APEXを始めた頃にBlenderで制作したものです。私たちのMinecraftストーリーサーバープロジェクトの初期のビジュアル作品にあたります。制作者はAliで、一緒に作っていたプロジェクトの歴史の一部として、ここに載せています。
+
+
 ## personal-098 · THE APEX
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-098.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-098.jpg" width="650" alt="personal-098 · THE APEX" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-098.jpg)
+
+この画像は、Alivexorとして活動するAliが、THE APEXを始めた頃にBlenderで制作したものです。私たちのMinecraftストーリーサーバープロジェクトの初期のビジュアル作品にあたります。制作者はAliで、一緒に作っていたプロジェクトの歴史の一部として、ここに載せています。
+
 
 ## personal-099 · THE APEX
 

@@ -960,11 +960,17 @@ In this photograph my twin brother Armiya is taking a selfie with Taha Bamshad a
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-095.jpg)
 
+This is a photograph of my pet duck, which I was very fond of. I lost it when a cat caught it at my grandmother Aziz’s home. I kept this picture as a memory of a pet I loved.
+
+
 ## personal-096 · THE APEX
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-096.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-096.jpg" width="650" alt="personal-096 · THE APEX" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-096.jpg)
+
+Ali, known as Alivexor, created this image in Blender during the early days of THE APEX. It belongs to the visual work from the beginning of our Minecraft story-server project. The artwork is credited to Ali; I share it here as part of the history of the project we were building together.
+
 
 ## personal-097 · THE APEX
 
@@ -972,11 +978,17 @@ In this photograph my twin brother Armiya is taking a selfie with Taha Bamshad a
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-097.jpg)
 
+Ali, known as Alivexor, created this image in Blender during the early days of THE APEX. It belongs to the visual work from the beginning of our Minecraft story-server project. The artwork is credited to Ali; I share it here as part of the history of the project we were building together.
+
+
 ## personal-098 · THE APEX
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-098.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-098.jpg" width="650" alt="personal-098 · THE APEX" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-098.jpg)
+
+Ali, known as Alivexor, created this image in Blender during the early days of THE APEX. It belongs to the visual work from the beginning of our Minecraft story-server project. The artwork is credited to Ali; I share it here as part of the history of the project we were building together.
+
 
 ## personal-099 · THE APEX
 

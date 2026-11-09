@@ -7,3 +7,7 @@ THE APEX is a Minecraft story-server project in progress, as described by the cr
 The user explicitly chose full-frame resized image copies (maximum 2048px) and complete-duration recompressed video copies fitting within 1920×1080. Source SHA-256 hashes and viewing-copy hashes are retained in catalogue.json. Original source files remain on the creator’s desktop. Images retain their full frame except personal-088, whose phone screenshot borders were cropped at the creator’s request without altering the retained photograph pixels. No facial retouching was applied; EXIF location and other metadata are omitted from JPEG viewing copies.
 
 Shared for viewing and download; no open-source or remix license is granted. GoldBrain’s MIT software license does not cover this archive. For reuse, contact the creator.
+
+## THE APEX artwork credits
+
+Artwork personal-096, personal-097 and personal-098: **Ali / Alivexor**, made in Blender during the early THE APEX project. Attribution supplied by Bardiya. [Artist profile](https://github.com/Alivexor).

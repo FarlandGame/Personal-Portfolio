@@ -960,11 +960,17 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-095.jpg)
 
+این عکس اردکم است که خیلی دوستش داشتم. در خانهٔ مادربزرگم، عزیز، گربه‌ای آن را گرفت و از دستش دادم. این عکس را به‌عنوان یادگاریِ حیوانی که دوستش داشتم نگه داشته‌ام.
+
+
 ## personal-096 · THE APEX
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-096.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-096.jpg" width="650" alt="personal-096 · THE APEX" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-096.jpg)
+
+این تصویر را علی، با نام هنری Alivexor، در اوایل شروع پروژهٔ THE APEX با Blender ساخته است. از کارهای تصویریِ آغاز پروژهٔ سرور داستانی ماینکرافت ماست. سازندهٔ این اثر علی است و من آن را به‌عنوان بخشی از تاریخچهٔ پروژه‌ای که با هم می‌ساختیم، اینجا گذاشته‌ام.
+
 
 ## personal-097 · THE APEX
 
@@ -972,11 +978,17 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-097.jpg)
 
+این تصویر را علی، با نام هنری Alivexor، در اوایل شروع پروژهٔ THE APEX با Blender ساخته است. از کارهای تصویریِ آغاز پروژهٔ سرور داستانی ماینکرافت ماست. سازندهٔ این اثر علی است و من آن را به‌عنوان بخشی از تاریخچهٔ پروژه‌ای که با هم می‌ساختیم، اینجا گذاشته‌ام.
+
+
 ## personal-098 · THE APEX
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-098.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-098.jpg" width="650" alt="personal-098 · THE APEX" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-098.jpg)
+
+این تصویر را علی، با نام هنری Alivexor، در اوایل شروع پروژهٔ THE APEX با Blender ساخته است. از کارهای تصویریِ آغاز پروژهٔ سرور داستانی ماینکرافت ماست. سازندهٔ این اثر علی است و من آن را به‌عنوان بخشی از تاریخچهٔ پروژه‌ای که با هم می‌ساختیم، اینجا گذاشته‌ام.
+
 
 ## personal-099 · THE APEX
 

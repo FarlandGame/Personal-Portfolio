@@ -2009,7 +2009,8 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-095.jpg",
       "published_bytes": 58784,
-      "published_sha256": "85dd887880ae4260784b337c670f1b5ff08a083fd1a094e7a230b882f68c1391"
+      "published_sha256": "85dd887880ae4260784b337c670f1b5ff08a083fd1a094e7a230b882f68c1391",
+      "subject_reported": "Creator’s pet duck, not a budgie."
     },
     {
       "collection": "personal",
@@ -2030,7 +2031,11 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-096.jpg",
       "published_bytes": 78224,
-      "published_sha256": "04ab2ce5708fe003c9b837867eb33395ccc6bb037362d0f89f953b7a21ba5880"
+      "published_sha256": "04ab2ce5708fe003c9b837867eb33395ccc6bb037362d0f89f953b7a21ba5880",
+      "artist_reported": "Ali / Alivexor",
+      "artist_profile": "https://github.com/Alivexor",
+      "software_reported": "Blender",
+      "creation_context": "Early THE APEX project artwork, creator attribution supplied by Bardiya."
     },
     {
       "collection": "personal",
@@ -2051,7 +2056,11 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-097.jpg",
       "published_bytes": 74163,
-      "published_sha256": "2fc5dac64c3e8c474a59627dd8089bb9d24593005585d27ea59339d02f1a3265"
+      "published_sha256": "2fc5dac64c3e8c474a59627dd8089bb9d24593005585d27ea59339d02f1a3265",
+      "artist_reported": "Ali / Alivexor",
+      "artist_profile": "https://github.com/Alivexor",
+      "software_reported": "Blender",
+      "creation_context": "Early THE APEX project artwork, creator attribution supplied by Bardiya."
     },
     {
       "collection": "personal",
@@ -2072,7 +2081,11 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-098.jpg",
       "published_bytes": 40065,
-      "published_sha256": "7650f1587ccf8d4732e5360998c1408f61d943b28b46ef0d9c0457e80bc2fb4f"
+      "published_sha256": "7650f1587ccf8d4732e5360998c1408f61d943b28b46ef0d9c0457e80bc2fb4f",
+      "artist_reported": "Ali / Alivexor",
+      "artist_profile": "https://github.com/Alivexor",
+      "software_reported": "Blender",
+      "creation_context": "Early THE APEX project artwork, creator attribution supplied by Bardiya."
     },
     {
       "collection": "personal",
