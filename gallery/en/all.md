@@ -1257,11 +1257,17 @@ This childhood photograph includes my twin brother Armiya and me beside a comput
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-127.jpg)
 
+These are childhood photographs of my twin brother Armiya and me. They are another keepsake from our early years together; no exact age or year has been assigned.
+
+
 ## personal-128 · Portrait edits
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-128.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-128.jpg" width="650" alt="personal-128 · Portrait edits" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-128.jpg)
+
+This is a playful AI-edited variation of the collaborative image of Ali Dehghannejad, known as Alivexor, and me in photograph personal-106. We used AI to make a bald version, simply as a joke. It is another creative variation of our shared image.
+
 
 ## personal-129 · Portrait edits
 
@@ -1269,11 +1275,17 @@ This childhood photograph includes my twin brother Armiya and me beside a comput
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-129.jpg)
 
+This is an edited version of my childhood photograph personal-123. I added a suit to the image as a creative redesign of that earlier picture. The outfit was added in the edit.
+
+
 ## personal-130 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-130.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-130.jpg" width="650" alt="personal-130 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-130.jpg)
+
+I designed this image for my profile some time ago. I liked the result and kept it among my personal visual work.
+
 
 ## personal-131 · Personal & family memories
 

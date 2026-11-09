@@ -15,3 +15,5 @@ Artwork personal-096, personal-097, personal-098, personal-099 and personal-100:
 Server-entry welcome graphic personal-101: **Bardiya Alizadeh / Farland_game**. The project name THE APEX was chosen jointly by Bardiya and Ali.
 
 Collaborative image personal-106: **Bardiya Alizadeh / Farland_game and Ali Dehghannejad / Alivexor**. Photograph collage personal-105: **Bardiya Alizadeh / Farland_game**.
+
+Playful AI-edited variation personal-128: **Bardiya Alizadeh / Farland_game and Ali Dehghannejad / Alivexor**, based on their shared image personal-106.

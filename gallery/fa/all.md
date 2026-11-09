@@ -1257,11 +1257,17 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-127.jpg)
 
+این‌ها هم عکس‌های کودکی من و برادر دوقلویم ارمیا هستند؛ یادگاری‌های دیگری از سال‌های کودکیِ مشترکمان. سن و سال دقیقشان را مشخص نکرده‌ام.
+
+
 ## personal-128 · ادیت‌های پرتره
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-128.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-128.jpg" width="650" alt="personal-128 · ادیت‌های پرتره" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-128.jpg)
+
+این نسخهٔ شوخیِ همان تصویر مشترک من و علی دهقان‌نژاد، با نام هنری Alivexor، در عکس ۱۰۶ است. با هوش مصنوعی یک نسخه با ظاهرِ کچل درست کردیم؛ صرفاً برای خنده و شوخی. یک برداشت خلاقانهٔ دیگر از تصویر مشترکمان است.
+
 
 ## personal-129 · ادیت‌های پرتره
 
@@ -1269,11 +1275,17 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-129.jpg)
 
+این نسخهٔ ادیت‌شدهٔ عکس کودکی‌ام، یعنی عکس ۱۲۳، است. با یک بازطراحی خلاقانه به تصویر کت‌وشلوار اضافه کردم؛ این لباس در ادیت به عکس اضافه شده است.
+
+
 ## personal-130 · خاطرات شخصی و خانوادگی
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-130.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-130.jpg" width="650" alt="personal-130 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-130.jpg)
+
+این تصویر را مدتی پیش برای پروفایلم طراحی کرده بودم. نتیجه‌اش را دوست دارم و آن را میان کارهای تصویری شخصی‌ام نگه داشته‌ام.
+
 
 ## personal-131 · خاطرات شخصی و خانوادگی
 

@@ -2883,7 +2883,12 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-127.jpg",
       "published_bytes": 80382,
-      "published_sha256": "6cbb97786addca73dc95271f752ba9b3d44bdf67de41a6cf3a8c6747f37ece5d"
+      "published_sha256": "6cbb97786addca73dc95271f752ba9b3d44bdf67de41a6cf3a8c6747f37ece5d",
+      "subjects_reported": [
+        "Bardiya Alizadeh",
+        "Armiya Alizadeh"
+      ],
+      "creation_context": "Childhood family photograph; exact age/date unspecified."
     },
     {
       "collection": "personal",
@@ -2904,7 +2909,16 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-128.jpg",
       "published_bytes": 189064,
-      "published_sha256": "f951c3474bf432e6baa27172f4e76b2614ab2f4c14922a79954c8e4f1aec8b3a"
+      "published_sha256": "f951c3474bf432e6baa27172f4e76b2614ab2f4c14922a79954c8e4f1aec8b3a",
+      "artists_reported": [
+        "Bardiya Alizadeh / Farland_game",
+        "Ali Dehghannejad / Alivexor"
+      ],
+      "tools_reported": [
+        "AI, unspecified tools"
+      ],
+      "based_on_image": "personal-106",
+      "creation_context": "Bald AI-edit variation made as a joke; no further meaning stated."
     },
     {
       "collection": "personal",
@@ -2925,7 +2939,10 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-129.jpg",
       "published_bytes": 186803,
-      "published_sha256": "e89d1def4f3e0471399c30c3b9fb909284631e240a772d4e938ebf36767a2782"
+      "published_sha256": "e89d1def4f3e0471399c30c3b9fb909284631e240a772d4e938ebf36767a2782",
+      "artist_reported": "Bardiya Alizadeh / Farland_game",
+      "based_on_image": "personal-123",
+      "creation_context": "Edited childhood photograph with suit added; original outfit not represented."
     },
     {
       "collection": "personal",
@@ -2946,7 +2963,9 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-130.jpg",
       "published_bytes": 221804,
-      "published_sha256": "d5a445096d48e4423b329d99d7d640ca3591aa8967472cc7d886a9b268628352"
+      "published_sha256": "d5a445096d48e4423b329d99d7d640ca3591aa8967472cc7d886a9b268628352",
+      "artist_reported": "Bardiya Alizadeh / Farland_game",
+      "creation_context": "Older profile-image design; platform, exact date and tools unspecified."
     },
     {
       "collection": "personal",
