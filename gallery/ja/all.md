@@ -664,7 +664,7 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 9年生の頃、イラン暦1402年か1403年あたりの写真だったと覚えていますが、正確な年には自信がありません。灰色の運動着を見ると、1時間目に体育があった月曜日だったことを思い出します。
 
-学校から帰るとき、7年生からずっと友人のAliと、まともな写真をまだ撮っていないと気づき、一緒に撮ろうと声をかけました。私としては2人ともあまりうまく写らなかったと思いますが、友情はこの写真の出来よりずっとすてきです！誰にとっても最高の友人になれる人です。
+学校から帰るとき、7年生からずっと友人のAli Ataと、まともな写真をまだ撮っていないと気づき、一緒に撮ろうと声をかけました。私としては2人ともあまりうまく写らなかったと思いますが、友情はこの写真の出来よりずっとすてきです！誰にとっても最高の友人になれる人です。
 
 
 ## personal-063 · 個人と家族の思い出
@@ -673,11 +673,17 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-063.jpg)
 
+これは写真personal-062と同じ、月曜日の体育の日の思い出です。運動着を着て、当時の学校の友人Elyar Nikpourと一緒に撮りました。今は当時ほど親しくありませんが、あの頃の友情のひとときを残した写真です。
+
+
 ## personal-064 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-064.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-064.jpg" width="650" alt="personal-064 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-064.jpg)
+
+これは、テヘランで毎年開かれる本のフェスティバルを訪れたときの写真です。写真personal-060にあるClassinoのMinecraft風の宣伝エリアやSteveの帽子と同じ日の思い出です。テヘランに滞在していたので、一緒にフェスティバルへ出かけました。
+
 
 ## personal-065 · 個人と家族の思い出
 
@@ -685,11 +691,19 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-065.jpg)
 
+同じテヘランの本のフェスティバルへの訪問で撮った、母の写真です。
+
+これは、テヘランで毎年開かれる本のフェスティバルを訪れたときの写真です。写真personal-060にあるClassinoのMinecraft風の宣伝エリアやSteveの帽子と同じ日の思い出です。テヘランに滞在していたので、一緒にフェスティバルへ出かけました。
+
+
 ## personal-066 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-066.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-066.jpg" width="650" alt="personal-066 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-066.jpg)
+
+この母の写真は、私の15歳の誕生日を祝う旅行のときのものです。15年を終えて、人生の16年目に入るところでした。母と母方の家族と一緒にタブリーズへ出かけ、お祝いしました。レストランはBerkehという名前だったと思いますが、確かではありません。とても楽しく、その後は遊園地にも行きました。家族と過ごした、幸せな1日でした。
+
 
 ## personal-067 · 個人と家族の思い出
 

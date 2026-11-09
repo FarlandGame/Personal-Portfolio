@@ -664,7 +664,7 @@ This is a childhood photograph of me, around one to two years old. I later photo
 
 I remember this as a ninth-grade photograph, from around 1402 or 1403 in the Iranian calendar; I am not certain of the year. My grey sports clothes remind me that it was a Monday, when we had physical education in the first lesson.
 
-As we were leaving school, I realised I did not have a good photograph with my friend Ali, whom I have known since seventh grade. I suggested taking one together. In my opinion, neither of us came out at our best—but our friendship is much better than the photograph! He is one of the best friends anyone could have.
+As we were leaving school, I realised I did not have a good photograph with my friend Ali Ata, whom I have known since seventh grade. I suggested taking one together. In my opinion, neither of us came out at our best—but our friendship is much better than the photograph! He is one of the best friends anyone could have.
 
 
 ## personal-063 · Personal & family memories
@@ -673,11 +673,17 @@ As we were leaving school, I realised I did not have a good photograph with my f
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-063.jpg)
 
+This is a keepsake from the same Monday physical-education day as photograph personal-062. I was in my sports clothes, and took this photograph with Elyar Nikpour, a friend from those school years. It preserves a moment of that friendship, even though we are not as close today.
+
+
 ## personal-064 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-064.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-064.jpg" width="650" alt="personal-064 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-064.jpg)
+
+This photograph is from our visit to the annual book festival in Tehran. It belongs to the same outing as the Minecraft-themed Classino promotional area and the Steve hats in photograph personal-060. We were in Tehran and went to explore the festival together.
+
 
 ## personal-065 · Personal & family memories
 
@@ -685,11 +691,19 @@ As we were leaving school, I realised I did not have a good photograph with my f
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-065.jpg)
 
+My mother appears in this photograph from that book-festival visit in Tehran.
+
+This photograph is from our visit to the annual book festival in Tehran. It belongs to the same outing as the Minecraft-themed Classino promotional area and the Steve hats in photograph personal-060. We were in Tehran and went to explore the festival together.
+
+
 ## personal-066 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-066.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-066.jpg" width="650" alt="personal-066 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-066.jpg)
+
+My mother appears in this photograph from the trip for my fifteenth birthday, when I had completed fifteen years and was starting my sixteenth year of life. My mother and her side of the family took me to Tabriz to celebrate. I think the restaurant was called Berkeh, but I am not certain of the name. We had a wonderful time and went to an amusement park afterwards. It was a happy day with my family.
+
 
 ## personal-067 · Personal & family memories
 

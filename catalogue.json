@@ -1376,7 +1376,8 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-065.jpg",
       "published_bytes": 188349,
-      "published_sha256": "d5e5878a41b8cbb952b84faf0dd0e0149ef357708d4e9f0cb19dac725700a28c"
+      "published_sha256": "d5e5878a41b8cbb952b84faf0dd0e0149ef357708d4e9f0cb19dac725700a28c",
+      "subject_reported": "Creator’s mother, explicitly identified by the creator."
     },
     {
       "collection": "personal",
@@ -1397,7 +1398,8 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-066.jpg",
       "published_bytes": 249505,
-      "published_sha256": "01334dde852f37dc37fef6b69daaab10db5f48fd80696e1fb76f2844b7372b95"
+      "published_sha256": "01334dde852f37dc37fef6b69daaab10db5f48fd80696e1fb76f2844b7372b95",
+      "subject_reported": "Creator’s mother, explicitly identified by the creator."
     },
     {
       "collection": "personal",
