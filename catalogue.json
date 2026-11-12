@@ -172,14 +172,20 @@
       ],
       "published_size": [
         720,
-        1600
+        1082
       ],
       "category": "memories",
-      "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
-      "published_path": "images/personal-008.jpg",
-      "published_bytes": 71286,
-      "published_sha256": "9fbe7c354b529b74f4a8a0a3ebad5fd4126d017bc0587efe79f466aa7494b02b",
-      "creation_context": "Real photography-studio portrait using studio-provided suit; creator-confirmed."
+      "processing": "Exact creator-requested screenshot crop removing phone status/navigation bars and black top/bottom margins; lossless PNG preserving the retained source pixels, with no retouching or resizing.",
+      "published_path": "images/personal-008.png",
+      "published_bytes": 311149,
+      "published_sha256": "fbe51f373b845442a0b5865a2e50c73352cf11b40bdf7b9eae83e9219c98176f",
+      "creation_context": "Real photography-studio portrait using studio-provided suit; creator-confirmed.",
+      "crop_box_source_pixels": [
+        0,
+        287,
+        720,
+        1369
+      ]
     },
     {
       "collection": "personal",

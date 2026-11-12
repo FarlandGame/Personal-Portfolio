@@ -6,7 +6,7 @@ Gli elementi seguono l’ordine del catalogo, non una cronologia confermata.
 
 **Viewing copies: images resized to at most 2048 px with the full frame retained; complete-duration videos recompressed to fit within 1920×1080. Original desktop files remain unchanged.**
 
-Images personal-088 and personal-103 are exceptions: phone-screen margins were cropped at the creator’s request; the retained photograph pixels were not retouched.
+Images personal-008, personal-088 and personal-103 are exceptions: phone-screen margins were cropped at the creator’s request; the retained photograph pixels were not retouched.
 
 ## personal-001 · Ritratti elaborati
 
@@ -52,9 +52,9 @@ Images personal-088 and personal-103 are exceptions: phone-screen margins were c
 
 ## personal-008 · Ricordi personali e di famiglia
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg" width="650" alt="personal-008 · Ricordi personali e di famiglia" loading="lazy"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.png"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.png" width="650" alt="personal-008 · Ricordi personali e di famiglia" loading="lazy"></a>
 
-[Visualizza / scarica](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg)
+[Visualizza / scarica](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.png)
 
 ## personal-009 · Ritratti elaborati
 

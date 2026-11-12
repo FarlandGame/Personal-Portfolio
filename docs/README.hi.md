@@ -18,7 +18,7 @@
 
 **Viewing copies: images resized to at most 2048 px with the full frame retained; complete-duration videos recompressed to fit within 1920×1080. Original desktop files remain unchanged.**
 
-Images personal-088 and personal-103 are exceptions: phone-screen margins were cropped at the creator’s request; the retained photograph pixels were not retouched.
+Images personal-008, personal-088 and personal-103 are exceptions: phone-screen margins were cropped at the creator’s request; the retained photograph pixels were not retouched.
 
 - [निजी और पारिवारिक यादें](https://farlandgame.github.io/Personal-Portfolio/#category-memories) · 85 📸 · 6 🎬
 - [संपादित पोर्ट्रेट](https://farlandgame.github.io/Personal-Portfolio/#category-portraits) · 36 📸 · 5 🎬

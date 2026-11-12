@@ -6,7 +6,7 @@
 
 **نسخه‌های نمایشی: عکس‌ها با حفظ تمام کادر تا ۲۰۴۸ پیکسل تغییر اندازه یافته‌اند؛ ویدئوها بدون کوتاه‌کردن، در کادر حداکثر ۱۹۲۰×۱۰۸۰ بازفشرده شده‌اند. فایل‌های اصلی دسکتاپ دست‌نخورده‌اند.**
 
-عکس‌های ۰۸۸ و ۱۰۳ استثنا هستند: به درخواست سازنده، حاشیه‌های صفحهٔ گوشی برش خورده‌اند و پیکسل‌های داخل خود عکس‌ها بدون روتوش حفظ شده‌اند.
+عکس‌های ۰۰۸، ۰۸۸ و ۱۰۳ استثنا هستند: به درخواست سازنده، حاشیه‌های صفحهٔ گوشی برش خورده‌اند و پیکسل‌های داخل خود عکس‌ها بدون روتوش حفظ شده‌اند.
 
 ## personal-001 · ادیت‌های پرتره
 
@@ -73,9 +73,9 @@
 
 ## personal-008 · خاطرات شخصی و خانوادگی
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg" width="650" alt="personal-008 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.png"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.png" width="650" alt="personal-008 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
 
-[دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg)
+[دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.png)
 
 این یک عکس واقعی است که در آتلیه گرفته شده. شاید شبیه تصویر ساخته‌شده با هوش مصنوعی به نظر برسد، اما عکاسی واقعی است. خودم کت‌وشلوار ندارم، هرچند خیلی دوست دارم داشته باشم؛ کت‌وشلوار را آتلیه برای عکس در اختیار داشت.
 

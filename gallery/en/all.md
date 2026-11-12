@@ -6,7 +6,7 @@ Catalogue order is not confirmed chronological order. Exact dates, ages and the 
 
 **Viewing copies: images resized to at most 2048 px with the full frame retained; complete-duration videos recompressed to fit within 1920×1080. Original desktop files remain unchanged.**
 
-Images personal-088 and personal-103 are exceptions: phone-screen margins were cropped at the creator’s request; the retained photograph pixels were not retouched.
+Images personal-008, personal-088 and personal-103 are exceptions: phone-screen margins were cropped at the creator’s request; the retained photograph pixels were not retouched.
 
 ## personal-001 · Portrait edits
 
@@ -73,9 +73,9 @@ I made this portrait for my Instagram profile using AI and Photoshop. I also edi
 
 ## personal-008 · Personal & family memories
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg" width="650" alt="personal-008 · Personal & family memories" loading="lazy"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.png"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.png" width="650" alt="personal-008 · Personal & family memories" loading="lazy"></a>
 
-[View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg)
+[View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.png)
 
 This is a real studio photograph. Although it may look AI-made, it was taken in a photography studio. I do not own a suit, even though I would love to have one; the studio had a suit available for the photograph.
 

@@ -6,7 +6,7 @@
 
 **閲覧用コピー：画像は全体の構図を保ち長辺最大2048pxに縮小、動画は全編を保ち1920×1080以内に再圧縮しています。デスクトップの元ファイルは変更していません。**
 
-personal-088とpersonal-103は例外です。作者の希望で画面の余白を切り取り、写真自体の画素はレタッチせず残しています。
+personal-008、personal-088とpersonal-103は例外です。作者の希望で画面の余白を切り取り、写真自体の画素はレタッチせず残しています。
 
 ## personal-001 · ポートレート編集
 
@@ -73,9 +73,9 @@ Instagramのプロフィール用に、AIとPhotoshopを使って作ったポー
 
 ## personal-008 · 個人と家族の思い出
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg" width="650" alt="personal-008 · 個人と家族の思い出" loading="lazy"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.png"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.png" width="650" alt="personal-008 · 個人と家族の思い出" loading="lazy"></a>
 
-[表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.jpg)
+[表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-008.png)
 
 これは写真スタジオで撮影した、本物の写真です。AIで作った画像のように見えるかもしれませんが、実際にスタジオで撮りました。スーツを持ちたいと思っているものの、自分のスーツはまだありません。撮影にはスタジオにあったスーツを使いました。
 
