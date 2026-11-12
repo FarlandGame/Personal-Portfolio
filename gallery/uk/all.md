@@ -1,4 +1,4 @@
-# Усі 138 зображень 📸
+# Усі 136 зображень 📸
 
 [Портфоліо на GitHub](https://github.com/FarlandGame) · [Мій особистий архів — Кабір за Farland_game](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.uk.md) · [▶ Фотографії та візуальні роботи + Відео та монтажі](https://farlandgame.github.io/Personal-Portfolio/)
 
@@ -758,12 +758,6 @@ Images personal-008, personal-042, personal-088 and personal-103 are exceptions:
 
 [Переглянути / завантажити](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-127.jpg)
 
-## personal-128 · Оброблені портрети
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-128.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-128.jpg" width="650" alt="personal-128 · Оброблені портрети" loading="lazy"></a>
-
-[Переглянути / завантажити](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-128.jpg)
-
 ## personal-129 · Оброблені портрети
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-129.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-129.jpg" width="650" alt="personal-129 · Оброблені портрети" loading="lazy"></a>
@@ -775,12 +769,6 @@ Images personal-008, personal-042, personal-088 and personal-103 are exceptions:
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-130.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-130.jpg" width="650" alt="personal-130 · Особисті та родинні спогади" loading="lazy"></a>
 
 [Переглянути / завантажити](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-130.jpg)
-
-## personal-131 · Особисті та родинні спогади
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-131.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-131.jpg" width="650" alt="personal-131 · Особисті та родинні спогади" loading="lazy"></a>
-
-[Переглянути / завантажити](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-131.jpg)
 
 ## personal-132 · Особисті та родинні спогади
 

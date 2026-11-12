@@ -1,4 +1,4 @@
-# Alle 138 beelden 📸
+# Alle 136 beelden 📸
 
 [GitHub-portfolio](https://github.com/FarlandGame) · [Mijn persoonlijke archief — Kabir achter Farland_game](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.nl.md) · [▶ Foto’s en beeldende kunst + Video’s en bewerkingen](https://farlandgame.github.io/Personal-Portfolio/)
 
@@ -758,12 +758,6 @@ Images personal-008, personal-042, personal-088 and personal-103 are exceptions:
 
 [Bekijken / downloaden](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-127.jpg)
 
-## personal-128 · Portretbewerkingen
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-128.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-128.jpg" width="650" alt="personal-128 · Portretbewerkingen" loading="lazy"></a>
-
-[Bekijken / downloaden](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-128.jpg)
-
 ## personal-129 · Portretbewerkingen
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-129.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-129.jpg" width="650" alt="personal-129 · Portretbewerkingen" loading="lazy"></a>
@@ -775,12 +769,6 @@ Images personal-008, personal-042, personal-088 and personal-103 are exceptions:
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-130.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-130.jpg" width="650" alt="personal-130 · Persoonlijke en familieherinneringen" loading="lazy"></a>
 
 [Bekijken / downloaden](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-130.jpg)
-
-## personal-131 · Persoonlijke en familieherinneringen
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-131.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-131.jpg" width="650" alt="personal-131 · Persoonlijke en familieherinneringen" loading="lazy"></a>
-
-[Bekijken / downloaden](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-131.jpg)
 
 ## personal-132 · Persoonlijke en familieherinneringen
 

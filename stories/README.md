@@ -1,8 +1,8 @@
-# Photo stories — 138 of 138 recorded
+# Photo stories — 136 of 136 recorded
 
-All 138 published images have creator-supplied stories in English, Persian and Japanese. Memories, creative edits and project artwork are described in the creator’s own account. Uncertain dates and details remain marked as recollections.
+All 136 published images have creator-supplied stories in English, Persian and Japanese. Memories, creative edits and project artwork are described in the creator’s own account. Uncertain dates and details remain marked as recollections.
 
-داستان همهٔ 138 عکس منتشرشده به انگلیسی، فارسی و ژاپنی ثبت شده است. 📸 / 公開画像全138点について、作者本人のエピソードを英語・ペルシャ語・日本語で掲載しています。📸
+داستان همهٔ 136 عکس منتشرشده به انگلیسی، فارسی و ژاپنی ثبت شده است. 📸 / 公開画像全136点について、作者本人のエピソードを英語・ペルシャ語・日本語で掲載しています。📸
 
 - [x] personal-001 · [English](personal-001.en.md) · [فارسی](personal-001.fa.md) · [日本語](personal-001.ja.md)
 - [x] personal-002 · [English](personal-002.en.md) · [فارسی](personal-002.fa.md) · [日本語](personal-002.ja.md)
@@ -129,10 +129,8 @@ All 138 published images have creator-supplied stories in English, Persian and J
 - [x] personal-125 · [English](personal-125.en.md) · [فارسی](personal-125.fa.md) · [日本語](personal-125.ja.md)
 - [x] personal-126 · [English](personal-126.en.md) · [فارسی](personal-126.fa.md) · [日本語](personal-126.ja.md)
 - [x] personal-127 · [English](personal-127.en.md) · [فارسی](personal-127.fa.md) · [日本語](personal-127.ja.md)
-- [x] personal-128 · [English](personal-128.en.md) · [فارسی](personal-128.fa.md) · [日本語](personal-128.ja.md)
 - [x] personal-129 · [English](personal-129.en.md) · [فارسی](personal-129.fa.md) · [日本語](personal-129.ja.md)
 - [x] personal-130 · [English](personal-130.en.md) · [فارسی](personal-130.fa.md) · [日本語](personal-130.ja.md)
-- [x] personal-131 · [English](personal-131.en.md) · [فارسی](personal-131.fa.md) · [日本語](personal-131.ja.md)
 - [x] personal-132 · [English](personal-132.en.md) · [فارسی](personal-132.fa.md) · [日本語](personal-132.ja.md)
 - [x] personal-133 · [English](personal-133.en.md) · [فارسی](personal-133.fa.md) · [日本語](personal-133.ja.md)
 - [x] personal-134 · [English](personal-134.en.md) · [فارسی](personal-134.fa.md) · [日本語](personal-134.ja.md)

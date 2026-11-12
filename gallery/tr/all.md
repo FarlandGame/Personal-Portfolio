@@ -1,4 +1,4 @@
-# 138 görselin tamamı 📸
+# 136 görselin tamamı 📸
 
 [GitHub portfolyosu](https://github.com/FarlandGame) · [Kişisel arşivim — Farland_game’in ardındaki Kabir](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.tr.md) · [▶ Fotoğraflar ve görsel çalışmalar + Videolar ve düzenlemeler](https://farlandgame.github.io/Personal-Portfolio/)
 
@@ -758,12 +758,6 @@ Images personal-008, personal-042, personal-088 and personal-103 are exceptions:
 
 [Görüntüle / indir](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-127.jpg)
 
-## personal-128 · Portre düzenlemeleri
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-128.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-128.jpg" width="650" alt="personal-128 · Portre düzenlemeleri" loading="lazy"></a>
-
-[Görüntüle / indir](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-128.jpg)
-
 ## personal-129 · Portre düzenlemeleri
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-129.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-129.jpg" width="650" alt="personal-129 · Portre düzenlemeleri" loading="lazy"></a>
@@ -775,12 +769,6 @@ Images personal-008, personal-042, personal-088 and personal-103 are exceptions:
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-130.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-130.jpg" width="650" alt="personal-130 · Kişisel anılar ve aile anıları" loading="lazy"></a>
 
 [Görüntüle / indir](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-130.jpg)
-
-## personal-131 · Kişisel anılar ve aile anıları
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-131.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-131.jpg" width="650" alt="personal-131 · Kişisel anılar ve aile anıları" loading="lazy"></a>
-
-[Görüntüle / indir](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-131.jpg)
 
 ## personal-132 · Kişisel anılar ve aile anıları
 

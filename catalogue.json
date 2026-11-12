@@ -2,7 +2,7 @@
   "creator": "Bardiya Alizadeh (Kabir) / Farland_game",
   "ordering": "Catalogue order; chronology unconfirmed.",
   "processing_authorized": "User-selected complete, resized/recompressed viewing copies. Originals retained privately.",
-  "images": 138,
+  "images": 136,
   "videos": 12,
   "media": [
     {
@@ -2904,36 +2904,6 @@
     },
     {
       "collection": "personal",
-      "source_name": "Me  & Bro Version AmoJani.png",
-      "bytes": 1734494,
-      "sha256": "063885452f2ec06e086548cf154cf7dc2f3fde7152a87730d91028b74e732e88",
-      "type": "image",
-      "id": "personal-128",
-      "size": [
-        1122,
-        1402
-      ],
-      "published_size": [
-        1122,
-        1402
-      ],
-      "category": "portraits",
-      "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
-      "published_path": "images/personal-128.jpg",
-      "published_bytes": 189064,
-      "published_sha256": "f951c3474bf432e6baa27172f4e76b2614ab2f4c14922a79954c8e4f1aec8b3a",
-      "artists_reported": [
-        "Bardiya Alizadeh / Farland_game",
-        "Ali Dehghannejad / Alivexor"
-      ],
-      "tools_reported": [
-        "AI, unspecified tools"
-      ],
-      "based_on_image": "personal-106",
-      "creation_context": "Bald AI-edit variation made as a joke; no further meaning stated."
-    },
-    {
-      "collection": "personal",
       "source_name": "Me Liter Baby.png",
       "bytes": 1930338,
       "sha256": "ec9ecd3f2cac9e43cf8e42347e069b309319675cd3d3afe373d33baa77c943cb",
@@ -2978,29 +2948,6 @@
       "published_sha256": "d5a445096d48e4423b329d99d7d640ca3591aa8967472cc7d886a9b268628352",
       "artist_reported": "Bardiya Alizadeh / Farland_game",
       "creation_context": "Older profile-image design; platform, exact date and tools unspecified."
-    },
-    {
-      "collection": "personal",
-      "source_name": "ME Photo very good 3.png",
-      "bytes": 2198031,
-      "sha256": "37b837b569beeed7bc276b2c6cea941f4e543f6818e0e176acbcb402a632fae7",
-      "type": "image",
-      "id": "personal-131",
-      "size": [
-        1122,
-        1402
-      ],
-      "published_size": [
-        1122,
-        1402
-      ],
-      "category": "memories",
-      "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
-      "published_path": "images/personal-131.jpg",
-      "published_bytes": 253681,
-      "published_sha256": "dd508ff57cee1bde86f55c612a4662b88d8db77baa9a85af74d220d456929995",
-      "related_image": "personal-130",
-      "creation_context": "Version of130withoutcupcoveringface;methodunspecified."
     },
     {
       "collection": "personal",
@@ -3462,7 +3409,7 @@
       "download_url": "https://github.com/FarlandGame/Animation-Portfolio/releases/download/roblox-collection/RobloxEdit4.mp4"
     }
   ],
-  "story_status": "Creator-supplied stories recorded for all 138 published images, in English, Persian and Japanese. Uncertain details remain identified as recollections.",
+  "story_status": "Creator-supplied stories recorded for all 136 published images, in English, Persian and Japanese. Uncertain details remain identified as recollections.",
   "excluded_images": [
     {
       "id": "personal-046",
@@ -3471,6 +3418,14 @@
     {
       "id": "personal-073",
       "reason": "Temporarily withheld while the creator decides whether to share this family edit."
+    },
+    {
+      "id": "personal-128",
+      "reason": "Removed at creator request."
+    },
+    {
+      "id": "personal-131",
+      "reason": "Removed at creator request."
     }
   ]
 }

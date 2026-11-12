@@ -1,4 +1,4 @@
-# 画像138点すべて 📸
+# 画像136点すべて 📸
 
 [GitHubポートフォリオ](https://github.com/FarlandGame) · [私の物語 — Farland_gameの素顔、Kabir](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.ja.md) · [▶ 写真と画像作品 + 動画と編集作品](https://farlandgame.github.io/Personal-Portfolio/?lang=ja)
 
@@ -1260,15 +1260,6 @@ THE APEXという名前は、Alivexorとして活動するAli Dehghannejadと私
 これも、双子の弟Armiyaと私の子どもの頃の写真です。一緒に過ごした幼い日々の思い出で、正確な年齢や年はまだ記録していません。
 
 
-## personal-128 · ポートレート編集
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-128.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-128.jpg" width="650" alt="personal-128 · ポートレート編集" loading="lazy"></a>
-
-[表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-128.jpg)
-
-これは、写真personal-106にあるAlivexorことAli Dehghannejadと私の共同制作画像を、AIで遊び心のある形に編集したものです。単純な冗談として、髪のないバージョンをAIで作りました。2人の画像から作った、もう1つの創作上のバリエーションです。
-
-
 ## personal-129 · ポートレート編集
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-129.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-129.jpg" width="650" alt="personal-129 · ポートレート編集" loading="lazy"></a>
@@ -1285,15 +1276,6 @@ THE APEXという名前は、Alivexorとして活動するAli Dehghannejadと私
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-130.jpg)
 
 これは、以前プロフィール用にデザインした画像です。仕上がりが気に入り、自分のビジュアル作品の1つとして残しています。
-
-
-## personal-131 · 個人と家族の思い出
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-131.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-131.jpg" width="650" alt="personal-131 · 個人と家族の思い出" loading="lazy"></a>
-
-[表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-131.jpg)
-
-これは、顔の前にカップがない、画像personal-130の別バージョンです。同じプロフィール画像の組として残しています。
 
 
 ## personal-132 · 個人と家族の思い出

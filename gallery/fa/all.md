@@ -1,4 +1,4 @@
-# هر ۱۳۸ عکس و تصویر 📸
+# هر ۱۳۶ عکس و تصویر 📸
 
 [پروفایل گیت‌هاب](https://github.com/FarlandGame) · [داستان من؛ کبیر پشت نام Farland_game](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.fa.md) · [▶ عکس‌ها و تصویرها + ویدئوها و ادیت‌ها](https://farlandgame.github.io/Personal-Portfolio/?lang=fa)
 
@@ -1260,15 +1260,6 @@
 این‌ها هم عکس‌های کودکی من و برادر دوقلویم ارمیا هستند؛ یادگاری‌های دیگری از سال‌های کودکیِ مشترکمان. سن و سال دقیقشان را مشخص نکرده‌ام.
 
 
-## personal-128 · ادیت‌های پرتره
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-128.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-128.jpg" width="650" alt="personal-128 · ادیت‌های پرتره" loading="lazy"></a>
-
-[دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-128.jpg)
-
-این نسخهٔ شوخیِ همان تصویر مشترک من و علی دهقان‌نژاد، با نام هنری Alivexor، در عکس ۱۰۶ است. با هوش مصنوعی یک نسخه با ظاهرِ کچل درست کردیم؛ صرفاً برای خنده و شوخی. یک برداشت خلاقانهٔ دیگر از تصویر مشترکمان است.
-
-
 ## personal-129 · ادیت‌های پرتره
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-129.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-129.jpg" width="650" alt="personal-129 · ادیت‌های پرتره" loading="lazy"></a>
@@ -1285,15 +1276,6 @@
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-130.jpg)
 
 این تصویر را مدتی پیش برای پروفایلم طراحی کرده بودم. نتیجه‌اش را دوست دارم و آن را میان کارهای تصویری شخصی‌ام نگه داشته‌ام.
-
-
-## personal-131 · خاطرات شخصی و خانوادگی
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-131.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-131.jpg" width="650" alt="personal-131 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
-
-[دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-131.jpg)
-
-این نسخهٔ دیگری از همان تصویر ۱۳۰ است، با این تفاوت که فنجان جلوی صورتم نیست. آن را در کنار همان تصویر پروفایل نگه داشته‌ام.
 
 
 ## personal-132 · خاطرات شخصی و خانوادگی

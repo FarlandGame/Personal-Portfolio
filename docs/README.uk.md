@@ -4,9 +4,9 @@
 
 [English](https://github.com/FarlandGame/Personal-Portfolio/blob/main/README.md) · [日本語](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.ja.md) · [فارسی](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.fa.md) · [Deutsch](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.de.md) · [Français](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.fr.md) · [Español](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.es.md) · [Português (Brasil)](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.pt-BR.md) · [Italiano](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.it.md) · [Nederlands](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.nl.md) · [Polski](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.pl.md) · [Українська](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.uk.md) · [Türkçe](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.tr.md) · [Русский](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.ru.md) · [简体中文](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.zh-CN.md) · [繁體中文](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.zh-TW.md) · [한국어](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.ko.md) · [हिन्दी](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.hi.md) · [Bahasa Indonesia](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.id.md)
 
-Я Бардія Алізаде, також відомий як Кабір, і створюю мистецькі роботи під ім’ям Farland_game. Тут я ділюся 138 зображеннями та 12 відео зі свого особистого архіву на Робочому столі: спогадами про дитинство й родину, моментами з друзями, фотографіями, пов’язаними з промоцією та визнанням моєї книги, портретами й творчими обробками. Тут також є зображення для THE APEX, мого сюжетного сервера Minecraft, який ще розробляється, та анімація тривалістю 11,67 секунди. Радий показати вам цю більш особисту частину моєї творчості.
+Я Бардія Алізаде, також відомий як Кабір, і створюю мистецькі роботи під ім’ям Farland_game. Тут я ділюся 136 зображеннями та 12 відео зі свого особистого архіву на Робочому столі: спогадами про дитинство й родину, моментами з друзями, фотографіями, пов’язаними з промоцією та визнанням моєї книги, портретами й творчими обробками. Тут також є зображення для THE APEX, мого сюжетного сервера Minecraft, який ще розробляється, та анімація тривалістю 11,67 секунди. Радий показати вам цю більш особисту частину моєї творчості.
 
-[▶ Фотографії та візуальні роботи + Відео та монтажі](https://farlandgame.github.io/Personal-Portfolio/) · [Усі 138 зображень](https://github.com/FarlandGame/Personal-Portfolio/blob/main/gallery/uk/all.md) · [Портфоліо на GitHub](https://github.com/FarlandGame)
+[▶ Фотографії та візуальні роботи + Відео та монтажі](https://farlandgame.github.io/Personal-Portfolio/) · [Усі 136 зображень](https://github.com/FarlandGame/Personal-Portfolio/blob/main/gallery/uk/all.md) · [Портфоліо на GitHub](https://github.com/FarlandGame)
 
 > Мій журнал завдань нарешті містить і людину, яка тримає контролер.
 
@@ -20,8 +20,8 @@
 
 Images personal-008, personal-042, personal-088 and personal-103 are exceptions: phone-screen margins or unrelated surrounding page content were cropped at the creator’s request; the retained photograph pixels were not retouched.
 
-- [Особисті та родинні спогади](https://farlandgame.github.io/Personal-Portfolio/#category-memories) · 85 📸 · 6 🎬
-- [Оброблені портрети](https://farlandgame.github.io/Personal-Portfolio/#category-portraits) · 36 📸 · 5 🎬
+- [Особисті та родинні спогади](https://farlandgame.github.io/Personal-Portfolio/#category-memories) · 84 📸 · 6 🎬
+- [Оброблені портрети](https://farlandgame.github.io/Personal-Portfolio/#category-portraits) · 35 📸 · 5 🎬
 - [Спогади про книгу](https://farlandgame.github.io/Personal-Portfolio/#category-book) · 10 📸 · 0 🎬
 - [THE APEX](https://farlandgame.github.io/Personal-Portfolio/#category-apex) · 7 📸 · 1 🎬
 

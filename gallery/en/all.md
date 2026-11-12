@@ -1,4 +1,4 @@
-# All 138 images 📸
+# All 136 images 📸
 
 [GitHub portfolio](https://github.com/FarlandGame) · [My Story — Kabir behind Farland_game](https://github.com/FarlandGame/Personal-Portfolio/blob/main/README.md) · [▶ Photos & artwork + Videos & edits](https://farlandgame.github.io/Personal-Portfolio/)
 
@@ -1260,15 +1260,6 @@ This childhood photograph includes my twin brother Armiya and me beside a comput
 These are childhood photographs of my twin brother Armiya and me. They are another keepsake from our early years together; no exact age or year has been assigned.
 
 
-## personal-128 · Portrait edits
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-128.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-128.jpg" width="650" alt="personal-128 · Portrait edits" loading="lazy"></a>
-
-[View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-128.jpg)
-
-This is a playful AI-edited variation of the collaborative image of Ali Dehghannejad, known as Alivexor, and me in photograph personal-106. We used AI to make a bald version, simply as a joke. It is another creative variation of our shared image.
-
-
 ## personal-129 · Portrait edits
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-129.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-129.jpg" width="650" alt="personal-129 · Portrait edits" loading="lazy"></a>
@@ -1285,15 +1276,6 @@ This is an edited version of my childhood photograph personal-123. I added a sui
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-130.jpg)
 
 I designed this image for my profile some time ago. I liked the result and kept it among my personal visual work.
-
-
-## personal-131 · Personal & family memories
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-131.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-131.jpg" width="650" alt="personal-131 · Personal &amp; family memories" loading="lazy"></a>
-
-[View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-131.jpg)
-
-This is another version of the image in personal-130, with no cup in front of my face. It belongs to the same profile-image set I kept.
 
 
 ## personal-132 · Personal & family memories

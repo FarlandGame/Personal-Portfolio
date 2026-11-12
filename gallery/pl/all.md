@@ -1,4 +1,4 @@
-# Wszystkie 138 obrazów 📸
+# Wszystkie 136 obrazów 📸
 
 [Portfolio na GitHubie](https://github.com/FarlandGame) · [Moje osobiste archiwum — Kabir za Farland_game](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.pl.md) · [▶ Zdjęcia i prace graficzne + Filmy i montaże](https://farlandgame.github.io/Personal-Portfolio/)
 
@@ -758,12 +758,6 @@ Images personal-008, personal-042, personal-088 and personal-103 are exceptions:
 
 [Zobacz / pobierz](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-127.jpg)
 
-## personal-128 · Przeróbki portretów
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-128.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-128.jpg" width="650" alt="personal-128 · Przeróbki portretów" loading="lazy"></a>
-
-[Zobacz / pobierz](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-128.jpg)
-
 ## personal-129 · Przeróbki portretów
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-129.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-129.jpg" width="650" alt="personal-129 · Przeróbki portretów" loading="lazy"></a>
@@ -775,12 +769,6 @@ Images personal-008, personal-042, personal-088 and personal-103 are exceptions:
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-130.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-130.jpg" width="650" alt="personal-130 · Wspomnienia osobiste i rodzinne" loading="lazy"></a>
 
 [Zobacz / pobierz](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-130.jpg)
-
-## personal-131 · Wspomnienia osobiste i rodzinne
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-131.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-131.jpg" width="650" alt="personal-131 · Wspomnienia osobiste i rodzinne" loading="lazy"></a>
-
-[Zobacz / pobierz](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-131.jpg)
 
 ## personal-132 · Wspomnienia osobiste i rodzinne
 

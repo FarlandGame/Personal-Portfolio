@@ -1,4 +1,4 @@
-# सभी 138 तस्वीरें व कलाकृतियाँ 📸
+# सभी 136 तस्वीरें व कलाकृतियाँ 📸
 
 [GitHub पोर्टफ़ोलियो](https://github.com/FarlandGame) · [मेरा निजी संग्रह — Farland_game के पीछे का Kabir](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.hi.md) · [▶ तस्वीरें और कलाकृतियाँ + वीडियो और संपादित रचनाएँ](https://farlandgame.github.io/Personal-Portfolio/)
 
@@ -758,12 +758,6 @@ Images personal-008, personal-042, personal-088 and personal-103 are exceptions:
 
 [देखें / डाउनलोड करें](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-127.jpg)
 
-## personal-128 · संपादित पोर्ट्रेट
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-128.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-128.jpg" width="650" alt="personal-128 · संपादित पोर्ट्रेट" loading="lazy"></a>
-
-[देखें / डाउनलोड करें](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-128.jpg)
-
 ## personal-129 · संपादित पोर्ट्रेट
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-129.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-129.jpg" width="650" alt="personal-129 · संपादित पोर्ट्रेट" loading="lazy"></a>
@@ -775,12 +769,6 @@ Images personal-008, personal-042, personal-088 and personal-103 are exceptions:
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-130.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-130.jpg" width="650" alt="personal-130 · निजी और पारिवारिक यादें" loading="lazy"></a>
 
 [देखें / डाउनलोड करें](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-130.jpg)
-
-## personal-131 · निजी और पारिवारिक यादें
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-131.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-131.jpg" width="650" alt="personal-131 · निजी और पारिवारिक यादें" loading="lazy"></a>
-
-[देखें / डाउनलोड करें](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-131.jpg)
 
 ## personal-132 · निजी और पारिवारिक यादें
 
