@@ -3225,7 +3225,17 @@
       "poster": "images/personal-video-08.jpg",
       "published_path": "videos/personal-video-08.mp4",
       "published_bytes": 9012279,
-      "published_sha256": "7fa6c13f08ae831a2ab9d16851c89d568b1d9acfee9eb37aa221799baf2a1bcd"
+      "published_sha256": "7fa6c13f08ae831a2ab9d16851c89d568b1d9acfee9eb37aa221799baf2a1bcd",
+      "creator_context": "Tenth-grade classroom at Shahram Faraji High School; Bardiya with sunglasses films Amir Hossein Sadegh in red, then Sadra Shahi commenting on his hair. Ashkan not pictured; Armiya absent that day, reason not remembered. Sound explicitly retained at creator request.",
+      "filmed_by": "Bardiya Alizadeh / Farland_game",
+      "school_grade": 10,
+      "school_name": "شهرام فرجی / Shahram Faraji",
+      "featured_people": [
+        "Bardiya Alizadeh / Farland_game",
+        "Amir Hossein Sadegh",
+        "Sadra Shahi"
+      ],
+      "audio_preservation_requested": true
     },
     {
       "collection": "personal",
@@ -3467,7 +3477,7 @@
     }
   ],
   "video_story_status": {
-    "recorded": 7,
+    "recorded": 8,
     "total": 12,
     "languages": [
       "en",
