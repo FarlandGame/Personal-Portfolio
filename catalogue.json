@@ -1886,7 +1886,8 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-089.jpg",
       "published_bytes": 304649,
-      "published_sha256": "9401bc56fbd1a95781eb294530ceed81334aa58b662b8a80696d4d018ee945ae"
+      "published_sha256": "9401bc56fbd1a95781eb294530ceed81334aa58b662b8a80696d4d018ee945ae",
+      "related_video": "personal-video-06"
     },
     {
       "collection": "personal",
@@ -3180,7 +3181,11 @@
       "poster": "images/personal-video-06.jpg",
       "published_path": "videos/personal-video-06.mp4",
       "published_bytes": 11987851,
-      "published_sha256": "61da1da4c2d10f0d8cebb11247561660430aa7d2a38b2397f73cfdf3f39d2841"
+      "published_sha256": "61da1da4c2d10f0d8cebb11247561660430aa7d2a38b2397f73cfdf3f39d2841",
+      "creator_context": "Silver-jewellery workshop where Bardiya attended ring-making classes for a while; workshop surroundings and stones. Same learning experience as personal-089. Camera operator, exact stones and date not stated.",
+      "related_stories": [
+        "personal-089"
+      ]
     },
     {
       "collection": "personal",
@@ -3454,7 +3459,7 @@
     }
   ],
   "video_story_status": {
-    "recorded": 5,
+    "recorded": 6,
     "total": 12,
     "languages": [
       "en",
