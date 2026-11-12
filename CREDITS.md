@@ -17,3 +17,5 @@ Server-entry welcome graphic personal-101: **Bardiya Alizadeh / Farland_game**. 
 Collaborative image personal-106: **Bardiya Alizadeh / Farland_game and Ali Dehghannejad / Alivexor**. Photograph collage personal-105: **Bardiya Alizadeh / Farland_game**.
 
 Creator-supplied suit/red-tie variant of personal-132 is stored in variants/personal-132-suit.png unchanged. The creator identifies it as his preferred version; its production method was not specified. Both the base image and this sibling variant are retained.
+
+THE APEX playful short personal-video-10: **Ali Dehghannejad / [Alivexor](https://github.com/Alivexor)**, created in **Blender**, following Bardiya’s suggestion during THE APEX coding work. A shared joke between Bardiya, Ali and Armiya; the two-hour estimate in the story refers to Bardiya’s coding work, not a stated animation production time.

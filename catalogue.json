@@ -3275,7 +3275,13 @@
       "poster": "images/personal-video-10.jpg",
       "published_path": "videos/personal-video-10.mp4",
       "published_bytes": 4199446,
-      "published_sha256": "f25643eecccbfcc81fcf7616889b988d787429fd51b62a627597fa5fa859ea33"
+      "published_sha256": "f25643eecccbfcc81fcf7616889b988d787429fd51b62a627597fa5fa859ea33",
+      "creator_context": "Shared joke between Bardiya, Ali and Armiya. Ali made a random Blender animation after Bardiya suggested it while finishing THE APEX code before assigning map work; two hours was Bardiya’s coding estimate.",
+      "created_by": "Ali Dehghannejad / Alivexor",
+      "creator_url": "https://github.com/Alivexor",
+      "creator_tools": [
+        "Blender"
+      ]
     },
     {
       "collection": "personal",
@@ -3485,7 +3491,7 @@
     }
   ],
   "video_story_status": {
-    "recorded": 9,
+    "recorded": 10,
     "total": 12,
     "languages": [
       "en",
