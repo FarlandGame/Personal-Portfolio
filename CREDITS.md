@@ -19,3 +19,5 @@ Collaborative image personal-106: **Bardiya Alizadeh / Farland_game and Ali Dehg
 Creator-supplied suit/red-tie variant of personal-132 is stored in variants/personal-132-suit.png unchanged. The creator identifies it as his preferred version; its production method was not specified. Both the base image and this sibling variant are retained.
 
 THE APEX playful short personal-video-10: **Ali Dehghannejad / [Alivexor](https://github.com/Alivexor)**, created in **Blender**, following Bardiya’s suggestion during THE APEX coding work. A shared joke between Bardiya, Ali and Armiya; the two-hour estimate in the story refers to Bardiya’s coding work, not a stated animation production time.
+
+Personal-video-11 edited by **Ashkan Mohammad Alipour**, using **Adobe After Effects**; subject and supplied voice message: **Bardiya Alizadeh / Farland_game**. Bardiya’s praise of Ashkan is a personal endorsement. Personal-video-12 created by **Bardiya Alizadeh / Farland_game**, using **Photoshop and multiple AI video tools**, inspired by a scene from *Better Call Saul*.

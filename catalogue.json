@@ -3377,7 +3377,13 @@
       "poster": "images/personal-video-11.jpg",
       "published_path": "videos/personal-video-11.mp4",
       "published_bytes": 6946008,
-      "published_sha256": "726d892d1a1000bed2e46f8e949ce9fd9d21f509eeda0a7856e42307ade8acf3"
+      "published_sha256": "726d892d1a1000bed2e46f8e949ce9fd9d21f509eeda0a7856e42307ade8acf3",
+      "edited_by": "Ashkan Mohammad Alipour",
+      "creator_tools": [
+        "Adobe After Effects"
+      ],
+      "voice_recording_by": "Bardiya Alizadeh / Farland_game",
+      "creator_context": "One of Ashkan’s early After Effects edits; Bardiya proposed himself as subject and supplied a voice message. Creator is proud to be part of Ashkan’s beginnings, sees major progress and personally regards him as one of the world’s best editors and collaborators."
     },
     {
       "id": "personal-video-12",
@@ -3400,7 +3406,19 @@
         "personal-003",
         "personal-004"
       ],
-      "creator_context": "Film inspired by a scene from Better Call Saul and Saul Goodman; Photoshop and multiple AI video tools; approximately two weeks of work due to lack of camera and filming budget."
+      "creator_context": "Film inspired by a scene from Better Call Saul and Saul Goodman; Photoshop and multiple AI video tools; approximately two weeks of work due to lack of camera and filming budget.",
+      "created_by": "Bardiya Alizadeh / Farland_game",
+      "creator_tools": [
+        "Adobe Photoshop",
+        "Multiple AI video tools (not individually specified)"
+      ],
+      "related_stories": [
+        "personal-001",
+        "personal-002",
+        "personal-003",
+        "personal-004",
+        "personal-111"
+      ]
     }
   ],
   "existing_roblox": [
@@ -3491,13 +3509,14 @@
     }
   ],
   "video_story_status": {
-    "recorded": 10,
+    "recorded": 12,
     "total": 12,
     "languages": [
       "en",
       "fa",
       "ja"
     ],
-    "index": "stories/videos.md"
+    "index": "stories/videos.md",
+    "status": "Complete"
   }
 }
