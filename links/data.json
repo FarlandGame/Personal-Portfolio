@@ -1,0 +1,244 @@
+[
+  {
+    "id": "github",
+    "url": "https://github.com/FarlandGame",
+    "label": {
+      "en": "GitHub",
+      "fa": "GitHub",
+      "ja": "GitHub"
+    },
+    "category": "work",
+    "icon": "GH"
+  },
+  {
+    "id": "youtube_main",
+    "url": "https://www.youtube.com/@Farland_game",
+    "label": {
+      "en": "YouTube · Farland_game",
+      "fa": "یوتیوب · Farland_game",
+      "ja": "YouTube · Farland_game"
+    },
+    "category": "video",
+    "icon": "YT"
+  },
+  {
+    "id": "youtube_animation",
+    "url": "https://www.youtube.com/@Farland_animation",
+    "label": {
+      "en": "YouTube · Farland_animation",
+      "fa": "یوتیوب · Farland_animation",
+      "ja": "YouTube · Farland_animation"
+    },
+    "category": "video",
+    "icon": "YA"
+  },
+  {
+    "id": "rubika_channel_main",
+    "url": "https://rubika.ir/farland_gam",
+    "label": {
+      "en": "Rubika · Main channel",
+      "fa": "روبیکا · کانال اصلی",
+      "ja": "Rubika · メインチャンネル"
+    },
+    "category": "social",
+    "icon": "RU"
+  },
+  {
+    "id": "rubika_channel_animation",
+    "url": "https://rubika.ir/Farland_animatio",
+    "label": {
+      "en": "Rubika · Animation channel",
+      "fa": "روبیکا · کانال انیمیشن",
+      "ja": "Rubika · アニメーション"
+    },
+    "category": "social",
+    "icon": "RA"
+  },
+  {
+    "id": "rubika_page_main",
+    "url": "https://rubika.ir/farland_game",
+    "label": {
+      "en": "Rubika · Main page",
+      "fa": "روبیکا · صفحهٔ اصلی",
+      "ja": "Rubika · メインページ"
+    },
+    "category": "social",
+    "icon": "RP"
+  },
+  {
+    "id": "rubika_page_animation",
+    "url": "https://rubika.ir/Farland_animations",
+    "label": {
+      "en": "Rubika · Animation page",
+      "fa": "روبیکا · صفحهٔ انیمیشن",
+      "ja": "Rubika · アニメページ"
+    },
+    "category": "social",
+    "icon": "RF"
+  },
+  {
+    "id": "instagram",
+    "url": "https://www.instagram.com/farland_game/",
+    "label": {
+      "en": "Instagram",
+      "fa": "اینستاگرام",
+      "ja": "Instagram"
+    },
+    "category": "social",
+    "icon": "IG"
+  },
+  {
+    "id": "telegram_main",
+    "url": "https://t.me/Farland_gam",
+    "label": {
+      "en": "Telegram · Farland_game",
+      "fa": "تلگرام · Farland_game",
+      "ja": "Telegram · Farland_game"
+    },
+    "category": "social",
+    "icon": "TG"
+  },
+  {
+    "id": "telegram_animation",
+    "url": "https://t.me/Farland_animatio",
+    "label": {
+      "en": "Telegram · Animation",
+      "fa": "تلگرام · انیمیشن",
+      "ja": "Telegram · アニメーション"
+    },
+    "category": "social",
+    "icon": "TA"
+  },
+  {
+    "id": "music_bot",
+    "url": "https://t.me/Farland_Music_bot",
+    "label": {
+      "en": "Farland Music Bot",
+      "fa": "ربات موسیقی فارلند",
+      "ja": "Farland Music Bot"
+    },
+    "category": "music",
+    "icon": "♫"
+  },
+  {
+    "id": "twitch",
+    "url": "https://twitch.tv/farlandgame",
+    "label": {
+      "en": "Twitch",
+      "fa": "توییچ",
+      "ja": "Twitch"
+    },
+    "category": "gaming",
+    "icon": "TW"
+  },
+  {
+    "id": "kick",
+    "url": "https://kick.com/farlandgame",
+    "label": {
+      "en": "Kick",
+      "fa": "کیک",
+      "ja": "Kick"
+    },
+    "category": "gaming",
+    "icon": "K"
+  },
+  {
+    "id": "aparat",
+    "url": "https://aparat.com/Farland_Game",
+    "label": {
+      "en": "Aparat",
+      "fa": "آپارات",
+      "ja": "Aparat"
+    },
+    "category": "video",
+    "icon": "AP"
+  },
+  {
+    "id": "apex_youtube",
+    "url": "https://www.youtube.com/@THE_APEX_MC",
+    "label": {
+      "en": "THE APEX · YouTube",
+      "fa": "THE APEX · یوتیوب",
+      "ja": "THE APEX · YouTube"
+    },
+    "category": "community",
+    "icon": "AX"
+  },
+  {
+    "id": "apex_telegram",
+    "url": "https://t.me/+-3uY7eIZArVjZDE0",
+    "label": {
+      "en": "THE APEX · Telegram",
+      "fa": "THE APEX · تلگرام",
+      "ja": "THE APEX · Telegram"
+    },
+    "category": "community",
+    "icon": "AT"
+  },
+  {
+    "id": "manhunt",
+    "url": "https://t.me/+DAq20XrkPyZhNjVk",
+    "label": {
+      "en": "Manhunt · Telegram group",
+      "fa": "منهانت · گروه تلگرام",
+      "ja": "Manhunt · Telegramグループ"
+    },
+    "category": "community",
+    "icon": "MH"
+  },
+  {
+    "id": "brother_youtube",
+    "url": "https://www.youtube.com/@ArmiyaFabix",
+    "label": {
+      "en": "ArmiyaFabix · My twin brother",
+      "fa": "ArmiyaFabix · برادر دوقلویم",
+      "ja": "ArmiyaFabix · 双子の弟"
+    },
+    "category": "video",
+    "icon": "AF"
+  },
+  {
+    "id": "donate",
+    "url": "https://reymit.ir/farland_game",
+    "label": {
+      "en": "Support · Reymit",
+      "fa": "حمایت · ریمیت",
+      "ja": "応援 · Reymit"
+    },
+    "category": "support",
+    "icon": "♥"
+  },
+  {
+    "id": "soundcloud",
+    "url": "https://soundcloud.com/bardiya-kabir-798008614",
+    "label": {
+      "en": "SoundCloud",
+      "fa": "ساندکلاد",
+      "ja": "SoundCloud"
+    },
+    "category": "music",
+    "icon": "SC"
+  },
+  {
+    "id": "roblox",
+    "url": "https://www.roblox.com/users/7889384276/profile",
+    "label": {
+      "en": "Roblox · farland_game0",
+      "fa": "روبلاکس · farland_game0",
+      "ja": "Roblox · farland_game0"
+    },
+    "category": "gaming",
+    "icon": "RB"
+  },
+  {
+    "id": "work_email",
+    "url": "mailto:farland.game158@gmail.com",
+    "label": {
+      "en": "Work enquiries · Email",
+      "fa": "ارتباط کاری · ایمیل",
+      "ja": "仕事の問い合わせ · メール"
+    },
+    "category": "work",
+    "icon": "@"
+  }
+]
