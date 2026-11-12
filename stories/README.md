@@ -140,3 +140,5 @@ All 136 published images have creator-supplied stories in English, Persian and J
 - [x] personal-138 · [English](personal-138.en.md) · [فارسی](personal-138.fa.md) · [日本語](personal-138.ja.md)
 - [x] personal-139 · [English](personal-139.en.md) · [فارسی](personal-139.fa.md) · [日本語](personal-139.ja.md)
 - [x] personal-140 · [English](personal-140.en.md) · [فارسی](personal-140.fa.md) · [日本語](personal-140.ja.md)
+
+[Video stories · روایت ویدئوها · 動画のエピソード](videos.md)

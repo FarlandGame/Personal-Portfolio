@@ -2391,7 +2391,9 @@
       "poster": "images/personal-video-01.jpg",
       "published_path": "videos/personal-video-01.mp4",
       "published_bytes": 2509879,
-      "published_sha256": "a7c91be64a66741a5ebf32753eef06c87e048c21e12474ff04b06b5066f635e1"
+      "published_sha256": "a7c91be64a66741a5ebf32753eef06c87e048c21e12474ff04b06b5066f635e1",
+      "creator_context": "Creator confirms his first video edit of himself, edited by himself; pleased with result. Specific software and date not stated.",
+      "edited_by": "Bardiya Alizadeh / Farland_game"
     },
     {
       "collection": "personal",
@@ -3427,5 +3429,15 @@
       "id": "personal-131",
       "reason": "Removed at creator request."
     }
-  ]
+  ],
+  "video_story_status": {
+    "recorded": 1,
+    "total": 12,
+    "languages": [
+      "en",
+      "fa",
+      "ja"
+    ],
+    "index": "stories/videos.md"
+  }
 }
