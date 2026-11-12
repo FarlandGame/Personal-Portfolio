@@ -3141,7 +3141,11 @@
       "poster": "images/personal-video-04.jpg",
       "published_path": "videos/personal-video-04.mp4",
       "published_bytes": 6500151,
-      "published_sha256": "affeb8c775990e54cfe04baa5af39ef730e415462d0aa39de5fd69f1f78671a1"
+      "published_sha256": "affeb8c775990e54cfe04baa5af39ef730e415462d0aa39de5fd69f1f78671a1",
+      "creator_context": "Ninth-grade classmates at Parkar School; filmed by Bardiya. Creator recalls phone taken and kept for one day after filming; recording retained. Exact date not supplied.",
+      "filmed_by": "Bardiya Alizadeh / Farland_game",
+      "school_grade": 9,
+      "school_name": "پرکار / Parkar"
     },
     {
       "collection": "personal",
@@ -3447,7 +3451,7 @@
     }
   ],
   "video_story_status": {
-    "recorded": 3,
+    "recorded": 4,
     "total": 12,
     "languages": [
       "en",
