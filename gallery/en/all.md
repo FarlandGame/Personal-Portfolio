@@ -1369,9 +1369,14 @@ This photograph belongs to the same first visit to my friend Ali Heydari’s hom
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-139.jpg)
 
+A casual laptop photograph in the car on my way back from Tehran. I had travelled there to meet my friend and collaborator Ali Dehghannejad (Alivexor) for the signing of our THE APEX collaboration agreement—the same trip I described with photos 010–013. After the important meeting, one ordinary snapshot for the memory collection. 🚗📷
+
+
 ## personal-140 · Portrait edits
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-140.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-140.jpg" width="650" alt="personal-140 · Portrait edits" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-140.jpg)
+
+Another AI-created image of me, made for my friend and editor Ashkan Mohammad Alipour’s video edit. Like the other visuals in this set, it was creative material I prepared for the edit. One last frame for this collection! 🎬
 

@@ -1,8 +1,8 @@
-# Photo stories — 136 of 138 recorded
+# Photo stories — 138 of 138 recorded
 
-Stories are supplied by the creator and published in English, Persian and Japanese. The remaining 2 images have not yet received individual stories. Dates, ages and identities are not inferred from appearance.
+All 138 published images have creator-supplied stories in English, Persian and Japanese. Memories, creative edits and project artwork are described in the creator’s own account. Uncertain dates and details remain marked as recollections.
 
-داستان‌ها از زبان خود بردیا ثبت می‌شوند؛ هنوز کامل نیستند. / 作者本人から聞いた思い出を順次追加しています。
+داستان همهٔ 138 عکس منتشرشده به انگلیسی، فارسی و ژاپنی ثبت شده است. 📸 / 公開画像全138点について、作者本人のエピソードを英語・ペルシャ語・日本語で掲載しています。📸
 
 - [x] personal-001 · [English](personal-001.en.md) · [فارسی](personal-001.fa.md) · [日本語](personal-001.ja.md)
 - [x] personal-002 · [English](personal-002.en.md) · [فارسی](personal-002.fa.md) · [日本語](personal-002.ja.md)
@@ -140,5 +140,5 @@ Stories are supplied by the creator and published in English, Persian and Japane
 - [x] personal-136 · [English](personal-136.en.md) · [فارسی](personal-136.fa.md) · [日本語](personal-136.ja.md)
 - [x] personal-137 · [English](personal-137.en.md) · [فارسی](personal-137.fa.md) · [日本語](personal-137.ja.md)
 - [x] personal-138 · [English](personal-138.en.md) · [فارسی](personal-138.fa.md) · [日本語](personal-138.ja.md)
-- [ ] personal-139
-- [ ] personal-140
+- [x] personal-139 · [English](personal-139.en.md) · [فارسی](personal-139.fa.md) · [日本語](personal-139.ja.md)
+- [x] personal-140 · [English](personal-140.en.md) · [فارسی](personal-140.fa.md) · [日本語](personal-140.ja.md)

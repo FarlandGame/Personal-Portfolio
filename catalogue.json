@@ -3308,7 +3308,14 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-139.jpg",
       "published_bytes": 166522,
-      "published_sha256": "3eeb6e4a64fc5af8af52fa638b34525c063685685ad4a7dd272691236a99403f"
+      "published_sha256": "3eeb6e4a64fc5af8af52fa638b34525c063685685ad4a7dd272691236a99403f",
+      "creator_context": "Laptop photograph in car returning from Tehran after visiting Ali Dehghannejad for THE APEX collaboration agreement signing.",
+      "related_stories": [
+        "personal-010",
+        "personal-011",
+        "personal-012",
+        "personal-013"
+      ]
     },
     {
       "collection": "personal",
@@ -3329,7 +3336,11 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-140.jpg",
       "published_bytes": 255679,
-      "published_sha256": "bf822dca01ac6a80663e55b43fc766c0058e142b562bf91293bda1a22132cc8c"
+      "published_sha256": "bf822dca01ac6a80663e55b43fc766c0058e142b562bf91293bda1a22132cc8c",
+      "creator_tools": [
+        "AI (specific tool not stated)"
+      ],
+      "creator_context": "Visual material for Ashkan Mohammad Alipour video edit of Bardiya."
     },
     {
       "collection": "personal",
@@ -3439,7 +3450,7 @@
       "download_url": "https://github.com/FarlandGame/Animation-Portfolio/releases/download/roblox-collection/RobloxEdit4.mp4"
     }
   ],
-  "story_status": "Creator stories being collected one photo at a time; no invented biographical captions.",
+  "story_status": "Creator-supplied stories recorded for all 138 published images, in English, Persian and Japanese. Uncertain details remain identified as recollections.",
   "excluded_images": [
     {
       "id": "personal-046",

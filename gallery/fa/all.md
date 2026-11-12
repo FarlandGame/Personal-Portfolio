@@ -1369,9 +1369,14 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-139.jpg)
 
+یک عکس معمولی با لپ‌تاپ، داخل ماشین و در مسیر برگشت از تهران. برای دیدار با دوستم و همکارم علی دهقان‌نژاد، با نام هنری Alivexor، و امضای قرارداد همکاری THE APEX به تهران رفته بودم؛ همان سفری که داستانش را کنار عکس‌های ۰۱۰ تا ۰۱۳ گفتم. بعد از آن دیدار مهم، یک عکس رندوم هم سهم آرشیو خاطره‌ها شد! 🚗📷
+
+
 ## personal-140 · ادیت‌های پرتره
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-140.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-140.jpg" width="650" alt="personal-140 · ادیت‌های پرتره" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-140.jpg)
+
+این هم یکی دیگر از تصویرهای خودم است که با هوش مصنوعی برای ادیت ویدئوی دوستم و ادیتورم، اشکان محمدعلی‌پور، ساختم. مثل عکس‌های دیگر این مجموعه، یک تصویر خلاقانه برای استفاده در ادیت بود؛ آخرین قاب این بخش از آرشیو! 🎬
 
