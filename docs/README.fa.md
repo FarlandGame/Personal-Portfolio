@@ -20,9 +20,9 @@
 
 عکس‌های ۰۰۸، ۰۴۲، ۰۸۸ و ۱۰۳ استثنا هستند: به درخواست سازنده، حاشیه‌های صفحهٔ گوشی یا مطالب نامربوطِ اطراف عکس برش خورده‌اند و پیکسل‌های داخل خود عکس‌ها بدون روتوش حفظ شده‌اند.
 
-- [خاطرات شخصی و خانوادگی](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#category-memories) · 84 📸 · 6 🎬
+- [خاطرات شخصی و خانوادگی](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#category-memories) · 84 📸 · 5 🎬
 - [ادیت‌های پرتره](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#category-portraits) · 35 📸 · 5 🎬
-- [خاطرات کتاب](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#category-book) · 10 📸 · 0 🎬
+- [خاطرات کتاب](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#category-book) · 10 📸 · 1 🎬
 - [THE APEX](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#category-apex) · 7 📸 · 1 🎬
 
 [Roblox · 11](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/fa/roblox.md) · [Catalogue](https://github.com/FarlandGame/Personal-Portfolio/blob/main/catalogue.json) · [Stories](https://github.com/FarlandGame/Personal-Portfolio/blob/main/stories/README.md)

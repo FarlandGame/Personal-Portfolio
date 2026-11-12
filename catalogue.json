@@ -719,7 +719,8 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-033.jpg",
       "published_bytes": 148521,
-      "published_sha256": "7abad3abd33f5d240529821e7804ca751e9dba261036124a1e3b000ec8315623"
+      "published_sha256": "7abad3abd33f5d240529821e7804ca751e9dba261036124a1e3b000ec8315623",
+      "related_video": "personal-video-09"
     },
     {
       "collection": "personal",
@@ -740,7 +741,8 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-034.jpg",
       "published_bytes": 148706,
-      "published_sha256": "991ce63d388cc309b1c4ead978c16afaf0291cbaaf846fc0ae4bfd23bf8d854e"
+      "published_sha256": "991ce63d388cc309b1c4ead978c16afaf0291cbaaf846fc0ae4bfd23bf8d854e",
+      "related_video": "personal-video-09"
     },
     {
       "collection": "personal",
@@ -3246,12 +3248,18 @@
       "id": "personal-video-09",
       "seconds": 31.45,
       "published_seconds": 31.45,
-      "category": "memories",
+      "category": "book",
       "processing": "Complete-duration H.264/AAC viewing copy, fit within 1920×1080 without upscaling, CRF23, no intentional cuts.",
       "poster": "images/personal-video-09.jpg",
       "published_path": "videos/personal-video-09.mp4",
       "published_bytes": 11496173,
-      "published_sha256": "2564f60c88796baefd47aa23bd1accf4b4e5dc96cccd87187d1c99e960082c4b"
+      "published_sha256": "2564f60c88796baefd47aa23bd1accf4b4e5dc96cccd87187d1c99e960082c4b",
+      "creator_context": "Armiya films Bardiya’s name being called, receiving book-authorship appreciation certificate, posing for photograph and returning at Education Department ceremony. Same day as photos033/034; creator recalls mixed happiness and disappointment. Exact ceremony date remains unresolved in prior photo account.",
+      "filmed_by": "Armiya Alizadeh / ArmiyaFbix",
+      "related_stories": [
+        "personal-033",
+        "personal-034"
+      ]
     },
     {
       "collection": "personal",
@@ -3477,7 +3485,7 @@
     }
   ],
   "video_story_status": {
-    "recorded": 8,
+    "recorded": 9,
     "total": 12,
     "languages": [
       "en",

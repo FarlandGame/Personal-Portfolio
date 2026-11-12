@@ -20,9 +20,9 @@ Los retratos estilizados o compuestos y las escenas fantásticas de humor son cr
 
 Images personal-008, personal-042, personal-088 and personal-103 are exceptions: phone-screen margins or unrelated surrounding page content were cropped at the creator’s request; the retained photograph pixels were not retouched.
 
-- [Recuerdos personales y familiares](https://farlandgame.github.io/Personal-Portfolio/#category-memories) · 84 📸 · 6 🎬
+- [Recuerdos personales y familiares](https://farlandgame.github.io/Personal-Portfolio/#category-memories) · 84 📸 · 5 🎬
 - [Retratos editados](https://farlandgame.github.io/Personal-Portfolio/#category-portraits) · 35 📸 · 5 🎬
-- [Recuerdos del libro](https://farlandgame.github.io/Personal-Portfolio/#category-book) · 10 📸 · 0 🎬
+- [Recuerdos del libro](https://farlandgame.github.io/Personal-Portfolio/#category-book) · 10 📸 · 1 🎬
 - [THE APEX](https://farlandgame.github.io/Personal-Portfolio/#category-apex) · 7 📸 · 1 🎬
 
 [Roblox · 11](https://github.com/FarlandGame/Animation-Portfolio/blob/main/collections/en/roblox.md) · [Catalogue](https://github.com/FarlandGame/Personal-Portfolio/blob/main/catalogue.json) · [Stories](https://github.com/FarlandGame/Personal-Portfolio/blob/main/stories/README.md)

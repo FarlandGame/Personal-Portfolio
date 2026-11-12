@@ -13,3 +13,5 @@ The bouquet made me happy. My uncle Siamak, who was there, bought it for me. My 
 Date note: I recall the event as late Dey 1404, close to Bahman. The photographed certificate itself is dated 1404/09/09; its printed date and my recollection of the ceremony date are kept separate pending clarification.
 
 [All stories](README.md)
+
+[Armiya’s video of receiving the certificate](personal-video-09.en.md)
