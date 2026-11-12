@@ -1333,11 +1333,17 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-135.jpg)
 
+این تصویر را با هوش مصنوعی برای ادیت ویدئوییِ دوستم و ادیتورم، اشکان محمدعلی‌پور، از خودم ساختم. این هم یکی از تصویرهای خلاقانه‌ای بود که برای آن ادیت آماده کردم؛ صحنه‌اش را به‌عنوان یک اتفاق واقعی معرفی نمی‌کنم. 🎬
+
+
 ## personal-136 · ادیت‌های پرتره
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-136.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-136.jpg" width="650" alt="personal-136 · ادیت‌های پرتره" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-136.jpg)
+
+این هم تصویر دیگری از خودم است که با هوش مصنوعی برای ادیت ویدئوی اشکان محمدعلی‌پور ساختم. این عکس‌ها بخشی از تصویرهایی بودند که آماده کردم تا در ادیت از آن‌ها استفاده کند؛ یک قاب دیگر برای ادیت! 🎬
+
 
 ## personal-137 · ادیت‌های پرتره
 
@@ -1345,11 +1351,17 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-137.jpg)
 
+این پرتره از یک عکس واقعی شروع شد: دقیقاً با همین ژست نشستم و عکس پایه را گرفتم. بعد در Blender روی کیفیتش کار کردم، در Photoshop ادیتش کردم و با هوش مصنوعی لباس و محیط را تغییر دادم. از نتیجه‌اش خیلی خوشم می‌آید؛ ژست از عکس خودم آمده، ولی ظاهر نهایی حاصل کار با چند ابزار است. 😎🎨
+
+
 ## personal-138 · خاطرات شخصی و خانوادگی
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-138.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-138.jpg" width="650" alt="personal-138 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-138.jpg)
+
+این عکس هم مربوط به همان اولین دیدار در خانهٔ دوستم علی حیدری است که داستانش را کنار عکس‌های ۰۲۲ تا ۰۲۴ گفتم. یادم هست تابستان دهم بود و این عکس را با لپ‌تاپم گرفتم. با اینکه آن روز دل‌پیچه داشتم، با هم خیلی خوش گذراندیم. همان خاطرهٔ آشنا، با یک عکس دیگر! 📷
+
 
 ## personal-139 · خاطرات شخصی و خانوادگی
 

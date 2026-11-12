@@ -658,5 +658,25 @@
     "en": "This is a studio portrait of my twin brother Armiya. He went to a photography studio to have it made, and I like its bold, stylish feeling.",
     "fa": "این پرترهٔ آتلیه‌ایِ برادر دوقلویم ارمیاست. او به آتلیه رفت و این تصویر را تهیه کرد؛ حال‌وهوای جسور و شیکش را دوست دارم.",
     "ja": "これは双子の弟Armiyaのスタジオポートレートです。写真スタジオへ行って撮ってもらったもので、大胆でスタイリッシュな雰囲気が気に入っています。"
+  },
+  "personal-135": {
+    "en": "I created this image with AI for a video edit of me by my friend and editor, Ashkan Mohammad Alipour. It belongs to the collection of creative visuals I prepared for that edit, rather than a photograph documenting a real scene. 🎬",
+    "fa": "این تصویر را با هوش مصنوعی برای ادیت ویدئوییِ دوستم و ادیتورم، اشکان محمدعلی‌پور، از خودم ساختم. این هم یکی از تصویرهای خلاقانه‌ای بود که برای آن ادیت آماده کردم؛ صحنه‌اش را به‌عنوان یک اتفاق واقعی معرفی نمی‌کنم. 🎬",
+    "ja": "友人であり私の映像編集も手がけるAshkan Mohammad Alipourの動画編集用に、AIで制作した自分のイメージです。その編集のために用意した創作ビジュアルのひとつで、実際の出来事を記録した写真ではありません。🎬"
+  },
+  "personal-136": {
+    "en": "Another AI-created image of me, prepared for Ashkan Mohammad Alipour’s video edit. These images were part of the visual material I made for him to work with. One more frame for the edit! 🎬",
+    "fa": "این هم تصویر دیگری از خودم است که با هوش مصنوعی برای ادیت ویدئوی اشکان محمدعلی‌پور ساختم. این عکس‌ها بخشی از تصویرهایی بودند که آماده کردم تا در ادیت از آن‌ها استفاده کند؛ یک قاب دیگر برای ادیت! 🎬",
+    "ja": "こちらもAshkan Mohammad Alipourの動画編集用にAIで制作した自分のイメージです。彼が編集で使えるよう、私が用意したビジュアル素材のひとつ。編集用のカットがもう一枚！🎬"
+  },
+  "personal-137": {
+    "en": "This portrait started with a real photograph: I sat in this same pose and took the base picture. I then worked on its quality in Blender, edited it in Photoshop, and used AI to change my clothing and the setting. I really like the result. My pose came from the original photograph; the final look is a creative edit built through several tools. 😎🎨",
+    "fa": "این پرتره از یک عکس واقعی شروع شد: دقیقاً با همین ژست نشستم و عکس پایه را گرفتم. بعد در Blender روی کیفیتش کار کردم، در Photoshop ادیتش کردم و با هوش مصنوعی لباس و محیط را تغییر دادم. از نتیجه‌اش خیلی خوشم می‌آید؛ ژست از عکس خودم آمده، ولی ظاهر نهایی حاصل کار با چند ابزار است. 😎🎨",
+    "ja": "このポートレートの出発点は実際の写真です。同じポーズで座って元の写真を撮り、Blenderで画質に手を加え、Photoshopで編集し、AIで服装と背景を変えました。仕上がりがとても気に入っています。ポーズは元の写真から、最終的な見た目は複数のツールを使った創作編集から生まれました。😎🎨"
+  },
+  "personal-138": {
+    "en": "This photograph belongs to the same first visit to my friend Ali Heydari’s home that I described with photos 022–024. I remember it as the summer of my tenth-grade year, and I took this picture with my laptop. We had a great time together, even though I had a stomach upset that day. A familiar memory, with one more photograph to go with it. 📷",
+    "fa": "این عکس هم مربوط به همان اولین دیدار در خانهٔ دوستم علی حیدری است که داستانش را کنار عکس‌های ۰۲۲ تا ۰۲۴ گفتم. یادم هست تابستان دهم بود و این عکس را با لپ‌تاپم گرفتم. با اینکه آن روز دل‌پیچه داشتم، با هم خیلی خوش گذراندیم. همان خاطرهٔ آشنا، با یک عکس دیگر! 📷",
+    "ja": "友人Ali Heydariの家に初めて遊びに行ったときの写真で、022〜024と同じ日の思い出です。10年生の頃の夏だったと記憶していて、この写真は自分のノートパソコンで撮りました。その日はお腹の調子が悪かったものの、一緒にとても楽しく過ごしました。同じ思い出に、もう一枚の写真です。📷"
   }
 }

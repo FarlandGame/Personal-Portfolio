@@ -3092,7 +3092,11 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-135.jpg",
       "published_bytes": 171782,
-      "published_sha256": "69692aee14cc375bca1e2cf46124b3beac971e25fa5da7348dcb93e293582e51"
+      "published_sha256": "69692aee14cc375bca1e2cf46124b3beac971e25fa5da7348dcb93e293582e51",
+      "creator_tools": [
+        "AI (specific tool not stated)"
+      ],
+      "creator_context": "Visual material for Ashkan Mohammad Alipour video edit of Bardiya."
     },
     {
       "collection": "personal",
@@ -3113,7 +3117,11 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-136.jpg",
       "published_bytes": 198864,
-      "published_sha256": "3b993641a33edb5c3a48da08ce86982dd48b8c642aad2efa84ddadad3a0345be"
+      "published_sha256": "3b993641a33edb5c3a48da08ce86982dd48b8c642aad2efa84ddadad3a0345be",
+      "creator_tools": [
+        "AI (specific tool not stated)"
+      ],
+      "creator_context": "Visual material for Ashkan Mohammad Alipour video edit of Bardiya."
     },
     {
       "collection": "personal",
@@ -3134,7 +3142,13 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-137.jpg",
       "published_bytes": 172904,
-      "published_sha256": "881cde0f1e530b732ec23132031ff5bf6d995fc776b8eaeab38c3fb34b93b990"
+      "published_sha256": "881cde0f1e530b732ec23132031ff5bf6d995fc776b8eaeab38c3fb34b93b990",
+      "creator_tools": [
+        "Blender",
+        "Photoshop",
+        "AI (specific tool not stated)"
+      ],
+      "creator_context": "Real posed base photo; creator reports Blender quality work, Photoshop editing, and AI changes to clothing and setting."
     },
     {
       "collection": "personal",
@@ -3267,7 +3281,13 @@
       "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
       "published_path": "images/personal-138.jpg",
       "published_bytes": 138907,
-      "published_sha256": "72f35b36437ac9ca2f6612bf73a7d14d5fa94cdfa1405809925860728dc65726"
+      "published_sha256": "72f35b36437ac9ca2f6612bf73a7d14d5fa94cdfa1405809925860728dc65726",
+      "creator_context": "Laptop photograph during first visit to Ali Heydari home; creator recalls summer of tenth grade, exact date unconfirmed.",
+      "related_stories": [
+        "personal-022",
+        "personal-023",
+        "personal-024"
+      ]
     },
     {
       "collection": "personal",

@@ -1333,11 +1333,17 @@ THE APEXという名前は、Alivexorとして活動するAli Dehghannejadと私
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-135.jpg)
 
+友人であり私の映像編集も手がけるAshkan Mohammad Alipourの動画編集用に、AIで制作した自分のイメージです。その編集のために用意した創作ビジュアルのひとつで、実際の出来事を記録した写真ではありません。🎬
+
+
 ## personal-136 · ポートレート編集
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-136.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-136.jpg" width="650" alt="personal-136 · ポートレート編集" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-136.jpg)
+
+こちらもAshkan Mohammad Alipourの動画編集用にAIで制作した自分のイメージです。彼が編集で使えるよう、私が用意したビジュアル素材のひとつ。編集用のカットがもう一枚！🎬
+
 
 ## personal-137 · ポートレート編集
 
@@ -1345,11 +1351,17 @@ THE APEXという名前は、Alivexorとして活動するAli Dehghannejadと私
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-137.jpg)
 
+このポートレートの出発点は実際の写真です。同じポーズで座って元の写真を撮り、Blenderで画質に手を加え、Photoshopで編集し、AIで服装と背景を変えました。仕上がりがとても気に入っています。ポーズは元の写真から、最終的な見た目は複数のツールを使った創作編集から生まれました。😎🎨
+
+
 ## personal-138 · 個人と家族の思い出
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-138.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-138.jpg" width="650" alt="personal-138 · 個人と家族の思い出" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-138.jpg)
+
+友人Ali Heydariの家に初めて遊びに行ったときの写真で、022〜024と同じ日の思い出です。10年生の頃の夏だったと記憶していて、この写真は自分のノートパソコンで撮りました。その日はお腹の調子が悪かったものの、一緒にとても楽しく過ごしました。同じ思い出に、もう一枚の写真です。📷
+
 
 ## personal-139 · 個人と家族の思い出
 

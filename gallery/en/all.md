@@ -1333,11 +1333,17 @@ This is a studio portrait of my twin brother Armiya. He went to a photography st
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-135.jpg)
 
+I created this image with AI for a video edit of me by my friend and editor, Ashkan Mohammad Alipour. It belongs to the collection of creative visuals I prepared for that edit, rather than a photograph documenting a real scene. 🎬
+
+
 ## personal-136 · Portrait edits
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-136.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-136.jpg" width="650" alt="personal-136 · Portrait edits" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-136.jpg)
+
+Another AI-created image of me, prepared for Ashkan Mohammad Alipour’s video edit. These images were part of the visual material I made for him to work with. One more frame for the edit! 🎬
+
 
 ## personal-137 · Portrait edits
 
@@ -1345,11 +1351,17 @@ This is a studio portrait of my twin brother Armiya. He went to a photography st
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-137.jpg)
 
+This portrait started with a real photograph: I sat in this same pose and took the base picture. I then worked on its quality in Blender, edited it in Photoshop, and used AI to change my clothing and the setting. I really like the result. My pose came from the original photograph; the final look is a creative edit built through several tools. 😎🎨
+
+
 ## personal-138 · Personal & family memories
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-138.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-138.jpg" width="650" alt="personal-138 · Personal &amp; family memories" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-138.jpg)
+
+This photograph belongs to the same first visit to my friend Ali Heydari’s home that I described with photos 022–024. I remember it as the summer of my tenth-grade year, and I took this picture with my laptop. We had a great time together, even though I had a stomach upset that day. A familiar memory, with one more photograph to go with it. 📷
+
 
 ## personal-139 · Personal & family memories
 
