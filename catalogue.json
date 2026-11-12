@@ -3157,11 +3157,14 @@
       "seconds": 65.22,
       "published_seconds": 65.23,
       "category": "memories",
-      "processing": "Complete-duration H.264/AAC viewing copy, fit within 1920×1080 without upscaling, CRF23, no intentional cuts.",
+      "processing": "Complete-duration viewing copy; audio removed at creator request by copying the existing H.264 video stream without re-encoding or cuts. Original desktop source retained unchanged.",
       "poster": "images/personal-video-05.jpg",
       "published_path": "videos/personal-video-05.mp4",
-      "published_bytes": 14210283,
-      "published_sha256": "934d377eefa817397fd5f6478f492e2bec084a6caacbb83eb9c0d9ac56d7673f"
+      "published_bytes": 13128701,
+      "published_sha256": "0904ef4230c959b0484a1034e983fb5f473673739b147dcc47cf6a0ebd31bff3",
+      "audio_removed": true,
+      "creator_context": "Bardiya plays Gol ya Pooch with grandmother Aziz’s cat; twin brother Armiya films with Bardiya’s phone. Cat finds hidden object, then loses interest when it is not food. Published copy muted at creator request.",
+      "filmed_by": "Armiya Alizadeh / ArmiyaFbix"
     },
     {
       "collection": "personal",
@@ -3451,7 +3454,7 @@
     }
   ],
   "video_story_status": {
-    "recorded": 4,
+    "recorded": 5,
     "total": 12,
     "languages": [
       "en",

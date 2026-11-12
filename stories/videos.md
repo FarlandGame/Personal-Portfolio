@@ -6,6 +6,7 @@ Creator-supplied accounts in English, Persian and Japanese. Photo stories are co
 - personal-video-02 · [English](personal-video-02.en.md) · [فارسی](personal-video-02.fa.md) · [日本語](personal-video-02.ja.md)
 - personal-video-03 · [English](personal-video-03.en.md) · [فارسی](personal-video-03.fa.md) · [日本語](personal-video-03.ja.md)
 - personal-video-04 · [English](personal-video-04.en.md) · [فارسی](personal-video-04.fa.md) · [日本語](personal-video-04.ja.md)
+- personal-video-05 · [English](personal-video-05.en.md) · [فارسی](personal-video-05.fa.md) · [日本語](personal-video-05.ja.md)
 
 Videos 02 and 03 were edited by Bardiya in InShot. Video 02 was made before video 01. Catalogue numbers are file IDs, not chronological order.
 
