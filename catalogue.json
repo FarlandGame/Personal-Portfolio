@@ -2392,7 +2392,7 @@
       "published_path": "videos/personal-video-01.mp4",
       "published_bytes": 2509879,
       "published_sha256": "a7c91be64a66741a5ebf32753eef06c87e048c21e12474ff04b06b5066f635e1",
-      "creator_context": "Creator confirms his first self-edited video of himself; an earlier AI-editing test is personal-video-02. Specific software and date not stated.",
+      "creator_context": "An early self-edited video of Bardiya, which he likes; made after personal-video-02. Specific editing software and date not stated.",
       "edited_by": "Bardiya Alizadeh / Farland_game",
       "created_after": [
         "personal-video-02"
@@ -2441,10 +2441,13 @@
       "published_path": "videos/personal-video-02.mp4",
       "published_bytes": 2607535,
       "published_sha256": "df50c913a106202e7eec5a3dae430916e44063cb38b7b2c63fdb5c88615fb539",
-      "creator_context": "AI-edited test made before personal-video-01. Specific AI tool and date not stated.",
-      "edited_by": "AI (specific tool not stated)",
+      "creator_context": "Early self-edit made by Bardiya in InShot; creator is dissatisfied with its quality today. Made before personal-video-01.",
+      "edited_by": "Bardiya Alizadeh / Farland_game",
       "created_before": [
         "personal-video-01"
+      ],
+      "creator_tools": [
+        "InShot"
       ]
     },
     {
@@ -2461,7 +2464,12 @@
       "poster": "images/personal-video-03.jpg",
       "published_path": "videos/personal-video-03.mp4",
       "published_bytes": 5170685,
-      "published_sha256": "6d56c3634af562383127a6cec1c9c4c6261675eb0e6c20db4ccf0b00c1390bd6"
+      "published_sha256": "6d56c3634af562383127a6cec1c9c4c6261675eb0e6c20db4ccf0b00c1390bd6",
+      "creator_context": "Early self-edit made by Bardiya in InShot; creator is dissatisfied with its quality today.",
+      "edited_by": "Bardiya Alizadeh / Farland_game",
+      "creator_tools": [
+        "InShot"
+      ]
     },
     {
       "collection": "personal",
@@ -3439,7 +3447,7 @@
     }
   ],
   "video_story_status": {
-    "recorded": 2,
+    "recorded": 3,
     "total": 12,
     "languages": [
       "en",
