@@ -13,3 +13,5 @@
 [指輪作りの関連写真 · 089](personal-089.ja.md)
 
 [Video stories](videos.md)
+
+[指輪を研磨するArmiya · 動画07](personal-video-07.ja.md)

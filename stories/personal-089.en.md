@@ -7,3 +7,5 @@ This photograph shows me working on ring-making. My twin brother Armiya and I on
 [All stories](README.md)
 
 [Watch the related workshop video](personal-video-06.en.md)
+
+[Armiya sanding a ring · video 07](personal-video-07.en.md)

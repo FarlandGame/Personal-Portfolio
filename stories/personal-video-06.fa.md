@@ -13,3 +13,5 @@
 [عکس مرتبط از انگشترسازی · ۰۸۹](personal-089.fa.md)
 
 [Video stories](videos.md)
+
+[ارمیا در حال سنباده‌زدن انگشتر · ویدئوی ۰۷](personal-video-07.fa.md)

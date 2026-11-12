@@ -7,3 +7,5 @@
 [All stories](README.md)
 
 [関連する工房の動画を見る](personal-video-06.ja.md)
+
+[指輪を研磨するArmiya · 動画07](personal-video-07.ja.md)

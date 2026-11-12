@@ -3201,7 +3201,15 @@
       "poster": "images/personal-video-07.jpg",
       "published_path": "videos/personal-video-07.mp4",
       "published_bytes": 4434341,
-      "published_sha256": "2831ae710be203f849e9053c9b4d81409d30d50efa3e14176be168a90b8b4dba"
+      "published_sha256": "2831ae710be203f849e9053c9b4d81409d30d50efa3e14176be168a90b8b4dba",
+      "creator_context": "Bardiya films his twin brother Armiya sanding a ring at the same silver-jewellery/ring-making workshop shown in video06 and photo089.",
+      "filmed_by": "Bardiya Alizadeh / Farland_game",
+      "featured_person": "Armiya Alizadeh / ArmiyaFbix",
+      "related_stories": [
+        "personal-089",
+        "personal-video-06"
+      ],
+      "related_video": "personal-video-06"
     },
     {
       "collection": "personal",
@@ -3459,7 +3467,7 @@
     }
   ],
   "video_story_status": {
-    "recorded": 6,
+    "recorded": 7,
     "total": 12,
     "languages": [
       "en",

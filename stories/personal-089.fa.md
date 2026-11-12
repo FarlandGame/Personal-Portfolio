@@ -7,3 +7,5 @@
 [All stories](README.md)
 
 [دیدن ویدئوی مرتبط از کارگاه](personal-video-06.fa.md)
+
+[ارمیا در حال سنباده‌زدن انگشتر · ویدئوی ۰۷](personal-video-07.fa.md)

@@ -13,3 +13,5 @@ It belongs with photo 089, which shows me working during that learning experienc
 [Related ring-making photo · 089](personal-089.en.md)
 
 [Video stories](videos.md)
+
+[Armiya sanding a ring · video 07](personal-video-07.en.md)
