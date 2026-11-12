@@ -2392,8 +2392,11 @@
       "published_path": "videos/personal-video-01.mp4",
       "published_bytes": 2509879,
       "published_sha256": "a7c91be64a66741a5ebf32753eef06c87e048c21e12474ff04b06b5066f635e1",
-      "creator_context": "Creator confirms his first video edit of himself, edited by himself; pleased with result. Specific software and date not stated.",
-      "edited_by": "Bardiya Alizadeh / Farland_game"
+      "creator_context": "Creator confirms his first self-edited video of himself; an earlier AI-editing test is personal-video-02. Specific software and date not stated.",
+      "edited_by": "Bardiya Alizadeh / Farland_game",
+      "created_after": [
+        "personal-video-02"
+      ]
     },
     {
       "collection": "personal",
@@ -2437,7 +2440,12 @@
       "poster": "images/personal-video-02.jpg",
       "published_path": "videos/personal-video-02.mp4",
       "published_bytes": 2607535,
-      "published_sha256": "df50c913a106202e7eec5a3dae430916e44063cb38b7b2c63fdb5c88615fb539"
+      "published_sha256": "df50c913a106202e7eec5a3dae430916e44063cb38b7b2c63fdb5c88615fb539",
+      "creator_context": "AI-edited test made before personal-video-01. Specific AI tool and date not stated.",
+      "edited_by": "AI (specific tool not stated)",
+      "created_before": [
+        "personal-video-01"
+      ]
     },
     {
       "collection": "personal",
@@ -3431,7 +3439,7 @@
     }
   ],
   "video_story_status": {
-    "recorded": 1,
+    "recorded": 2,
     "total": 12,
     "languages": [
       "en",
