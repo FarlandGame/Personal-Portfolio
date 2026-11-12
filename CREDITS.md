@@ -4,7 +4,7 @@ Archive supplied by **Bardiya Alizadeh (Kabir), Farland_game**. Contains persona
 
 THE APEX is a Minecraft story-server project in progress, as described by the creator. Its short animation and supplied artwork are shown here; no public launch is claimed. The Roblox folder contains eleven exact SHA-256 matches to the already published collection, linked in catalogue.json.
 
-The user explicitly chose full-frame resized image copies (maximum 2048px) and complete-duration recompressed video copies fitting within 1920×1080. Source SHA-256 hashes and viewing-copy hashes are retained in catalogue.json. Original source files remain on the creator’s desktop. Images retain their full frame except personal-008, personal-088 and personal-103, whose phone screenshot borders were cropped at the creator’s request without altering the retained photograph pixels. No facial retouching was applied; EXIF location and other metadata are omitted from JPEG viewing copies.
+The user explicitly chose full-frame resized image copies (maximum 2048px) and complete-duration recompressed video copies fitting within 1920×1080. Source SHA-256 hashes and viewing-copy hashes are retained in catalogue.json. Original source files remain on the creator’s desktop. Images retain their full frame except personal-008, personal-042, personal-088 and personal-103, whose phone screenshot borders or unrelated surrounding page content were cropped at the creator’s request without altering the retained photograph pixels. No facial retouching was applied; EXIF location and other metadata are omitted from JPEG viewing copies.
 
 Shared for viewing and download; no open-source or remix license is granted. GoldBrain’s MIT software license does not cover this archive. For reuse, contact the creator.
 

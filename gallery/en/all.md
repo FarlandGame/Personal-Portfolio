@@ -6,7 +6,7 @@ Catalogue order is not confirmed chronological order. Exact dates, ages and the 
 
 **Viewing copies: images resized to at most 2048 px with the full frame retained; complete-duration videos recompressed to fit within 1920×1080. Original desktop files remain unchanged.**
 
-Images personal-008, personal-088 and personal-103 are exceptions: phone-screen margins were cropped at the creator’s request; the retained photograph pixels were not retouched.
+Images personal-008, personal-042, personal-088 and personal-103 are exceptions: phone-screen margins or unrelated surrounding page content were cropped at the creator’s request; the retained photograph pixels were not retouched.
 
 ## personal-001 · Portrait edits
 
@@ -468,9 +468,9 @@ I saved this screenshot when I was seeing my book appear on websites around its 
 
 ## personal-042 · Book memories
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-042.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-042.jpg" width="650" alt="personal-042 · Book memories" loading="lazy"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-042.png"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-042.png" width="650" alt="personal-042 · Book memories" loading="lazy"></a>
 
-[View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-042.jpg)
+[View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-042.png)
 
 This is another screenshot from the period when I was seeing my book featured online. It belongs to the same memory as photograph personal-041. I remember Digikala promoting the book around publication, and I saved these screenshots as a record of seeing it introduced on websites.
 

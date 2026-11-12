@@ -6,7 +6,7 @@
 
 **閲覧用コピー：画像は全体の構図を保ち長辺最大2048pxに縮小、動画は全編を保ち1920×1080以内に再圧縮しています。デスクトップの元ファイルは変更していません。**
 
-personal-008、personal-088とpersonal-103は例外です。作者の希望で画面の余白を切り取り、写真自体の画素はレタッチせず残しています。
+personal-008、personal-042、personal-088とpersonal-103は例外です。作者の希望で画面の余白や周囲の無関係な記事を切り取り、写真自体の画素はレタッチせず残しています。
 
 ## personal-001 · ポートレート編集
 
@@ -468,9 +468,9 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 
 ## personal-042 · 本の思い出
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-042.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-042.jpg" width="650" alt="personal-042 · 本の思い出" loading="lazy"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-042.png"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-042.png" width="650" alt="personal-042 · 本の思い出" loading="lazy"></a>
 
-[表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-042.jpg)
+[表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-042.png)
 
 自分の本がウェブ上で紹介されているのを見かけた頃の、もう1枚のスクリーンショットです。写真personal-041と同じ思い出に関係しています。出版の頃、Digikalaが本を紹介・宣伝していたと覚えていて、ウェブサイトに載った記録として保存していました。
 

@@ -18,7 +18,7 @@ Gestileerde en samengestelde portretten en grappige fantasietaferelen zijn creat
 
 **Viewing copies: images resized to at most 2048 px with the full frame retained; complete-duration videos recompressed to fit within 1920×1080. Original desktop files remain unchanged.**
 
-Images personal-008, personal-088 and personal-103 are exceptions: phone-screen margins were cropped at the creator’s request; the retained photograph pixels were not retouched.
+Images personal-008, personal-042, personal-088 and personal-103 are exceptions: phone-screen margins or unrelated surrounding page content were cropped at the creator’s request; the retained photograph pixels were not retouched.
 
 - [Persoonlijke en familieherinneringen](https://farlandgame.github.io/Personal-Portfolio/#category-memories) · 85 📸 · 6 🎬
 - [Portretbewerkingen](https://farlandgame.github.io/Personal-Portfolio/#category-portraits) · 36 📸 · 5 🎬

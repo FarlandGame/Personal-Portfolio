@@ -913,14 +913,20 @@
         1600
       ],
       "published_size": [
-        720,
-        1600
+        640,
+        1016
       ],
       "category": "book",
-      "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
-      "published_path": "images/personal-042.jpg",
-      "published_bytes": 102795,
-      "published_sha256": "574b41eb4e47843bfd64a77b5d46d29f6ff994417c13c6b2bbb875776e152a70"
+      "processing": "Creator-requested exact crop retaining only the book advertisement, removing unrelated surrounding webpage text, other advertising and phone interface; lossless PNG with no text rewriting or pixel retouching.",
+      "published_path": "images/personal-042.png",
+      "published_bytes": 229377,
+      "published_sha256": "a236011c74b63746e09040f188894cd3682e74cc1bc5937339336d4862272dcf",
+      "crop_box_source_pixels": [
+        40,
+        346,
+        680,
+        1362
+      ]
     },
     {
       "collection": "personal",

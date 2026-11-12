@@ -6,7 +6,7 @@
 
 **نسخه‌های نمایشی: عکس‌ها با حفظ تمام کادر تا ۲۰۴۸ پیکسل تغییر اندازه یافته‌اند؛ ویدئوها بدون کوتاه‌کردن، در کادر حداکثر ۱۹۲۰×۱۰۸۰ بازفشرده شده‌اند. فایل‌های اصلی دسکتاپ دست‌نخورده‌اند.**
 
-عکس‌های ۰۰۸، ۰۸۸ و ۱۰۳ استثنا هستند: به درخواست سازنده، حاشیه‌های صفحهٔ گوشی برش خورده‌اند و پیکسل‌های داخل خود عکس‌ها بدون روتوش حفظ شده‌اند.
+عکس‌های ۰۰۸، ۰۴۲، ۰۸۸ و ۱۰۳ استثنا هستند: به درخواست سازنده، حاشیه‌های صفحهٔ گوشی یا مطالب نامربوطِ اطراف عکس برش خورده‌اند و پیکسل‌های داخل خود عکس‌ها بدون روتوش حفظ شده‌اند.
 
 ## personal-001 · ادیت‌های پرتره
 
@@ -468,9 +468,9 @@
 
 ## personal-042 · خاطرات کتاب
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-042.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-042.jpg" width="650" alt="personal-042 · خاطرات کتاب" loading="lazy"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-042.png"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-042.png" width="650" alt="personal-042 · خاطرات کتاب" loading="lazy"></a>
 
-[دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-042.jpg)
+[دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-042.png)
 
 این هم اسکرین‌شات دیگری از زمانی است که کتابم را در وب و میان معرفی‌ها و تبلیغات می‌دیدم؛ مربوط به همان خاطرهٔ عکس ۰۴۱ است. به یادم، دیجی‌کالا هنگام انتشار کتاب آن را معرفی و تبلیغ می‌کرد و من این تصویرها را به‌عنوان یادگاریِ دیده‌شدن کتاب در سایت‌ها نگه داشتم.
 

@@ -6,7 +6,7 @@
 
 **Viewing copies: images resized to at most 2048 px with the full frame retained; complete-duration videos recompressed to fit within 1920×1080. Original desktop files remain unchanged.**
 
-Images personal-008, personal-088 and personal-103 are exceptions: phone-screen margins were cropped at the creator’s request; the retained photograph pixels were not retouched.
+Images personal-008, personal-042, personal-088 and personal-103 are exceptions: phone-screen margins or unrelated surrounding page content were cropped at the creator’s request; the retained photograph pixels were not retouched.
 
 ## personal-001 · Обработанные портреты
 
@@ -256,9 +256,9 @@ Images personal-008, personal-088 and personal-103 are exceptions: phone-screen 
 
 ## personal-042 · Воспоминания о книге
 
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-042.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-042.jpg" width="650" alt="personal-042 · Воспоминания о книге" loading="lazy"></a>
+<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-042.png"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-042.png" width="650" alt="personal-042 · Воспоминания о книге" loading="lazy"></a>
 
-[Посмотреть / скачать](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-042.jpg)
+[Посмотреть / скачать](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-042.png)
 
 ## personal-043 · Личные и семейные воспоминания
 
