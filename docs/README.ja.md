@@ -1,9 +1,9 @@
 # 私の物語 — Farland_gameの素顔、Kabir 📸🎬
 
 <!-- PROJECT_VISUAL_HEADER -->
-<p><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/assets/showcase-card.svg" width="600" alt="personal"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/assets/showcase-sticker.svg" width="90" alt="personal sticker"></p>
+<p><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/assets/showcase-card.ja.svg" width="600" alt="私の物語 · 写真と動画"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/assets/showcase-sticker.ja.svg" width="90" alt="私の物語 · 写真と動画"></p>
 
-[← Farland_game / Portfolio](https://github.com/FarlandGame#portfolio-directory)
+[← Farland_game / ポートフォリオ](https://github.com/FarlandGame#portfolio-directory)
 <!-- PROJECT_VISUAL_HEADER_END -->
 
 **Bardiya Alizadeh · Kabir · Farland_game**
@@ -16,7 +16,7 @@ Bardiya Alizadeh、愛称Kabir、活動名Farland_gameです。このアーカ�
 
 > クエスト一覧に、ついにコントローラーを持っている本人も登場！ 🎮📸
 
-<p><a href="https://farlandgame.github.io/Personal-Portfolio/?lang=ja#personal-057"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-057.jpg" width="230" alt="personal-057"></a> <a href="https://farlandgame.github.io/Personal-Portfolio/?lang=ja#personal-096"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-096.jpg" width="230" alt="personal-096"></a> <a href="https://farlandgame.github.io/Personal-Portfolio/?lang=ja#personal-025"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-025.jpg" width="230" alt="personal-025"></a> <a href="https://farlandgame.github.io/Personal-Portfolio/?lang=ja#personal-108"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-108.jpg" width="230" alt="personal-108"></a> </p>
+<p><a href="https://farlandgame.github.io/Personal-Portfolio/?lang=ja#personal-057"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-057.jpg" width="230" alt="personal-057"></a> <a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/assets/section-covers/the-apex-color.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-color.png" width="230" alt="THE APEX カラーポスター"></a> <a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/assets/section-covers/the-apex-neon.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-neon.png" width="230" alt="THE APEX ネオンポスター"></a> <a href="https://farlandgame.github.io/Personal-Portfolio/?lang=ja#personal-025"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-025.jpg" width="230" alt="personal-025"></a> <a href="https://farlandgame.github.io/Personal-Portfolio/?lang=ja#personal-108"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-108.jpg" width="230" alt="personal-108"></a> </p>
 
 カタログの順番は、確認済みの時系列ではありません。正確な日付、年齢、人物については、制作者から説明があった場合に記録します。
 

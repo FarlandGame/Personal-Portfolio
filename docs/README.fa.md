@@ -1,9 +1,9 @@
 # داستان من؛ کبیر پشت نام Farland_game 📸🎬
 
 <!-- PROJECT_VISUAL_HEADER -->
-<p><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/assets/showcase-card.svg" width="600" alt="personal"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/assets/showcase-sticker.svg" width="90" alt="personal sticker"></p>
+<p><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/assets/showcase-card.fa.svg" width="600" alt="داستان من · عکس‌ها و ویدئوها"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/assets/showcase-sticker.fa.svg" width="90" alt="داستان من · عکس‌ها و ویدئوها"></p>
 
-[← Farland_game / Portfolio](https://github.com/FarlandGame#portfolio-directory)
+[← Farland_game / رزومه](https://github.com/FarlandGame#portfolio-directory)
 <!-- PROJECT_VISUAL_HEADER_END -->
 
 **Bardiya Alizadeh · Kabir · Farland_game**
@@ -16,7 +16,7 @@
 
 > بالاخره در فهرست مأموریت‌ها، خودِ کسی که دستهٔ بازی دستش است هم پیدا شد! 🎮📸
 
-<p><a href="https://farlandgame.github.io/Personal-Portfolio/?lang=fa#personal-057"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-057.jpg" width="230" alt="personal-057"></a> <a href="https://farlandgame.github.io/Personal-Portfolio/?lang=fa#personal-096"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-096.jpg" width="230" alt="personal-096"></a> <a href="https://farlandgame.github.io/Personal-Portfolio/?lang=fa#personal-025"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-025.jpg" width="230" alt="personal-025"></a> <a href="https://farlandgame.github.io/Personal-Portfolio/?lang=fa#personal-108"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-108.jpg" width="230" alt="personal-108"></a> </p>
+<p><a href="https://farlandgame.github.io/Personal-Portfolio/?lang=fa#personal-057"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-057.jpg" width="230" alt="personal-057"></a> <a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/assets/section-covers/the-apex-color.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-color.png" width="230" alt="پوستر رنگی THE APEX"></a> <a href="https://github.com/FarlandGame/Animation-Portfolio/blob/main/assets/section-covers/the-apex-neon.png"><img src="https://raw.githubusercontent.com/FarlandGame/Animation-Portfolio/main/assets/section-covers/the-apex-neon.png" width="230" alt="پوستر نئونی THE APEX"></a> <a href="https://farlandgame.github.io/Personal-Portfolio/?lang=fa#personal-025"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-025.jpg" width="230" alt="personal-025"></a> <a href="https://farlandgame.github.io/Personal-Portfolio/?lang=fa#personal-108"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-108.jpg" width="230" alt="personal-108"></a> </p>
 
 ترتیب فهرست، ترتیب زمانیِ تأییدشده نیست. تاریخ دقیق، سن و هویت افراد فقط با توضیح خود سازنده ثبت می‌شود.
 
