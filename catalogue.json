@@ -2,31 +2,9 @@
   "creator": "Bardiya Alizadeh (Kabir) / Farland_game",
   "ordering": "Catalogue order; chronology unconfirmed.",
   "processing_authorized": "User-selected complete, resized/recompressed viewing copies. Originals retained privately.",
-  "images": 136,
+  "images": 134,
   "videos": 12,
   "media": [
-    {
-      "collection": "personal",
-      "source_name": "03-iran-lion-sun.png",
-      "bytes": 2009883,
-      "sha256": "f3e5a991fef5a70d35e3e4d2e74c339e6199365c07c994c3cc1e3b7fbf9c57d6",
-      "type": "image",
-      "id": "personal-001",
-      "size": [
-        1672,
-        941
-      ],
-      "published_size": [
-        1672,
-        941
-      ],
-      "category": "portraits",
-      "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
-      "published_path": "images/personal-001.jpg",
-      "published_bytes": 189234,
-      "published_sha256": "d253b4170f64b36ead9884c4290fbfc7f256ad3e4e5bc58218926ae30233b25d",
-      "related_video": "personal-video-12"
-    },
     {
       "collection": "personal",
       "source_name": "04.png",
@@ -2007,28 +1985,6 @@
     },
     {
       "collection": "personal",
-      "source_name": "1793888348853.jpg",
-      "bytes": 51216,
-      "sha256": "615ab573016a3281e1e926d7764f80d873e9302befee16c2b5e0dfc52e11d7a3",
-      "type": "image",
-      "id": "personal-095",
-      "size": [
-        799,
-        798
-      ],
-      "published_size": [
-        799,
-        798
-      ],
-      "category": "memories",
-      "processing": "Full-frame viewing copy, EXIF orientation corrected, maximum 2048 px, JPEG quality 88; metadata omitted; no cropping or face retouching.",
-      "published_path": "images/personal-095.jpg",
-      "published_bytes": 58784,
-      "published_sha256": "85dd887880ae4260784b337c670f1b5ff08a083fd1a094e7a230b882f68c1391",
-      "subject_reported": "Creator’s pet duck, not a budgie."
-    },
-    {
-      "collection": "personal",
       "source_name": "1793888348889.jpg",
       "bytes": 747018,
       "sha256": "1705e9de04305dbb62a30de7c96a3c88a2a19292562ea9e471b5751d119031ac",
@@ -3401,7 +3357,6 @@
       "poster": "images/personal-video-12.jpg",
       "processing": "Complete-duration H.264/AAC viewing copy, fit within 1920×1080 without upscaling, CRF23, no intentional cuts.",
       "associated_images": [
-        "personal-001",
         "personal-002",
         "personal-003",
         "personal-004"
@@ -3413,7 +3368,6 @@
         "Multiple AI video tools (not individually specified)"
       ],
       "related_stories": [
-        "personal-001",
         "personal-002",
         "personal-003",
         "personal-004",
@@ -3489,7 +3443,7 @@
       "download_url": "https://github.com/FarlandGame/Animation-Portfolio/releases/download/roblox-collection/RobloxEdit4.mp4"
     }
   ],
-  "story_status": "Creator-supplied stories recorded for all 136 published images, in English, Persian and Japanese. Uncertain details remain identified as recollections.",
+  "story_status": "Creator-supplied stories recorded for all 134 published images, in English, Persian and Japanese. Uncertain details remain identified as recollections.",
   "excluded_images": [
     {
       "id": "personal-046",
@@ -3506,6 +3460,14 @@
     {
       "id": "personal-131",
       "reason": "Removed at creator request."
+    },
+    {
+      "id": "personal-001",
+      "reason": "Withdrawn at creator request."
+    },
+    {
+      "id": "personal-095",
+      "reason": "Withdrawn at creator request."
     }
   ],
   "video_story_status": {

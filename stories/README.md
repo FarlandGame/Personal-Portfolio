@@ -1,10 +1,9 @@
-# Photo stories — 136 of 136 recorded
+# Photo stories — 134 of 134 recorded
 
-All 136 published images have creator-supplied stories in English, Persian and Japanese. Memories, creative edits and project artwork are described in the creator’s own account. Uncertain dates and details remain marked as recollections.
+All 134 published images have creator-supplied stories in English, Persian and Japanese. Memories, creative edits and project artwork are described in the creator’s own account. Uncertain dates and details remain marked as recollections.
 
-داستان همهٔ 136 عکس منتشرشده به انگلیسی، فارسی و ژاپنی ثبت شده است. 📸 / 公開画像全136点について、作者本人のエピソードを英語・ペルシャ語・日本語で掲載しています。📸
+داستان همهٔ 134 عکس منتشرشده به انگلیسی، فارسی و ژاپنی ثبت شده است. 📸 / 公開画像全134点について、作者本人のエピソードを英語・ペルシャ語・日本語で掲載しています。📸
 
-- [x] personal-001 · [English](personal-001.en.md) · [فارسی](personal-001.fa.md) · [日本語](personal-001.ja.md)
 - [x] personal-002 · [English](personal-002.en.md) · [فارسی](personal-002.fa.md) · [日本語](personal-002.ja.md)
 - [x] personal-003 · [English](personal-003.en.md) · [فارسی](personal-003.fa.md) · [日本語](personal-003.ja.md)
 - [x] personal-004 · [English](personal-004.en.md) · [فارسی](personal-004.fa.md) · [日本語](personal-004.ja.md)
@@ -96,7 +95,6 @@ All 136 published images have creator-supplied stories in English, Persian and J
 - [x] personal-092 · [English](personal-092.en.md) · [فارسی](personal-092.fa.md) · [日本語](personal-092.ja.md)
 - [x] personal-093 · [English](personal-093.en.md) · [فارسی](personal-093.fa.md) · [日本語](personal-093.ja.md)
 - [x] personal-094 · [English](personal-094.en.md) · [فارسی](personal-094.fa.md) · [日本語](personal-094.ja.md)
-- [x] personal-095 · [English](personal-095.en.md) · [فارسی](personal-095.fa.md) · [日本語](personal-095.ja.md)
 - [x] personal-096 · [English](personal-096.en.md) · [فارسی](personal-096.fa.md) · [日本語](personal-096.ja.md)
 - [x] personal-097 · [English](personal-097.en.md) · [فارسی](personal-097.fa.md) · [日本語](personal-097.ja.md)
 - [x] personal-098 · [English](personal-098.en.md) · [فارسی](personal-098.fa.md) · [日本語](personal-098.ja.md)

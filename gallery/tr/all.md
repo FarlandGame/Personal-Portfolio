@@ -1,4 +1,4 @@
-# 136 görselin tamamı 📸
+# 134 görselin tamamı 📸
 
 [GitHub portfolyosu](https://github.com/FarlandGame) · [Kişisel arşivim — Farland_game’in ardındaki Kabir](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.tr.md) · [▶ Fotoğraflar ve görsel çalışmalar + Videolar ve düzenlemeler](https://farlandgame.github.io/Personal-Portfolio/)
 
@@ -7,12 +7,6 @@
 **Viewing copies: images resized to at most 2048 px with the full frame retained; complete-duration videos recompressed to fit within 1920×1080. Original desktop files remain unchanged.**
 
 Images personal-008, personal-042, personal-088 and personal-103 are exceptions: phone-screen margins or unrelated surrounding page content were cropped at the creator’s request; the retained photograph pixels were not retouched.
-
-## personal-001 · Portre düzenlemeleri
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-001.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-001.jpg" width="650" alt="personal-001 · Portre düzenlemeleri" loading="lazy"></a>
-
-[Görüntüle / indir](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-001.jpg)
 
 ## personal-002 · Portre düzenlemeleri
 
@@ -559,12 +553,6 @@ Images personal-008, personal-042, personal-088 and personal-103 are exceptions:
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-094.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-094.jpg" width="650" alt="personal-094 · Kişisel anılar ve aile anıları" loading="lazy"></a>
 
 [Görüntüle / indir](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-094.jpg)
-
-## personal-095 · Kişisel anılar ve aile anıları
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-095.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-095.jpg" width="650" alt="personal-095 · Kişisel anılar ve aile anıları" loading="lazy"></a>
-
-[Görüntüle / indir](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-095.jpg)
 
 ## personal-096 · THE APEX
 

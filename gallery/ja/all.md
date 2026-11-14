@@ -1,4 +1,4 @@
-# 画像136点すべて 📸
+# 画像134点すべて 📸
 
 [GitHubポートフォリオ](https://github.com/FarlandGame) · [私の物語 — Farland_gameの素顔、Kabir](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.ja.md) · [▶ 写真と画像作品 + 動画と編集作品](https://farlandgame.github.io/Personal-Portfolio/?lang=ja)
 
@@ -8,22 +8,13 @@
 
 personal-008、personal-042、personal-088とpersonal-103は例外です。作者の希望で画面の余白や周囲の無関係な記事を切り取り、写真自体の画素はレタッチせず残しています。
 
-## personal-001 · ポートレート編集
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-001.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-001.jpg" width="650" alt="personal-001 · ポートレート編集" loading="lazy"></a>
-
-[表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-001.jpg)
-
-この画像は、PhotoshopとAIを使って制作した、自分を主題にした映像作品の一場面です。参考にしたのはドラマ『ベター・コール・ソウル』のある場面と、私が憧れ、手本にしているソウル・グッドマンという人物でした。自分の映像を作りたかったのですが、撮影に使えるカメラも予算もありませんでした。そこで複数のAI動画ツールを使い、およそ2週間かけて作品を作りました。この4枚は、その作品の場面に関する画像です。
-
-
 ## personal-002 · ポートレート編集
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-002.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-002.jpg" width="650" alt="personal-002 · ポートレート編集" loading="lazy"></a>
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-002.jpg)
 
-この画像は、PhotoshopとAIを使って制作した、自分を主題にした映像作品の一場面です。参考にしたのはドラマ『ベター・コール・ソウル』のある場面と、私が憧れ、手本にしているソウル・グッドマンという人物でした。自分の映像を作りたかったのですが、撮影に使えるカメラも予算もありませんでした。そこで複数のAI動画ツールを使い、およそ2週間かけて作品を作りました。この4枚は、その作品の場面に関する画像です。
+この画像は、PhotoshopとAIを使って制作した、自分を主題にした映像作品の一場面です。参考にしたのはドラマ『ベター・コール・ソウル』のある場面と、私が憧れ、手本にしているソウル・グッドマンという人物でした。自分の映像を作りたかったのですが、撮影に使えるカメラも予算もありませんでした。そこで複数のAI動画ツールを使い、およそ2週間かけて作品を作りました。これらの画像は、その作品の場面に関する画像です。
 
 
 ## personal-003 · ポートレート編集
@@ -32,7 +23,7 @@ personal-008、personal-042、personal-088とpersonal-103は例外です。作�
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-003.jpg)
 
-この画像は、PhotoshopとAIを使って制作した、自分を主題にした映像作品の一場面です。参考にしたのはドラマ『ベター・コール・ソウル』のある場面と、私が憧れ、手本にしているソウル・グッドマンという人物でした。自分の映像を作りたかったのですが、撮影に使えるカメラも予算もありませんでした。そこで複数のAI動画ツールを使い、およそ2週間かけて作品を作りました。この4枚は、その作品の場面に関する画像です。
+この画像は、PhotoshopとAIを使って制作した、自分を主題にした映像作品の一場面です。参考にしたのはドラマ『ベター・コール・ソウル』のある場面と、私が憧れ、手本にしているソウル・グッドマンという人物でした。自分の映像を作りたかったのですが、撮影に使えるカメラも予算もありませんでした。そこで複数のAI動画ツールを使い、およそ2週間かけて作品を作りました。これらの画像は、その作品の場面に関する画像です。
 
 
 ## personal-004 · ポートレート編集
@@ -41,7 +32,7 @@ personal-008、personal-042、personal-088とpersonal-103は例外です。作�
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-004.jpg)
 
-この画像は、PhotoshopとAIを使って制作した、自分を主題にした映像作品の一場面です。参考にしたのはドラマ『ベター・コール・ソウル』のある場面と、私が憧れ、手本にしているソウル・グッドマンという人物でした。自分の映像を作りたかったのですが、撮影に使えるカメラも予算もありませんでした。そこで複数のAI動画ツールを使い、およそ2週間かけて作品を作りました。この4枚は、その作品の場面に関する画像です。
+この画像は、PhotoshopとAIを使って制作した、自分を主題にした映像作品の一場面です。参考にしたのはドラマ『ベター・コール・ソウル』のある場面と、私が憧れ、手本にしているソウル・グッドマンという人物でした。自分の映像を作りたかったのですが、撮影に使えるカメラも予算もありませんでした。そこで複数のAI動画ツールを使い、およそ2週間かけて作品を作りました。これらの画像は、その作品の場面に関する画像です。
 
 
 ## personal-005 · THE APEX
@@ -954,15 +945,6 @@ MinecraftのストーリーサーバープロジェクトTHE APEXで協力する
 この写真では、双子の弟Armiyaが同じスピーチ講座でTaha Bamshadと自撮りをしています。2人ともイラン暦1403年の夏の講座に通い、これはArmiyaと講師の思い出の1枚です。
 
 
-## personal-095 · 個人と家族の思い出
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-095.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-095.jpg" width="650" alt="personal-095 · 個人と家族の思い出" loading="lazy"></a>
-
-[表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-095.jpg)
-
-これは、私がとてもかわいがっていたペットのアヒルの写真です。祖母Azizの家で猫に捕まり、亡くなってしまいました。大好きだったペットの思い出として、この写真を残しています。
-
-
 ## personal-096 · THE APEX
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-096.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-096.jpg" width="650" alt="personal-096 · THE APEX" loading="lazy"></a>
@@ -1109,7 +1091,7 @@ THE APEXという名前は、Alivexorとして活動するAli Dehghannejadと私
 
 [表示・ダウンロード](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-111.jpg)
 
-これは、『ベター・コール・ソウル』に着想を得た映像作品のために、AIとPhotoshopを使って作った自分の画像です。画像personal-001〜004、映像personal-video-12と同じ制作プロジェクトのものです。
+これは、『ベター・コール・ソウル』に着想を得た映像作品のために、AIとPhotoshopを使って作った自分の画像です。画像personal-002〜004、映像personal-video-12と同じ制作プロジェクトのものです。
 
 
 ## personal-112 · ポートレート編集

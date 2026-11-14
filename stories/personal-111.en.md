@@ -2,7 +2,7 @@
 
 ![personal-111](../images/personal-111.jpg)
 
-I made this image of myself with AI and Photoshop for the video project inspired by Better Call Saul. It belongs to the same creative project as images personal-001 to personal-004 and the film personal-video-12.
+I made this image of myself with AI and Photoshop for the video project inspired by Better Call Saul. It belongs to the same creative project as images personal-002 to personal-004 and the film personal-video-12.
 
 [All stories](README.md)
 

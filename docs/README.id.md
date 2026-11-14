@@ -10,9 +10,9 @@
 
 [English](https://github.com/FarlandGame/Personal-Portfolio/blob/main/README.md) · [日本語](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.ja.md) · [فارسی](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.fa.md) · [Deutsch](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.de.md) · [Français](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.fr.md) · [Español](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.es.md) · [Português (Brasil)](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.pt-BR.md) · [Italiano](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.it.md) · [Nederlands](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.nl.md) · [Polski](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.pl.md) · [Українська](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.uk.md) · [Türkçe](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.tr.md) · [Русский](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.ru.md) · [简体中文](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.zh-CN.md) · [繁體中文](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.zh-TW.md) · [한국어](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.ko.md) · [हिन्दी](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.hi.md) · [Bahasa Indonesia](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.id.md)
 
-Saya Bardiya Alizadeh, juga dikenal sebagai Kabir, seniman yang berkarya dengan nama Farland_game. Di sini saya membagikan 136 gambar dan 12 video dari arsip pribadi di Desktop: kenangan masa kecil dan keluarga, momen bersama teman, foto seputar promosi dan apresiasi terhadap buku saya, serta potret dan suntingan kreatif. Ada juga karya visual untuk THE APEX, server cerita Minecraft saya yang masih dikembangkan, dan satu animasi berdurasi 11,67 detik. Senang bisa berbagi sisi yang lebih pribadi dari dunia kreatif saya.
+Saya Bardiya Alizadeh, juga dikenal sebagai Kabir, seniman yang berkarya dengan nama Farland_game. Di sini saya membagikan 134 gambar dan 12 video dari arsip pribadi di Desktop: kenangan masa kecil dan keluarga, momen bersama teman, foto seputar promosi dan apresiasi terhadap buku saya, serta potret dan suntingan kreatif. Ada juga karya visual untuk THE APEX, server cerita Minecraft saya yang masih dikembangkan, dan satu animasi berdurasi 11,67 detik. Senang bisa berbagi sisi yang lebih pribadi dari dunia kreatif saya.
 
-[▶ Foto dan karya visual + Video dan suntingan](https://farlandgame.github.io/Personal-Portfolio/) · [Semua 136 gambar](https://github.com/FarlandGame/Personal-Portfolio/blob/main/gallery/id/all.md) · [Portofolio GitHub](https://github.com/FarlandGame)
+[▶ Foto dan karya visual + Video dan suntingan](https://farlandgame.github.io/Personal-Portfolio/) · [Semua 134 gambar](https://github.com/FarlandGame/Personal-Portfolio/blob/main/gallery/id/all.md) · [Portofolio GitHub](https://github.com/FarlandGame)
 
 > Catatan misi saya akhirnya juga memuat orang yang memegang kontroler.
 
@@ -26,8 +26,8 @@ Potret bergaya atau komposit dan adegan fantasi jenaka merupakan karya kreatif, 
 
 Images personal-008, personal-042, personal-088 and personal-103 are exceptions: phone-screen margins or unrelated surrounding page content were cropped at the creator’s request; the retained photograph pixels were not retouched.
 
-- [Kenangan pribadi dan keluarga](https://farlandgame.github.io/Personal-Portfolio/#category-memories) · 84 📸 · 5 🎬
-- [Suntingan potret](https://farlandgame.github.io/Personal-Portfolio/#category-portraits) · 35 📸 · 5 🎬
+- [Kenangan pribadi dan keluarga](https://farlandgame.github.io/Personal-Portfolio/#category-memories) · 83 📸 · 5 🎬
+- [Suntingan potret](https://farlandgame.github.io/Personal-Portfolio/#category-portraits) · 34 📸 · 5 🎬
 - [Kenangan seputar buku](https://farlandgame.github.io/Personal-Portfolio/#category-book) · 10 📸 · 1 🎬
 - [THE APEX](https://farlandgame.github.io/Personal-Portfolio/#category-apex) · 7 📸 · 1 🎬
 

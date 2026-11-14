@@ -1,4 +1,4 @@
-# Alle 136 Bilder 📸
+# Alle 134 Bilder 📸
 
 [GitHub-Portfolio](https://github.com/FarlandGame) · [Mein persönliches Archiv — Kabir hinter Farland_game](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.de.md) · [▶ Fotos und Bildkunst + Videos und Bearbeitungen](https://farlandgame.github.io/Personal-Portfolio/)
 
@@ -7,12 +7,6 @@ Die Reihenfolge folgt dem Katalog und ist keine bestätigte zeitliche Abfolge.
 **Viewing copies: images resized to at most 2048 px with the full frame retained; complete-duration videos recompressed to fit within 1920×1080. Original desktop files remain unchanged.**
 
 Images personal-008, personal-042, personal-088 and personal-103 are exceptions: phone-screen margins or unrelated surrounding page content were cropped at the creator’s request; the retained photograph pixels were not retouched.
-
-## personal-001 · Porträtbearbeitungen
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-001.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-001.jpg" width="650" alt="personal-001 · Porträtbearbeitungen" loading="lazy"></a>
-
-[Ansehen / herunterladen](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-001.jpg)
 
 ## personal-002 · Porträtbearbeitungen
 
@@ -559,12 +553,6 @@ Images personal-008, personal-042, personal-088 and personal-103 are exceptions:
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-094.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-094.jpg" width="650" alt="personal-094 · Persönliche und familiäre Erinnerungen" loading="lazy"></a>
 
 [Ansehen / herunterladen](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-094.jpg)
-
-## personal-095 · Persönliche und familiäre Erinnerungen
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-095.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-095.jpg" width="650" alt="personal-095 · Persönliche und familiäre Erinnerungen" loading="lazy"></a>
-
-[Ansehen / herunterladen](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-095.jpg)
 
 ## personal-096 · THE APEX
 

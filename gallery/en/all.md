@@ -1,4 +1,4 @@
-# All 136 images 📸
+# All 134 images 📸
 
 [GitHub portfolio](https://github.com/FarlandGame) · [My Story — Kabir behind Farland_game](https://github.com/FarlandGame/Personal-Portfolio/blob/main/README.md) · [▶ Photos & artwork + Videos & edits](https://farlandgame.github.io/Personal-Portfolio/)
 
@@ -8,22 +8,13 @@ Catalogue order is not confirmed chronological order. Exact dates, ages and the 
 
 Images personal-008, personal-042, personal-088 and personal-103 are exceptions: phone-screen margins or unrelated surrounding page content were cropped at the creator’s request; the retained photograph pixels were not retouched.
 
-## personal-001 · Portrait edits
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-001.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-001.jpg" width="650" alt="personal-001 · Portrait edits" loading="lazy"></a>
-
-[View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-001.jpg)
-
-This image belongs to a cinematic self-portrait project I made with Photoshop and AI. My reference was a scene from Better Call Saul and Saul Goodman, a character I admire and see as a role model. I wanted to make my own film, but I did not have a suitable camera or the budget to shoot it. Instead, I worked with several AI video tools and spent about two weeks bringing the film together. These four images represent scenes from that project.
-
-
 ## personal-002 · Portrait edits
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-002.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-002.jpg" width="650" alt="personal-002 · Portrait edits" loading="lazy"></a>
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-002.jpg)
 
-This image belongs to a cinematic self-portrait project I made with Photoshop and AI. My reference was a scene from Better Call Saul and Saul Goodman, a character I admire and see as a role model. I wanted to make my own film, but I did not have a suitable camera or the budget to shoot it. Instead, I worked with several AI video tools and spent about two weeks bringing the film together. These four images represent scenes from that project.
+This image belongs to a cinematic self-portrait project I made with Photoshop and AI. My reference was a scene from Better Call Saul and Saul Goodman, a character I admire and see as a role model. I wanted to make my own film, but I did not have a suitable camera or the budget to shoot it. Instead, I worked with several AI video tools and spent about two weeks bringing the film together. These images represent scenes from that project.
 
 
 ## personal-003 · Portrait edits
@@ -32,7 +23,7 @@ This image belongs to a cinematic self-portrait project I made with Photoshop an
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-003.jpg)
 
-This image belongs to a cinematic self-portrait project I made with Photoshop and AI. My reference was a scene from Better Call Saul and Saul Goodman, a character I admire and see as a role model. I wanted to make my own film, but I did not have a suitable camera or the budget to shoot it. Instead, I worked with several AI video tools and spent about two weeks bringing the film together. These four images represent scenes from that project.
+This image belongs to a cinematic self-portrait project I made with Photoshop and AI. My reference was a scene from Better Call Saul and Saul Goodman, a character I admire and see as a role model. I wanted to make my own film, but I did not have a suitable camera or the budget to shoot it. Instead, I worked with several AI video tools and spent about two weeks bringing the film together. These images represent scenes from that project.
 
 
 ## personal-004 · Portrait edits
@@ -41,7 +32,7 @@ This image belongs to a cinematic self-portrait project I made with Photoshop an
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-004.jpg)
 
-This image belongs to a cinematic self-portrait project I made with Photoshop and AI. My reference was a scene from Better Call Saul and Saul Goodman, a character I admire and see as a role model. I wanted to make my own film, but I did not have a suitable camera or the budget to shoot it. Instead, I worked with several AI video tools and spent about two weeks bringing the film together. These four images represent scenes from that project.
+This image belongs to a cinematic self-portrait project I made with Photoshop and AI. My reference was a scene from Better Call Saul and Saul Goodman, a character I admire and see as a role model. I wanted to make my own film, but I did not have a suitable camera or the budget to shoot it. Instead, I worked with several AI video tools and spent about two weeks bringing the film together. These images represent scenes from that project.
 
 
 ## personal-005 · THE APEX
@@ -954,15 +945,6 @@ This is a selfie of me with Taha Bamshad during the public-speaking course my tw
 In this photograph my twin brother Armiya is taking a selfie with Taha Bamshad at the same public-speaking course. We both attended the summer 1403 course, and this is Armiya’s keepsake with our instructor.
 
 
-## personal-095 · Personal & family memories
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-095.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-095.jpg" width="650" alt="personal-095 · Personal &amp; family memories" loading="lazy"></a>
-
-[View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-095.jpg)
-
-This is a photograph of my pet duck, which I was very fond of. I lost it when a cat caught it at my grandmother Aziz’s home. I kept this picture as a memory of a pet I loved.
-
-
 ## personal-096 · THE APEX
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-096.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-096.jpg" width="650" alt="personal-096 · THE APEX" loading="lazy"></a>
@@ -1109,7 +1091,7 @@ Among these images, personal-110 is my favourite because of its comic-like feeli
 
 [View / download](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-111.jpg)
 
-I made this image of myself with AI and Photoshop for the video project inspired by Better Call Saul. It belongs to the same creative project as images personal-001 to personal-004 and the film personal-video-12.
+I made this image of myself with AI and Photoshop for the video project inspired by Better Call Saul. It belongs to the same creative project as images personal-002 to personal-004 and the film personal-video-12.
 
 
 ## personal-112 · Portrait edits

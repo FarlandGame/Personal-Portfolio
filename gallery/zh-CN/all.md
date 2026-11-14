@@ -1,4 +1,4 @@
-# 全部 136 张图片 📸
+# 全部 134 张图片 📸
 
 [GitHub 作品集](https://github.com/FarlandGame) · [我的私人档案——Farland_game 背后的 Kabir](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.zh-CN.md) · [▶ 照片与美术作品 + 视频与编辑作品](https://farlandgame.github.io/Personal-Portfolio/)
 
@@ -7,12 +7,6 @@
 **Viewing copies: images resized to at most 2048 px with the full frame retained; complete-duration videos recompressed to fit within 1920×1080. Original desktop files remain unchanged.**
 
 Images personal-008, personal-042, personal-088 and personal-103 are exceptions: phone-screen margins or unrelated surrounding page content were cropped at the creator’s request; the retained photograph pixels were not retouched.
-
-## personal-001 · 肖像编辑作品
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-001.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-001.jpg" width="650" alt="personal-001 · 肖像编辑作品" loading="lazy"></a>
-
-[查看 / 下载](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-001.jpg)
 
 ## personal-002 · 肖像编辑作品
 
@@ -559,12 +553,6 @@ Images personal-008, personal-042, personal-088 and personal-103 are exceptions:
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-094.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-094.jpg" width="650" alt="personal-094 · 个人与家庭回忆" loading="lazy"></a>
 
 [查看 / 下载](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-094.jpg)
-
-## personal-095 · 个人与家庭回忆
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-095.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-095.jpg" width="650" alt="personal-095 · 个人与家庭回忆" loading="lazy"></a>
-
-[查看 / 下载](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-095.jpg)
 
 ## personal-096 · THE APEX
 

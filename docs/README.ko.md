@@ -10,9 +10,9 @@
 
 [English](https://github.com/FarlandGame/Personal-Portfolio/blob/main/README.md) · [日本語](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.ja.md) · [فارسی](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.fa.md) · [Deutsch](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.de.md) · [Français](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.fr.md) · [Español](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.es.md) · [Português (Brasil)](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.pt-BR.md) · [Italiano](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.it.md) · [Nederlands](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.nl.md) · [Polski](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.pl.md) · [Українська](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.uk.md) · [Türkçe](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.tr.md) · [Русский](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.ru.md) · [简体中文](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.zh-CN.md) · [繁體中文](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.zh-TW.md) · [한국어](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.ko.md) · [हिन्दी](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.hi.md) · [Bahasa Indonesia](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.id.md)
 
-저는 Kabir라는 이름으로도 알려진 Bardiya Alizadeh이며, Farland_game이라는 이름으로 창작하는 아티스트입니다. 개인 데스크톱 아카이브에서 이미지 136장과 영상 12편을 골라 공유합니다. 어린 시절과 가족의 추억, 친구들과의 순간, 제 책의 홍보와 인정에 관련된 사진, 인물 사진과 창의적인 편집 작품을 담았습니다. 제작 중인 Minecraft 스토리 서버 THE APEX의 아트워크와 11.67초 분량의 애니메이션도 있습니다. 제 창작 세계의 조금 더 개인적인 모습을 함께 나눌 수 있어 반갑습니다.
+저는 Kabir라는 이름으로도 알려진 Bardiya Alizadeh이며, Farland_game이라는 이름으로 창작하는 아티스트입니다. 개인 데스크톱 아카이브에서 이미지 134장과 영상 12편을 골라 공유합니다. 어린 시절과 가족의 추억, 친구들과의 순간, 제 책의 홍보와 인정에 관련된 사진, 인물 사진과 창의적인 편집 작품을 담았습니다. 제작 중인 Minecraft 스토리 서버 THE APEX의 아트워크와 11.67초 분량의 애니메이션도 있습니다. 제 창작 세계의 조금 더 개인적인 모습을 함께 나눌 수 있어 반갑습니다.
 
-[▶ 사진과 아트워크 + 영상과 편집 작품](https://farlandgame.github.io/Personal-Portfolio/) · [이미지 136장 전체](https://github.com/FarlandGame/Personal-Portfolio/blob/main/gallery/ko/all.md) · [GitHub 포트폴리오](https://github.com/FarlandGame)
+[▶ 사진과 아트워크 + 영상과 편집 작품](https://farlandgame.github.io/Personal-Portfolio/) · [이미지 134장 전체](https://github.com/FarlandGame/Personal-Portfolio/blob/main/gallery/ko/all.md) · [GitHub 포트폴리오](https://github.com/FarlandGame)
 
 > 드디어 제 퀘스트 기록에 컨트롤러를 쥔 사람도 등장하네요.
 
@@ -26,8 +26,8 @@
 
 Images personal-008, personal-042, personal-088 and personal-103 are exceptions: phone-screen margins or unrelated surrounding page content were cropped at the creator’s request; the retained photograph pixels were not retouched.
 
-- [개인과 가족의 추억](https://farlandgame.github.io/Personal-Portfolio/#category-memories) · 84 📸 · 5 🎬
-- [인물 사진 편집](https://farlandgame.github.io/Personal-Portfolio/#category-portraits) · 35 📸 · 5 🎬
+- [개인과 가족의 추억](https://farlandgame.github.io/Personal-Portfolio/#category-memories) · 83 📸 · 5 🎬
+- [인물 사진 편집](https://farlandgame.github.io/Personal-Portfolio/#category-portraits) · 34 📸 · 5 🎬
 - [책에 얽힌 추억](https://farlandgame.github.io/Personal-Portfolio/#category-book) · 10 📸 · 1 🎬
 - [THE APEX](https://farlandgame.github.io/Personal-Portfolio/#category-apex) · 7 📸 · 1 🎬
 

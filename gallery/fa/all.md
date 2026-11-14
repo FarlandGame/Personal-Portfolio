@@ -1,4 +1,4 @@
-# هر ۱۳۶ عکس و تصویر 📸
+# هر ۱۳۴ عکس و تصویر 📸
 
 [پروفایل گیت‌هاب](https://github.com/FarlandGame) · [داستان من؛ کبیر پشت نام Farland_game](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.fa.md) · [▶ عکس‌ها و تصویرها + ویدئوها و ادیت‌ها](https://farlandgame.github.io/Personal-Portfolio/?lang=fa)
 
@@ -8,22 +8,13 @@
 
 عکس‌های ۰۰۸، ۰۴۲، ۰۸۸ و ۱۰۳ استثنا هستند: به درخواست سازنده، حاشیه‌های صفحهٔ گوشی یا مطالب نامربوطِ اطراف عکس برش خورده‌اند و پیکسل‌های داخل خود عکس‌ها بدون روتوش حفظ شده‌اند.
 
-## personal-001 · ادیت‌های پرتره
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-001.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-001.jpg" width="650" alt="personal-001 · ادیت‌های پرتره" loading="lazy"></a>
-
-[دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-001.jpg)
-
-این تصویر مربوط به صحنه‌ای از فیلمی است که با Photoshop و هوش مصنوعی برای خودم ساختم. مرجع و الهامم بخشی از سریال Better Call Saul و سال گودمن بود؛ شخصیتی که دوستش دارم و الگوی من است. می‌خواستم فیلم خودم را بسازم، اما دوربین مناسب و بودجهٔ فیلم‌برداری نداشتم. به‌جایش با چند ابزار هوش مصنوعیِ فیلم‌ساز کار کردم و حدود دو هفته برای ساختن آن وقت گذاشتم. این چهار تصویر مربوط به صحنه‌های همان پروژه‌اند.
-
-
 ## personal-002 · ادیت‌های پرتره
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-002.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-002.jpg" width="650" alt="personal-002 · ادیت‌های پرتره" loading="lazy"></a>
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-002.jpg)
 
-این تصویر مربوط به صحنه‌ای از فیلمی است که با Photoshop و هوش مصنوعی برای خودم ساختم. مرجع و الهامم بخشی از سریال Better Call Saul و سال گودمن بود؛ شخصیتی که دوستش دارم و الگوی من است. می‌خواستم فیلم خودم را بسازم، اما دوربین مناسب و بودجهٔ فیلم‌برداری نداشتم. به‌جایش با چند ابزار هوش مصنوعیِ فیلم‌ساز کار کردم و حدود دو هفته برای ساختن آن وقت گذاشتم. این چهار تصویر مربوط به صحنه‌های همان پروژه‌اند.
+این تصویر مربوط به صحنه‌ای از فیلمی است که با Photoshop و هوش مصنوعی برای خودم ساختم. مرجع و الهامم بخشی از سریال Better Call Saul و سال گودمن بود؛ شخصیتی که دوستش دارم و الگوی من است. می‌خواستم فیلم خودم را بسازم، اما دوربین مناسب و بودجهٔ فیلم‌برداری نداشتم. به‌جایش با چند ابزار هوش مصنوعیِ فیلم‌ساز کار کردم و حدود دو هفته برای ساختن آن وقت گذاشتم. این تصویرها مربوط به صحنه‌های همان پروژه‌اند.
 
 
 ## personal-003 · ادیت‌های پرتره
@@ -32,7 +23,7 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-003.jpg)
 
-این تصویر مربوط به صحنه‌ای از فیلمی است که با Photoshop و هوش مصنوعی برای خودم ساختم. مرجع و الهامم بخشی از سریال Better Call Saul و سال گودمن بود؛ شخصیتی که دوستش دارم و الگوی من است. می‌خواستم فیلم خودم را بسازم، اما دوربین مناسب و بودجهٔ فیلم‌برداری نداشتم. به‌جایش با چند ابزار هوش مصنوعیِ فیلم‌ساز کار کردم و حدود دو هفته برای ساختن آن وقت گذاشتم. این چهار تصویر مربوط به صحنه‌های همان پروژه‌اند.
+این تصویر مربوط به صحنه‌ای از فیلمی است که با Photoshop و هوش مصنوعی برای خودم ساختم. مرجع و الهامم بخشی از سریال Better Call Saul و سال گودمن بود؛ شخصیتی که دوستش دارم و الگوی من است. می‌خواستم فیلم خودم را بسازم، اما دوربین مناسب و بودجهٔ فیلم‌برداری نداشتم. به‌جایش با چند ابزار هوش مصنوعیِ فیلم‌ساز کار کردم و حدود دو هفته برای ساختن آن وقت گذاشتم. این تصویرها مربوط به صحنه‌های همان پروژه‌اند.
 
 
 ## personal-004 · ادیت‌های پرتره
@@ -41,7 +32,7 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-004.jpg)
 
-این تصویر مربوط به صحنه‌ای از فیلمی است که با Photoshop و هوش مصنوعی برای خودم ساختم. مرجع و الهامم بخشی از سریال Better Call Saul و سال گودمن بود؛ شخصیتی که دوستش دارم و الگوی من است. می‌خواستم فیلم خودم را بسازم، اما دوربین مناسب و بودجهٔ فیلم‌برداری نداشتم. به‌جایش با چند ابزار هوش مصنوعیِ فیلم‌ساز کار کردم و حدود دو هفته برای ساختن آن وقت گذاشتم. این چهار تصویر مربوط به صحنه‌های همان پروژه‌اند.
+این تصویر مربوط به صحنه‌ای از فیلمی است که با Photoshop و هوش مصنوعی برای خودم ساختم. مرجع و الهامم بخشی از سریال Better Call Saul و سال گودمن بود؛ شخصیتی که دوستش دارم و الگوی من است. می‌خواستم فیلم خودم را بسازم، اما دوربین مناسب و بودجهٔ فیلم‌برداری نداشتم. به‌جایش با چند ابزار هوش مصنوعیِ فیلم‌ساز کار کردم و حدود دو هفته برای ساختن آن وقت گذاشتم. این تصویرها مربوط به صحنه‌های همان پروژه‌اند.
 
 
 ## personal-005 · THE APEX
@@ -954,15 +945,6 @@
 در این عکس، برادر دوقلویم ارمیا در حال گرفتن سلفی با آقای طاها بامشاد در همان کلاس فن بیان است. هر دو دورهٔ تابستان ۱۴۰۳ را گذراندیم و این یادگاریِ ارمیا با مدرس‌مان است.
 
 
-## personal-095 · خاطرات شخصی و خانوادگی
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-095.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-095.jpg" width="650" alt="personal-095 · خاطرات شخصی و خانوادگی" loading="lazy"></a>
-
-[دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-095.jpg)
-
-این عکس اردکم است که خیلی دوستش داشتم. در خانهٔ مادربزرگم، عزیز، گربه‌ای آن را گرفت و از دستش دادم. این عکس را به‌عنوان یادگاریِ حیوانی که دوستش داشتم نگه داشته‌ام.
-
-
 ## personal-096 · THE APEX
 
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-096.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-096.jpg" width="650" alt="personal-096 · THE APEX" loading="lazy"></a>
@@ -1109,7 +1091,7 @@
 
 [دیدن / دانلود](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-111.jpg)
 
-این تصویر خودم را با هوش مصنوعی و Photoshop برای پروژهٔ ویدئویی الهام‌گرفته از Better Call Saul ساختم. مربوط به همان پروژهٔ خلاقانهٔ عکس‌های ۰۰۱ تا ۰۰۴ و فیلم personal-video-12 است.
+این تصویر خودم را با هوش مصنوعی و Photoshop برای پروژهٔ ویدئویی الهام‌گرفته از Better Call Saul ساختم. مربوط به همان پروژهٔ خلاقانهٔ عکس‌های ۰۰۲ تا ۰۰۴ و فیلم personal-video-12 است.
 
 
 ## personal-112 · ادیت‌های پرتره

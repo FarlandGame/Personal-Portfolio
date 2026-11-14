@@ -1,4 +1,4 @@
-# Semua 136 gambar 📸
+# Semua 134 gambar 📸
 
 [Portofolio GitHub](https://github.com/FarlandGame) · [Arsip pribadi saya — Kabir di balik Farland_game](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.id.md) · [▶ Foto dan karya visual + Video dan suntingan](https://farlandgame.github.io/Personal-Portfolio/)
 
@@ -7,12 +7,6 @@ Materi disusun menurut urutan katalog, bukan kronologi yang telah dipastikan.
 **Viewing copies: images resized to at most 2048 px with the full frame retained; complete-duration videos recompressed to fit within 1920×1080. Original desktop files remain unchanged.**
 
 Images personal-008, personal-042, personal-088 and personal-103 are exceptions: phone-screen margins or unrelated surrounding page content were cropped at the creator’s request; the retained photograph pixels were not retouched.
-
-## personal-001 · Suntingan potret
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-001.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-001.jpg" width="650" alt="personal-001 · Suntingan potret" loading="lazy"></a>
-
-[Lihat / unduh](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-001.jpg)
 
 ## personal-002 · Suntingan potret
 
@@ -559,12 +553,6 @@ Images personal-008, personal-042, personal-088 and personal-103 are exceptions:
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-094.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-094.jpg" width="650" alt="personal-094 · Kenangan pribadi dan keluarga" loading="lazy"></a>
 
 [Lihat / unduh](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-094.jpg)
-
-## personal-095 · Kenangan pribadi dan keluarga
-
-<a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-095.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-095.jpg" width="650" alt="personal-095 · Kenangan pribadi dan keluarga" loading="lazy"></a>
-
-[Lihat / unduh](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-095.jpg)
 
 ## personal-096 · THE APEX
 
