@@ -1,5 +1,7 @@
 # Gol ya Pooch with Grandma’s cat. · personal-video-05
 
+[Русский](personal-video-05.ru.md)
+
 [![personal-video-05](../images/personal-video-05.jpg)](https://farlandgame.github.io/Personal-Portfolio/?lang=en#personal-video-05)
 
 [Watch the full video](https://farlandgame.github.io/Personal-Portfolio/?lang=en#personal-video-05) · [MP4](../videos/personal-video-05.mp4)

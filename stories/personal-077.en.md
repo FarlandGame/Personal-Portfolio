@@ -1,5 +1,7 @@
 # personal-077
 
+[Русский](personal-077.ru.md)
+
 ![personal-077](../images/personal-077.jpg)
 
 This photograph is a memory of the ten-session public-speaking course that my twin brother and I took with Taha Bamshad during the summer, in Mordad and Shahrivar 1403 in the Iranian calendar.

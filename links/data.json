@@ -5,7 +5,8 @@
     "label": {
       "en": "GitHub",
       "fa": "GitHub",
-      "ja": "GitHub"
+      "ja": "GitHub",
+      "ru": "GitHub"
     },
     "category": "work",
     "icon": "GH"
@@ -16,7 +17,8 @@
     "label": {
       "en": "YouTube · Farland_game",
       "fa": "یوتیوب · Farland_game",
-      "ja": "YouTube · Farland_game"
+      "ja": "YouTube · Farland_game",
+      "ru": "YouTube · Farland_game"
     },
     "category": "video",
     "icon": "YT"
@@ -27,7 +29,8 @@
     "label": {
       "en": "YouTube · Farland_animation",
       "fa": "یوتیوب · Farland_animation",
-      "ja": "YouTube · Farland_animation"
+      "ja": "YouTube · Farland_animation",
+      "ru": "YouTube · Farland_animation"
     },
     "category": "video",
     "icon": "YA"
@@ -38,7 +41,8 @@
     "label": {
       "en": "Rubika · Main channel",
       "fa": "روبیکا · کانال اصلی",
-      "ja": "Rubika · メインチャンネル"
+      "ja": "Rubika · メインチャンネル",
+      "ru": "Rubika · Основной канал"
     },
     "category": "social",
     "icon": "RU"
@@ -49,7 +53,8 @@
     "label": {
       "en": "Rubika · Animation channel",
       "fa": "روبیکا · کانال انیمیشن",
-      "ja": "Rubika · アニメーション"
+      "ja": "Rubika · アニメーション",
+      "ru": "Rubika · Анимационный канал"
     },
     "category": "social",
     "icon": "RA"
@@ -60,7 +65,8 @@
     "label": {
       "en": "Rubika · Main page",
       "fa": "روبیکا · صفحهٔ اصلی",
-      "ja": "Rubika · メインページ"
+      "ja": "Rubika · メインページ",
+      "ru": "Rubika · Основная страница"
     },
     "category": "social",
     "icon": "RP"
@@ -71,7 +77,8 @@
     "label": {
       "en": "Rubika · Animation page",
       "fa": "روبیکا · صفحهٔ انیمیشن",
-      "ja": "Rubika · アニメページ"
+      "ja": "Rubika · アニメページ",
+      "ru": "Rubika · Страница анимации"
     },
     "category": "social",
     "icon": "RF"
@@ -82,7 +89,8 @@
     "label": {
       "en": "Instagram",
       "fa": "اینستاگرام",
-      "ja": "Instagram"
+      "ja": "Instagram",
+      "ru": "Instagram"
     },
     "category": "social",
     "icon": "IG"
@@ -93,7 +101,8 @@
     "label": {
       "en": "Telegram · Farland_game",
       "fa": "تلگرام · Farland_game",
-      "ja": "Telegram · Farland_game"
+      "ja": "Telegram · Farland_game",
+      "ru": "Telegram · Farland_game"
     },
     "category": "social",
     "icon": "TG"
@@ -104,7 +113,8 @@
     "label": {
       "en": "Telegram · Animation",
       "fa": "تلگرام · انیمیشن",
-      "ja": "Telegram · アニメーション"
+      "ja": "Telegram · アニメーション",
+      "ru": "Telegram · Анимация"
     },
     "category": "social",
     "icon": "TA"
@@ -115,7 +125,8 @@
     "label": {
       "en": "Farland Music Bot",
       "fa": "ربات موسیقی فارلند",
-      "ja": "Farland Music Bot"
+      "ja": "Farland Music Bot",
+      "ru": "Farland Music Bot"
     },
     "category": "music",
     "icon": "♫"
@@ -126,7 +137,8 @@
     "label": {
       "en": "Twitch",
       "fa": "توییچ",
-      "ja": "Twitch"
+      "ja": "Twitch",
+      "ru": "Twitch"
     },
     "category": "gaming",
     "icon": "TW"
@@ -137,7 +149,8 @@
     "label": {
       "en": "Kick",
       "fa": "کیک",
-      "ja": "Kick"
+      "ja": "Kick",
+      "ru": "Kick"
     },
     "category": "gaming",
     "icon": "K"
@@ -148,7 +161,8 @@
     "label": {
       "en": "Aparat",
       "fa": "آپارات",
-      "ja": "Aparat"
+      "ja": "Aparat",
+      "ru": "Aparat"
     },
     "category": "video",
     "icon": "AP"
@@ -159,7 +173,8 @@
     "label": {
       "en": "THE APEX · YouTube",
       "fa": "THE APEX · یوتیوب",
-      "ja": "THE APEX · YouTube"
+      "ja": "THE APEX · YouTube",
+      "ru": "THE APEX · YouTube"
     },
     "category": "community",
     "icon": "AX"
@@ -170,7 +185,8 @@
     "label": {
       "en": "THE APEX · Telegram",
       "fa": "THE APEX · تلگرام",
-      "ja": "THE APEX · Telegram"
+      "ja": "THE APEX · Telegram",
+      "ru": "THE APEX · Telegram"
     },
     "category": "community",
     "icon": "AT"
@@ -181,7 +197,8 @@
     "label": {
       "en": "Manhunt · Telegram group",
       "fa": "منهانت · گروه تلگرام",
-      "ja": "Manhunt · Telegramグループ"
+      "ja": "Manhunt · Telegramグループ",
+      "ru": "Manhunt · Telegram group"
     },
     "category": "community",
     "icon": "MH"
@@ -192,7 +209,8 @@
     "label": {
       "en": "ArmiyaFabix · My twin brother",
       "fa": "ArmiyaFabix · برادر دوقلویم",
-      "ja": "ArmiyaFabix · 双子の弟"
+      "ja": "ArmiyaFabix · 双子の弟",
+      "ru": "ArmiyaFabix · My twin brother"
     },
     "category": "video",
     "icon": "AF"
@@ -203,7 +221,8 @@
     "label": {
       "en": "Support · Reymit",
       "fa": "حمایت · ریمیت",
-      "ja": "応援 · Reymit"
+      "ja": "応援 · Reymit",
+      "ru": "Поддержка · Reymit"
     },
     "category": "support",
     "icon": "♥"
@@ -214,7 +233,8 @@
     "label": {
       "en": "SoundCloud",
       "fa": "ساندکلاد",
-      "ja": "SoundCloud"
+      "ja": "SoundCloud",
+      "ru": "SoundCloud"
     },
     "category": "music",
     "icon": "SC"
@@ -225,7 +245,8 @@
     "label": {
       "en": "Roblox · farland_game0",
       "fa": "روبلاکس · farland_game0",
-      "ja": "Roblox · farland_game0"
+      "ja": "Roblox · farland_game0",
+      "ru": "Roblox · farland_game0"
     },
     "category": "gaming",
     "icon": "RB"
@@ -236,7 +257,8 @@
     "label": {
       "en": "Work enquiries · Email",
       "fa": "ارتباط کاری · ایمیل",
-      "ja": "仕事の問い合わせ · メール"
+      "ja": "仕事の問い合わせ · メール",
+      "ru": "Рабочая связь · почта"
     },
     "category": "work",
     "icon": "@"

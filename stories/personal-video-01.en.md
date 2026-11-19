@@ -1,5 +1,7 @@
 # One of my early video edits of myself — edited by me. · personal-video-01
 
+[Русский](personal-video-01.ru.md)
+
 [![personal-video-01](../images/personal-video-01.jpg)](https://farlandgame.github.io/Personal-Portfolio/?lang=en#personal-video-01)
 
 [Watch the full video](https://farlandgame.github.io/Personal-Portfolio/?lang=en#personal-video-01) · [MP4](../videos/personal-video-01.mp4)

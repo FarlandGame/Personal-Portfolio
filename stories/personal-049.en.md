@@ -1,5 +1,7 @@
 # personal-049
 
+[Русский](personal-049.ru.md)
+
 ![personal-049](../images/personal-049.jpg)
 
 Photograph personal-049 shows two of their chicks. I remember the chicks taking after their father’s colour.

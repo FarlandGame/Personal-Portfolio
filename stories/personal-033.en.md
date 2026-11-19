@@ -1,5 +1,7 @@
 # personal-033
 
+[Русский](personal-033.ru.md)
+
 ![personal-033](../images/personal-033.jpg)
 
 These photographs show the book-authorship appreciation certificate and the flowers from a day that meant a great deal to me. I had given the education department a copy of my book months earlier. When the authors’ recognition event finally came, I was told I was the only fifteen-year-old in the group and that perhaps I should not attend among the adults. I felt that having a young author should have been a reason to welcome me, and I insisted on going.

@@ -1,5 +1,7 @@
 # personal-062
 
+[Русский](personal-062.ru.md)
+
 ![personal-062](../images/personal-062.jpg)
 
 I remember this as a ninth-grade photograph, from around 1402 or 1403 in the Iranian calendar; I am not certain of the year. My grey sports clothes remind me that it was a Monday, when we had physical education in the first lesson.

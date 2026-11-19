@@ -1,5 +1,7 @@
 # 『ベター・コール・ソウル』に着想を得たシネマティックなセルフポートレート。 · personal-video-12
 
+[Русский](personal-video-12.ru.md)
+
 [![personal-video-12](../images/personal-video-12.jpg)](https://farlandgame.github.io/Personal-Portfolio/?lang=ja#personal-video-12)
 
 [動画の全編を見る](https://farlandgame.github.io/Personal-Portfolio/?lang=ja#personal-video-12) · [MP4](../videos/personal-video-12.mp4)

@@ -1,5 +1,7 @@
 # personal-083
 
+[Русский](personal-083.ru.md)
+
 ![personal-083](../images/personal-083.jpg)
 
 This is another pose from the same photo session as photograph personal-082. My uncle Siamak took the picture at his home in Tehran. I kept it as another memory of that visit.

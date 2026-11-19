@@ -1,5 +1,7 @@
 # personal-059
 
+[Русский](personal-059.ru.md)
+
 ![personal-059](../images/personal-059.jpg)
 
 その夜、本の序文のページも写真に撮りました。

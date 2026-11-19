@@ -3443,7 +3443,7 @@
       "download_url": "https://github.com/FarlandGame/Animation-Portfolio/releases/download/roblox-collection/RobloxEdit4.mp4"
     }
   ],
-  "story_status": "Creator-supplied stories recorded for all 134 published images, in English, Persian and Japanese. Uncertain details remain identified as recollections.",
+  "story_status": "Creator accounts preserved in English, Persian and Japanese for all 134 images; concise Russian translations added for all images. Uncertainty remains marked as recollection.",
   "excluded_images": [
     {
       "id": "personal-046",
@@ -3476,9 +3476,17 @@
     "languages": [
       "en",
       "fa",
-      "ja"
+      "ja",
+      "ru"
     ],
     "index": "stories/videos.md",
-    "status": "Complete"
-  }
+    "status": "Complete",
+    "russian_scope": "concise translations"
+  },
+  "interface_languages": [
+    "en",
+    "fa",
+    "ja",
+    "ru"
+  ]
 }

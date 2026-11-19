@@ -1,5 +1,7 @@
 # personal-112
 
+[Русский](personal-112.ru.md)
+
 ![personal-112](../images/personal-112.jpg)
 
 I made this AI-and-Photoshop composite of myself with a depiction of Ferdowsi for a classroom presentation about him. Ferdowsi is someone I deeply admire and another of my role models.

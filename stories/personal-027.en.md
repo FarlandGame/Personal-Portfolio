@@ -1,5 +1,7 @@
 # personal-027
 
+[Русский](personal-027.ru.md)
+
 ![personal-027](../images/personal-027.jpg)
 
 This photograph is from Dey 1404 in the Iranian calendar, during our first-term school exams. It was a beautiful snowy day. I am in the middle; Amir Hossein Sadegh is on the right of the photograph, and Ali Heydari is on the left.

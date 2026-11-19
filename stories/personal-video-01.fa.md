@@ -1,5 +1,7 @@
 # یکی از ادیت‌های ویدئویی اولیه‌ام از خودم؛ با تدوین خودم. · personal-video-01
 
+[Русский](personal-video-01.ru.md)
+
 [![personal-video-01](../images/personal-video-01.jpg)](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#personal-video-01)
 
 [تماشای ویدئوی کامل](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#personal-video-01) · [MP4](../videos/personal-video-01.mp4)

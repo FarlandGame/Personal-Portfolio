@@ -1,5 +1,7 @@
 # A look inside the silver-jewellery workshop. · personal-video-06
 
+[Русский](personal-video-06.ru.md)
+
 [![personal-video-06](../images/personal-video-06.jpg)](https://farlandgame.github.io/Personal-Portfolio/?lang=en#personal-video-06)
 
 [Watch the full video](https://farlandgame.github.io/Personal-Portfolio/?lang=en#personal-video-06) · [MP4](../videos/personal-video-06.mp4)

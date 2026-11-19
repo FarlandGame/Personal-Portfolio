@@ -1,5 +1,7 @@
 # Receiving recognition for my book—a bittersweet memory. · personal-video-09
 
+[Русский](personal-video-09.ru.md)
+
 [![personal-video-09](../images/personal-video-09.jpg)](https://farlandgame.github.io/Personal-Portfolio/?lang=en#personal-video-09)
 
 [Watch the full video](https://farlandgame.github.io/Personal-Portfolio/?lang=en#personal-video-09) · [MP4](../videos/personal-video-09.mp4)

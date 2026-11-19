@@ -1,5 +1,7 @@
 # از «فعلاً کاری نیست» تا یک انیمیشن رندوم برای THE APEX! · personal-video-10
 
+[Русский](personal-video-10.ru.md)
+
 [![personal-video-10](../images/personal-video-10.jpg)](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#personal-video-10)
 
 [تماشای ویدئوی کامل](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#personal-video-10) · [MP4](../videos/personal-video-10.mp4)

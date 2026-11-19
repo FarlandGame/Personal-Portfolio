@@ -1,5 +1,7 @@
 # personal-049
 
+[Русский](personal-049.ru.md)
+
 ![personal-049](../images/personal-049.jpg)
 
 写真personal-049に写っているのは、親鳥から生まれたひな2羽です。父鳥と同じような色になったと覚えています。

@@ -1,5 +1,7 @@
 # personal-065
 
+[Русский](personal-065.ru.md)
+
 ![personal-065](../images/personal-065.jpg)
 
 同じテヘランの本のフェスティバルへの訪問で撮った、母の写真です。

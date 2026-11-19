@@ -1,5 +1,7 @@
 # A cinematic self-portrait inspired by Better Call Saul. · personal-video-12
 
+[Русский](personal-video-12.ru.md)
+
 [![personal-video-12](../images/personal-video-12.jpg)](https://farlandgame.github.io/Personal-Portfolio/?lang=en#personal-video-12)
 
 [Watch the full video](https://farlandgame.github.io/Personal-Portfolio/?lang=en#personal-video-12) · [MP4](../videos/personal-video-12.mp4)

@@ -1,5 +1,7 @@
 # گل یا پوچ با گربهٔ عزیز! · personal-video-05
 
+[Русский](personal-video-05.ru.md)
+
 [![personal-video-05](../images/personal-video-05.jpg)](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#personal-video-05)
 
 [تماشای ویدئوی کامل](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#personal-video-05) · [MP4](../videos/personal-video-05.mp4)

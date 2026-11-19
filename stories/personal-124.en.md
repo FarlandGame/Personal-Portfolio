@@ -1,5 +1,7 @@
 # personal-124
 
+[Русский](personal-124.ru.md)
+
 ![personal-124](../images/personal-124.jpg)
 
 This is a photograph of me as a child, kept among my early family pictures.

@@ -1,5 +1,7 @@
 # personal-023
 
+[Русский](personal-023.ru.md)
+
 ![personal-023](../images/personal-023.jpg)
 
 These photographs are from my first visit to my friend Ali Heydari’s home. Ali is one school year ahead of me. I am the one wearing sunglasses and a cream-coloured outfit; Ali is wearing glasses. My twin brother Armiya did not come with us, so it was just the two of us playing games and talking. I had a wonderful time and hope we can do it again.

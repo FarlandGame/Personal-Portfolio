@@ -1,5 +1,7 @@
 # personal-064
 
+[Русский](personal-064.ru.md)
+
 ![personal-064](../images/personal-064.jpg)
 
 これは、テヘランで毎年開かれる本のフェスティバルを訪れたときの写真です。写真personal-060にあるClassinoのMinecraft風の宣伝エリアやSteveの帽子と同じ日の思い出です。テヘランに滞在していたので、一緒にフェスティバルへ出かけました。

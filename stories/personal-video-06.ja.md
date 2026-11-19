@@ -1,5 +1,7 @@
 # 銀のジュエリー工房の様子。 · personal-video-06
 
+[Русский](personal-video-06.ru.md)
+
 [![personal-video-06](../images/personal-video-06.jpg)](https://farlandgame.github.io/Personal-Portfolio/?lang=ja#personal-video-06)
 
 [動画の全編を見る](https://farlandgame.github.io/Personal-Portfolio/?lang=ja#personal-video-06) · [MP4](../videos/personal-video-06.mp4)

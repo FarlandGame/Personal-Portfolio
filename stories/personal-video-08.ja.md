@@ -1,5 +1,7 @@
 # サングラス、友達、そして教室での髪型チェック。 · personal-video-08
 
+[Русский](personal-video-08.ru.md)
+
 [![personal-video-08](../images/personal-video-08.jpg)](https://farlandgame.github.io/Personal-Portfolio/?lang=ja#personal-video-08)
 
 [動画の全編を見る](https://farlandgame.github.io/Personal-Portfolio/?lang=ja#personal-video-08) · [MP4](../videos/personal-video-08.mp4)

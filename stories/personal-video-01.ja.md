@@ -1,5 +1,7 @@
 # 自分を題材にした初期の動画編集のひとつ。編集は自分で手がけました。 · personal-video-01
 
+[Русский](personal-video-01.ru.md)
+
 [![personal-video-01](../images/personal-video-01.jpg)](https://farlandgame.github.io/Personal-Portfolio/?lang=ja#personal-video-01)
 
 [動画の全編を見る](https://farlandgame.github.io/Personal-Portfolio/?lang=ja#personal-video-01) · [MP4](../videos/personal-video-01.mp4)

@@ -1,5 +1,7 @@
 # personal-092
 
+[Русский](personal-092.ru.md)
+
 ![personal-092](../images/personal-092.jpg)
 
 This photograph is from a family celebration after my swimming competition. I remember finishing first, as described in the swimming section of my portfolio. That evening my mother and father bought a cake and took this photograph of me with the certificate.

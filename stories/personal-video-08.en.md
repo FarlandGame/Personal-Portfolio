@@ -1,5 +1,7 @@
 # Sunglasses, friends and a classroom hair review. · personal-video-08
 
+[Русский](personal-video-08.ru.md)
+
 [![personal-video-08](../images/personal-video-08.jpg)](https://farlandgame.github.io/Personal-Portfolio/?lang=en#personal-video-08)
 
 [Watch the full video](https://farlandgame.github.io/Personal-Portfolio/?lang=en#personal-video-08) · [MP4](../videos/personal-video-08.mp4)

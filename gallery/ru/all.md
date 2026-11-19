@@ -1,5 +1,7 @@
 # Все 134 изображений 📸
 
+[Галерея с русским интерфейсом и историями](https://farlandgame.github.io/Personal-Portfolio/?lang=ru) · [Русские рассказы](https://github.com/FarlandGame/Personal-Portfolio/blob/main/stories/README.ru.md)
+
 [Портфолио на GitHub](https://github.com/FarlandGame) · [Мой личный архив — Кабир за Farland_game](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.ru.md) · [▶ Фотографии и визуальные работы + Видео и монтажи](https://farlandgame.github.io/Personal-Portfolio/)
 
 Материалы расположены в порядке каталога, а не по подтверждённой хронологии.
@@ -815,4 +817,3 @@ Images personal-008, personal-042, personal-088 and personal-103 are exceptions:
 <a href="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-140.jpg"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-140.jpg" width="650" alt="personal-140 · Обработанные портреты" loading="lazy"></a>
 
 [Посмотреть / скачать](https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/images/personal-140.jpg)
-

@@ -1,5 +1,7 @@
 # personal-105
 
+[Русский](personal-105.ru.md)
+
 ![personal-105](../images/personal-105.jpg)
 
 I put several photographs of myself together in one frame to make this collage. I thought the photographs were particularly good at the time, and wanted to keep them together in one presentation.

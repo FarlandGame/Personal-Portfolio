@@ -1,5 +1,7 @@
 # おばあちゃんの猫と「Gol ya Pooch」。 · personal-video-05
 
+[Русский](personal-video-05.ru.md)
+
 [![personal-video-05](../images/personal-video-05.jpg)](https://farlandgame.github.io/Personal-Portfolio/?lang=ja#personal-video-05)
 
 [動画の全編を見る](https://farlandgame.github.io/Personal-Portfolio/?lang=ja#personal-video-05) · [MP4](../videos/personal-video-05.mp4)

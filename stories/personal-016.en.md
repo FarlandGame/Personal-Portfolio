@@ -1,5 +1,7 @@
 # personal-016
 
+[Русский](personal-016.ru.md)
+
 ![personal-016](../images/personal-016.jpg)
 
 This photograph is from Sizdah Bedar, the thirteenth day of Nowruz 1405 in the Iranian calendar. We went to the dam near Maragheh with my father and his extended family: my two aunts, uncle and his wife, grandmother, my father’s maternal uncle Masoud and his family, cousins and other relatives.

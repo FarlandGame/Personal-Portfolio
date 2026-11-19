@@ -1,5 +1,7 @@
 # personal-133
 
+[Русский](personal-133.ru.md)
+
 ![personal-133](../images/personal-133.jpg)
 
 This is an edited childhood photograph of me. I used AI to add a suit, turning an old picture into a dressed-up variation. The suit was added through the edit.

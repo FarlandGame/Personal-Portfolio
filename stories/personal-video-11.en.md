@@ -1,5 +1,7 @@
 # One of Ashkan’s early After Effects edits—and I got to be in it. · personal-video-11
 
+[Русский](personal-video-11.ru.md)
+
 [![personal-video-11](../images/personal-video-11.jpg)](https://farlandgame.github.io/Personal-Portfolio/?lang=en#personal-video-11)
 
 [Watch the full video](https://farlandgame.github.io/Personal-Portfolio/?lang=en#personal-video-11) · [MP4](../videos/personal-video-11.mp4)

@@ -1,5 +1,7 @@
 # نگاهی به کارگاه جواهرسازی نقره. · personal-video-06
 
+[Русский](personal-video-06.ru.md)
+
 [![personal-video-06](../images/personal-video-06.jpg)](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#personal-video-06)
 
 [تماشای ویدئوی کامل](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#personal-video-06) · [MP4](../videos/personal-video-06.mp4)

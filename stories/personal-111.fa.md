@@ -1,5 +1,7 @@
 # personal-111
 
+[Русский](personal-111.ru.md)
+
 ![personal-111](../images/personal-111.jpg)
 
 این تصویر خودم را با هوش مصنوعی و Photoshop برای پروژهٔ ویدئویی الهام‌گرفته از Better Call Saul ساختم. مربوط به همان پروژهٔ خلاقانهٔ عکس‌های ۰۰۲ تا ۰۰۴ و فیلم personal-video-12 است.

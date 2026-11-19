@@ -1,5 +1,7 @@
 # personal-048
 
+[Русский](personal-048.ru.md)
+
 ![personal-048](../images/personal-048.jpg)
 
 写真personal-048に写っているのは、私たちが飼っていた鳥の家族の親鳥です。

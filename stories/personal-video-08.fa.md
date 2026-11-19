@@ -1,5 +1,7 @@
 # عینک آفتابی، رفیق‌ها و بررسی مدل مو وسط کلاس! · personal-video-08
 
+[Русский](personal-video-08.ru.md)
+
 [![personal-video-08](../images/personal-video-08.jpg)](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#personal-video-08)
 
 [تماشای ویدئوی کامل](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#personal-video-08) · [MP4](../videos/personal-video-08.mp4)

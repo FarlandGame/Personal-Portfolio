@@ -1,5 +1,7 @@
 # Parkar校での9年生の教室の思い出。 · personal-video-04
 
+[Русский](personal-video-04.ru.md)
+
 [![personal-video-04](../images/personal-video-04.jpg)](https://farlandgame.github.io/Personal-Portfolio/?lang=ja#personal-video-04)
 
 [動画の全編を見る](https://farlandgame.github.io/Personal-Portfolio/?lang=ja#personal-video-04) · [MP4](../videos/personal-video-04.mp4)

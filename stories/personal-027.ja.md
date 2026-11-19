@@ -1,5 +1,7 @@
 # personal-027
 
+[Русский](personal-027.ru.md)
+
 ![personal-027](../images/personal-027.jpg)
 
 この写真は、イラン暦1404年のデイ月、学校の前期試験の時期に撮りました。雪が降ったきれいな日でした。中央が私で、写真の右側がAmir Hossein Sadegh、左側がAli Heydariです。

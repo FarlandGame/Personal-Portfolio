@@ -1,5 +1,7 @@
 # 指輪を研磨するArmiya。 · personal-video-07
 
+[Русский](personal-video-07.ru.md)
+
 [![personal-video-07](../images/personal-video-07.jpg)](https://farlandgame.github.io/Personal-Portfolio/?lang=ja#personal-video-07)
 
 [動画の全編を見る](https://farlandgame.github.io/Personal-Portfolio/?lang=ja#personal-video-07) · [MP4](../videos/personal-video-07.mp4)

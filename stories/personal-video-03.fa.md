@@ -1,5 +1,7 @@
 # یک ادیت اولیهٔ دیگر از خودم، با InShot. · personal-video-03
 
+[Русский](personal-video-03.ru.md)
+
 [![personal-video-03](../images/personal-video-03.jpg)](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#personal-video-03)
 
 [تماشای ویدئوی کامل](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#personal-video-03) · [MP4](../videos/personal-video-03.mp4)

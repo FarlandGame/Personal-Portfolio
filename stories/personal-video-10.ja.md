@@ -1,5 +1,7 @@
 # THE APEXの作業の合間に生まれた、Blenderのランダムな一本。 · personal-video-10
 
+[Русский](personal-video-10.ru.md)
+
 [![personal-video-10](../images/personal-video-10.jpg)](https://farlandgame.github.io/Personal-Portfolio/?lang=ja#personal-video-10)
 
 [動画の全編を見る](https://farlandgame.github.io/Personal-Portfolio/?lang=ja#personal-video-10) · [MP4](../videos/personal-video-10.mp4)

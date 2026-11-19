@@ -1,5 +1,7 @@
 # یک خاطرهٔ کلاسی از نهم، در مدرسهٔ پرکار. · personal-video-04
 
+[Русский](personal-video-04.ru.md)
+
 [![personal-video-04](../images/personal-video-04.jpg)](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#personal-video-04)
 
 [تماشای ویدئوی کامل](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#personal-video-04) · [MP4](../videos/personal-video-04.mp4)

@@ -1,5 +1,7 @@
 # personal-077
 
+[Русский](personal-077.ru.md)
+
 ![personal-077](../images/personal-077.jpg)
 
 これは、双子の弟と私がTaha Bamshadのもとで受けた、全10回のスピーチ講座の思い出です。イラン暦1403年の夏、モルダード月とシャフリーヴァル月に通いました。

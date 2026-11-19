@@ -1,5 +1,7 @@
 # A classroom memory from ninth grade at Parkar School. · personal-video-04
 
+[Русский](personal-video-04.ru.md)
+
 [![personal-video-04](../images/personal-video-04.jpg)](https://farlandgame.github.io/Personal-Portfolio/?lang=en#personal-video-04)
 
 [Watch the full video](https://farlandgame.github.io/Personal-Portfolio/?lang=en#personal-video-04) · [MP4](../videos/personal-video-04.mp4)

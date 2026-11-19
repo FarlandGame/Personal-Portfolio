@@ -1,5 +1,7 @@
 # personal-101
 
+[Русский](personal-101.ru.md)
+
 ![personal-101](../images/personal-101.jpg)
 
 I designed this welcome image near the beginning of THE APEX, with text for players to see when entering the server. It is a reminder of the visual ideas I was trying out at the start.

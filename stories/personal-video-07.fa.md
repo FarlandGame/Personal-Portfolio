@@ -1,5 +1,7 @@
 # ارمیا مشغول کار؛ سنباده‌زدن انگشتر. · personal-video-07
 
+[Русский](personal-video-07.ru.md)
+
 [![personal-video-07](../images/personal-video-07.jpg)](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#personal-video-07)
 
 [تماشای ویدئوی کامل](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#personal-video-07) · [MP4](../videos/personal-video-07.mp4)

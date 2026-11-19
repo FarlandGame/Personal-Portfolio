@@ -1,5 +1,7 @@
 # A random Blender animation between THE APEX tasks. · personal-video-10
 
+[Русский](personal-video-10.ru.md)
+
 [![personal-video-10](../images/personal-video-10.jpg)](https://farlandgame.github.io/Personal-Portfolio/?lang=en#personal-video-10)
 
 [Watch the full video](https://farlandgame.github.io/Personal-Portfolio/?lang=en#personal-video-10) · [MP4](../videos/personal-video-10.mp4)

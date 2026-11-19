@@ -1,5 +1,7 @@
 # personal-011
 
+[Русский](personal-011.ru.md)
+
 ![personal-011](../images/personal-011.jpg)
 
 These park-bench photographs mark an important moment in my friendship and collaboration with Ali Dehghannejad, known as Alivexor. Ali is from Tehran, and today I consider him my best friend and collaborator. I was in tenth grade, around fifteen or sixteen, and Ali was around fifteen and one school year below me.

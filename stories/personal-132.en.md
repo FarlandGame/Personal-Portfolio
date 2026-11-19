@@ -1,5 +1,7 @@
 # personal-132
 
+[Русский](personal-132.ru.md)
+
 ![personal-132](../images/personal-132.jpg)
 
 This is my favourite portrait of myself. I have used the base portrait as my profile picture in many places. Of its versions, I like the suit-and-red-tie variation shown here most of all. This is my own preference; both versions are kept together.

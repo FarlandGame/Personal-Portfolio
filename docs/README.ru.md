@@ -1,7 +1,9 @@
 # Мой личный архив — Кабир за Farland_game 📸🎬
 
+[Галерея с русским интерфейсом и историями](https://farlandgame.github.io/Personal-Portfolio/?lang=ru) · [Русские рассказы](https://github.com/FarlandGame/Personal-Portfolio/blob/main/stories/README.ru.md)
+
 <!-- PROJECT_VISUAL_HEADER -->
-<p><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/assets/showcase-card.svg" width="600" alt="personal"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/assets/showcase-sticker.svg" width="90" alt="personal sticker"></p>
+<p><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/showcase/ru/personal.svg" width="600" alt="personal"><img src="https://raw.githubusercontent.com/FarlandGame/FarlandGame/main/assets/showcase/ru/personal-sticker.svg" width="90" alt="personal sticker"></p>
 
 [← Farland_game / Portfolio](https://github.com/FarlandGame#portfolio-directory)
 <!-- PROJECT_VISUAL_HEADER_END -->

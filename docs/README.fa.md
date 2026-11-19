@@ -1,5 +1,8 @@
 # داستان من؛ کبیر پشت نام Farland_game 📸🎬
 
+<!-- FOUR_LANGUAGE_ENTRY -->
+[English](https://github.com/FarlandGame/Personal-Portfolio/blob/main/README.md) · [فارسی](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.fa.md) · [日本語](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.ja.md) · [Русский](https://github.com/FarlandGame/Personal-Portfolio/blob/main/docs/README.ru.md)
+
 <!-- PROJECT_VISUAL_HEADER -->
 <p><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/assets/showcase-card.fa.svg" width="600" alt="داستان من · عکس‌ها و ویدئوها"><img src="https://raw.githubusercontent.com/FarlandGame/Personal-Portfolio/main/assets/showcase-sticker.fa.svg" width="90" alt="داستان من · عکس‌ها و ویدئوها"></p>
 

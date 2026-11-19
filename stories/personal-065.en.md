@@ -1,5 +1,7 @@
 # personal-065
 
+[Русский](personal-065.ru.md)
+
 ![personal-065](../images/personal-065.jpg)
 
 My mother appears in this photograph from that book-festival visit in Tehran.

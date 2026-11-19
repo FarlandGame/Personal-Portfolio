@@ -1,5 +1,7 @@
 # An early editing experiment with InShot. · personal-video-02
 
+[Русский](personal-video-02.ru.md)
+
 [![personal-video-02](../images/personal-video-02.jpg)](https://farlandgame.github.io/Personal-Portfolio/?lang=en#personal-video-02)
 
 [Watch the full video](https://farlandgame.github.io/Personal-Portfolio/?lang=en#personal-video-02) · [MP4](../videos/personal-video-02.mp4)

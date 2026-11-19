@@ -1,5 +1,7 @@
 # AshkanがAfter Effectsを使い始めた頃の編集作品。その主役は私でした。 · personal-video-11
 
+[Русский](personal-video-11.ru.md)
+
 [![personal-video-11](../images/personal-video-11.jpg)](https://farlandgame.github.io/Personal-Portfolio/?lang=ja#personal-video-11)
 
 [動画の全編を見る](https://farlandgame.github.io/Personal-Portfolio/?lang=ja#personal-video-11) · [MP4](../videos/personal-video-11.mp4)

@@ -1,5 +1,7 @@
 # personal-048
 
+[Русский](personal-048.ru.md)
+
 ![personal-048](../images/personal-048.jpg)
 
 Photograph personal-048 shows the parent budgies from the bird family we used to keep.

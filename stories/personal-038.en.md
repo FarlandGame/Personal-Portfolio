@@ -1,5 +1,7 @@
 # personal-038
 
+[Русский](personal-038.ru.md)
+
 ![personal-038](../images/personal-038.jpg)
 
 This image belongs to a series from a rainy day at school. I think it was early Shahrivar, though I am not sure of the exact date. I had brought my earbuds and was listening to music in the schoolyard during the storm, imagining myself as a powerful character. I came back into class with wet hair.

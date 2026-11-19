@@ -1,5 +1,7 @@
 # لحظهٔ تقدیر از کتابم؛ یک خاطرهٔ تلخ‌وشیرین. · personal-video-09
 
+[Русский](personal-video-09.ru.md)
+
 [![personal-video-09](../images/personal-video-09.jpg)](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#personal-video-09)
 
 [تماشای ویدئوی کامل](https://farlandgame.github.io/Personal-Portfolio/?lang=fa#personal-video-09) · [MP4](../videos/personal-video-09.mp4)

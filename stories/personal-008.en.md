@@ -1,5 +1,7 @@
 # personal-008
 
+[Русский](personal-008.ru.md)
+
 ![personal-008](../images/personal-008.png)
 
 This is a real studio photograph. Although it may look AI-made, it was taken in a photography studio. I do not own a suit, even though I would love to have one; the studio had a suit available for the photograph.

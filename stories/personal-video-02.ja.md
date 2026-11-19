@@ -1,5 +1,7 @@
 # InShotを使った初期の編集実験。 · personal-video-02
 
+[Русский](personal-video-02.ru.md)
+
 [![personal-video-02](../images/personal-video-02.jpg)](https://farlandgame.github.io/Personal-Portfolio/?lang=ja#personal-video-02)
 
 [動画の全編を見る](https://farlandgame.github.io/Personal-Portfolio/?lang=ja#personal-video-02) · [MP4](../videos/personal-video-02.mp4)
